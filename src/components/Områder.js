@@ -24,7 +24,7 @@ export const Områder = ({ objects }) => {
     >
       <div className="content">
         <div className="select-wrapper">
-          <label className="select-label">Velg et område</label>
+          <label className="select-label">Velg et boligområde</label>
           <select
             className="select"
             onChange={(e) => {

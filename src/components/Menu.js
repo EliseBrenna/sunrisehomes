@@ -6,7 +6,7 @@ import { Hamburger } from "@fremtind/jkl-hamburger-react";
 const pages = [
   { title: "Hjem", path: "/" },
   { title: "Om", path: "/om" },
-  { title: "Objekter", path: "/objekter" },
+  { title: "Boligobjekter", path: "/objekter" },
   { title: "Kontakt oss", path: "/kontakt" },
 ];
 

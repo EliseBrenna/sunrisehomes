@@ -16,7 +16,7 @@ export const Om = () => {
         <div className="content-container">
           <h2>Formidling av eiendom på solens kyst</h2>
           <p className="page-content">
-            Ja, med 306 soldager i året velger vi å kalle Spanias østkyst
+            Ja, med 320 soldager i året velger vi å kalle Spanias østkyst
             nettopp dette. Vi er et norsk selskap som samarbeider med Mojacar
             Estates, en av de mest solide eiendomsmeglere og utbyggere i
             Andalusía/Almería-regionen i Spania. Mojacar Estates tilbyr boliger
@@ -29,7 +29,7 @@ export const Om = () => {
           </p>
           <div>
             <NavLink href="/objekter" className="link-button">
-              Se objekter
+              Se boligobjekter
             </NavLink>
             <NavLink href="/kontakt" className="link-button">
               Kontakt oss
