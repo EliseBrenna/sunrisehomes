@@ -378,6 +378,7 @@ main {
 
 .pins {
   z-index: 2;
+  position: fixed;
 }
 .pin {
   z-index: 1;
@@ -393,6 +394,7 @@ main {
   animation-name: bounce;
   animation-fill-mode: both;
   animation-duration: 1s;
+  position: fixed;
 }
 
 .mojacar {
