@@ -398,51 +398,61 @@ main {
 .mojacar {
   left: 62%;
   top: 74%;
+  position: fixed;
 }
 
 .garrucha {
   left: 57%;
   top: 79%;
+  position: fixed;
 }
 
 .vera {
   left: 52%;
   top: 95%;
+  position: fixed;
 }
 
 .cabrera {
   left: 67%;
   top: 81%;
+  position: fixed;
 }
 
 .losgallardos {
   left: 63.5%;
   top: 93%;
+  position: fixed;
 }
 
 .antas {
   left: 57%;
   top: 96%;
+  position: fixed;
 }
 
 .calapanizo {
   left: 42.5%;
   top: 85%;
+  position: fixed;
 }
 
 .aguilas {
   left: 20.5%;
   top: 85%;
+  position: fixed;
 }
 
 .pulpi {
   left: 35%;
   top: 96%;
+  position: fixed;
 }
 
 .sanjuan {
   left: 36%;
   top: 89%;
+  position: fixed;
 }
 
 .pin-name {
@@ -469,51 +479,61 @@ main {
 .mojacarname {
   left: 61%;
   top: 77%;
+  position: fixed;
 }
 
 .garruchaname {
   left: 55.5%;
   top: 82%;
+  position: fixed;
 }
 
 .veraname {
   left: 51.5%;
   top: 98%;
+  position: fixed;
 }
 
 .cabreraname {
   left: 65.8%;
   top: 84%;
+  position: fixed;
 }
 
 .losgallardosname {
   left: 61%;
   top: 96%;
+  position: fixed;
 }
 
 .aljarizname {
   left: 56.3%;
   top: 99%;
+  position: fixed;
 }
 
 .calapanizoname {
   left: 40.7%;
   top: 88%;
+  position: fixed;
 }
 
 .aguilasname {
   left: 19.5%;
   top: 88%;
+  position: fixed;
 }
 
 .pulpiname {
   left: 34.5%;
   top: 99%;
+  position: fixed;
 }
 
 .sanjuanname {
   left: 31.5%;
   top: 92%;
+  position: fixed;
 }
 
 @keyframes bouncetext {
