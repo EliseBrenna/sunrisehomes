@@ -42,6 +42,7 @@ export const Områder = ({ objects }) => {
               );
             })}
           </select>
+
           <div className="area-content">
             {objects.map((property, id) => {
               if (value === property.town) {

@@ -58,6 +58,11 @@ h2 {
   margin: 20px 20px 20px 20px;
 }
 
+.header-ingress {
+  padding-top: 10px;
+  font-size: 20px;
+}
+
 .logo {
   max-height: 100px;
 }
@@ -210,7 +215,7 @@ main {
 
 .select {
   font-family: "Inter";
-  padding: 10px;
+  padding: 10px 20px 10px 10px;
   border: 1px solid #040631;
   border-radius: 20px;
   margin-left: 25px;
@@ -219,6 +224,10 @@ main {
   -moz-appearance: none;
   appearance: none;
   display: inline-block;
+  background-image: url("./images/arrow.png");
+  background-repeat: no-repeat;
+  background-position: calc(100% - 10px) center;
+  background-size: 15px;
 }
 
 .select:focus {
@@ -362,18 +371,32 @@ main {
   font-weight: 700;
 }
 
+.jkl-icon {
+  position: absolute;
+
+  left: 30%;
+  top: 27%;
+}
+
+.ocean {
+  position: absolute;
+  top: 70%;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  font-weight: 400;
+}
+
 .map {
   display: flex;
   align-items: flex-end;
 }
 
 .map-img {
-  display: flex;
   width: 100%;
   height: 56%;
   position: fixed;
   left: 0;
-  display: block;
+  bottom: 0;
 }
 
 .pins {
