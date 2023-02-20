@@ -143,6 +143,17 @@ main {
   margin-right: 5px;
 }
 
+.img-3-container {
+  width: 100%;
+  display: flex;
+  padding: 40px 25px 25px 25px;
+  justify-content: space-between;
+}
+
+.img-3 {
+  max-height: 500px;
+}
+
 .img {
   max-height: 600px;
 }
@@ -205,6 +216,10 @@ main {
 }
 
 .nav-card-img {
+  width: 100%;
+}
+
+.select-wrapper {
   width: 100%;
 }
 

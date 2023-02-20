@@ -4,7 +4,7 @@ export const Header = () => {
   return (
     <div className="header">
       <img src={SunriseLogo} alt="logo" className="logo" />
-      <div className="header-ingress">–– Investering i sol og varme</div>
+      <div className="header-ingress">Investering i sol og varme</div>
     </div>
   );
 };
