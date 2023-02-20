@@ -1,8 +1,494 @@
 export const data = {
   property: [
     {
+      id: 2642,
+      date: "2023-02-17 16:37:21",
+      ref: "ME 2642",
+      price: 199995,
+      currency: "EUR",
+      price_freq: "sale",
+      type: "Apartment",
+      town: "Mojacar",
+      province: "Almeria",
+      location: {
+        latitude: 37.113712,
+        longitude: -1.845725,
+      },
+      beds: 3,
+      baths: 2,
+      pool: 1,
+      surface_area: {
+        built: 92,
+        plot: 0,
+      },
+      energy_rating: {
+        consumption: "X",
+        emissions: "X",
+      },
+      url: {
+        en: "https://mojacarestates.com/property/2642/apartment-in-mojacar",
+        es: "https://es.mojacarestates.com/propiedad/2642/apartamento-en-mojacar",
+        fr: "https://fr.mojacarestates.com/propriete/2642/appartement-en-mojacar",
+        nl: "https://nl.mojacarestates.com/woning/2642/appartement-in-mojacar",
+        de: "https://de.mojacarestates.com/immobilien/2642/appartement-in-mojacar",
+      },
+      video_url: "https://youtu.be/PvBv0zAaINc",
+      desc: {
+        en: "Fabulous renovated apartment for sale on Mojacar Playa, Almeria, Andalusia with sea views from the south facing terrace and a parking space and storeroom. Overview Fully renovated 3 bed / 2 bath south facing apartment set on an elevated level offering fine sea and mountain views with a 24.27 m2 of private terrace, private covered parking and secure storeroom in a modern building with a lift and within a short walking distance to the sea and all the services and amenities on the playa. A great opportunity for someone who is looking for a large and modern south facing comfortable apartment ready to move into. Layout The apartment has a built area of 92.37 m2 and is distributed between a living-dining room, south facing terrace with sea and mountain views, open plan fully fitted and equipped kitchen with breakfast bar, separate utility area with plumbing for washing machine, hallway, 3 bedrooms and 2 modern bathrooms with showers. External areas: South facing terrace of 24m2 with new garden furniture ready to enjoy the beautiful views and summer evenings. Sale includes: Furniture, fixtures and fittings as well as all the white goods. Numbered covered parking space. Storeroom. Communal areas: Gorgeous communal pool at the back of the complex surrounded by grass lawns with the mountains as a backdrop and looking out to amazing sea views. Location For the precise location, see the pin on Google maps above. The complex is a 7 minute walk up the hill from the beach and is in a cul-de-sac and so doesn't have any passing traffic. There are also several restaurants and bars within walking distance as well as the popular promenade. Airports Almeria airport is a 45 minute drive, Murcia airport is 1 hour 20 minutes, Alicante airport is 2 hours and Malaga airport is 2 hours 45 minutes. 4 Golf Courses Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. The indicated price does not include the taxes and expenses derived from the sale (ITP at the current tax rate, notary, registration and lawyer fees). We remind you that as a consumer you have the right to be informed and given the corresponding informative documentation, depending on the case, based on the provisions of Decree 218/05 of 11 October which regulates the Regulations on Consumer Information in the sale and rental of housing in Andalusia. About Us Mojacar Estates have been running successfully as an independent property sales and holiday rentals agency since 1982. Our dedicated team, who have all been working within this industry for more than 20 years, offer a professional and knowledgeable service to our clients. Our team speaks fluent Spanish, English and German. We offer properties for sale and rental in Mojacar and surrounding areas of Almeria, including Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos and San Juan de los Terreros. * Vistamar — #ME 2642 * Apartment * Resale * 3 bedrooms * 2 bathrooms * Constructed area 92 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible",
+        es: "Fabuloso apartamento reformado en venta en Mojacar Playa, Almería, Andalucía con vistas al mar desde la terraza orientada al sur y una plaza de aparcamiento y trastero. Resumen Apartamento totalmente reformado de 3 dormitorios / 2 baños orientado al sur situado en un nivel elevado que ofrece vistas al mar y montaña con 24,27 m2 de terraza privada, aparcamiento privado cubierto y trastero seguro en un edificio moderno con ascensor y a poca distancia a pie del mar y todos los servicios y comodidades en la playa. Una gran oportunidad para alguien que busca un amplio y moderno apartamento orientado al sur, cómodo y listo para entrar a vivir. Distribución El apartamento tiene una superficie construida de 92,37 m2 y se distribuye en salón-comedor, terraza orientada al sur con vistas al mar y a la montaña, cocina americana totalmente amueblada y equipada con barra americana, lavadero independiente con lavadora, pasillo, 3 dormitorios y 2 baños modernos con ducha. Zonas exteriores: Terraza orientada al sur de 24m2 con muebles de jardín nuevos listos para disfrutar de las hermosas vistas y las noches de verano. La venta incluye: Muebles, instalaciones y accesorios, así como todos los electrodomésticos. Plaza de aparcamiento cubierta numerada. Trastero. Zonas comunes: Preciosa piscina comunitaria en la parte trasera del complejo rodeada de césped con las montañas como telón de fondo y con vistas al mar. Ubicación Para la ubicación exacta, ver el pin en Google maps arriba. El complejo está a 7 minutos a pie subiendo la colina desde la playa y está en un callejón sin salida y por lo tanto no tiene ningún tráfico de paso. También hay varios restaurantes y bares a poca distancia, así como el popular paseo marítimo. Aeropuertos El aeropuerto de Almería está a 45 minutos en coche, el aeropuerto de Murcia está a 1 hora y 20 minutos, el aeropuerto de Alicante está a 2 horas y el aeropuerto de Málaga está a 2 horas y 45 minutos. 4 Campos de Golf Mojácar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilón Golf. El precio indicado no incluye los impuestos y gastos derivados de la venta (ITP al tipo impositivo vigente, gastos de notaría, registro y abogado). Le recordamos que como consumidor tiene derecho a ser informado y a que se le entregue la documentación informativa correspondiente, según los casos, en base a lo dispuesto en el Decreto 218/05 de 11 de octubre por el que se regula el Reglamento de Información al Consumidor en la compraventa y arrendamiento de viviendas en Andalucía. Sobre Mojácar Mojácar Estates ha estado funcionando con éxito como una agencia independiente de venta de propiedades y alquileres de vacaciones desde 1982. Nuestro equipo dedicado, que han estado trabajando en esta industria durante más de 20 años, ofrecen un servicio profesional y bien informado a nuestros clientes. Nuestro equipo habla español, inglés y alemán con fluidez. Ofrecemos propiedades en venta y alquiler en Mojácar y alrededores de Almería, incluyendo Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos y San Juan de los Terreros. * Vistamar — #ME 2642 * Apartamento * Buen estado * 3 dormitorios * 2 cuartos de baño * Superficie construida 92 m² * Agua General * Luz General * Teléfono Posible * Internet Posible",
+        fr: "Fabuleux appartement rénové à vendre sur Mojacar Playa, Almeria, Andalousie avec des vues sur la mer depuis la terrasse orientée sud et une place de parking et un débarras. Vue générale Appartement entièrement rénové de 3 chambres à coucher et 2 salles de bain, orienté vers le sud, situé sur un niveau élevé et offrant une belle vue sur la mer et les montagnes, avec une terrasse privée de 24,27 m2, un parking privé couvert et un débarras sécurisé dans un immeuble moderne avec ascenseur et à une courte distance de marche de la mer et de tous les services et commodités de la playa. Une grande opportunité pour quelqu'un qui cherche un grand et moderne appartement confortable orienté sud et prêt à emménager. Disposition L'appartement a une superficie construite de 92,37 m2 et est distribué entre un salon-salle à manger, une terrasse orientée sud avec vue sur la mer et les montagnes, une cuisine ouverte entièrement aménagée et équipée avec un bar pour le petit déjeuner, une buanderie séparée avec une plomberie pour la machine à laver, un couloir, 3 chambres et 2 salles de bains modernes avec douches. Espaces extérieurs : Terrasse orientée sud de 24m2 avec mobilier de jardin neuf prêt à profiter des belles vues et des soirées d'été. La vente comprend : Les meubles, les installations et les équipements ainsi que tous les produits blancs. Place de parking couverte numérotée. Un débarras. Zones communes : Superbe piscine commune à l'arrière du complexe, entourée de pelouses, avec les montagnes en toile de fond et des vues incroyables sur la mer. Localisation Pour l'emplacement précis, voir l'épingle sur Google maps ci-dessus. Le complexe se trouve à 7 minutes à pied de la plage, en haut de la colline, dans un cul-de-sac et donc sans trafic de passage. Il y a également plusieurs restaurants et bars à distance de marche ainsi que la promenade populaire. Aéroports L'aéroport d'Almeria est à 45 minutes de route, celui de Murcie à 1 heure 20 minutes, celui d'Alicante à 2 heures et celui de Malaga à 2 heures 45 minutes. 4 terrains de golf Mojacar : Marina de la Torre, Vera : Valle del Este, Cuevas de Almanzora : Desert Springs, Pulpi : Aguilon Golf. Le prix indiqué ne comprend pas les impôts et les frais dérivés de la vente (ITP au taux d'imposition en vigueur, frais de notaire, d'enregistrement et d'avocat). Nous vous rappelons qu'en tant que consommateur, vous avez le droit d'être informé et de recevoir la documentation informative correspondante, selon le cas, sur la base des dispositions du décret 218/05 du 11 octobre qui régit le Règlement sur l'information du consommateur dans la vente et la location de logements en Andalousie. À propos de nous Mojacar Estates est une agence indépendante de vente de propriétés et de location de vacances qui fonctionne avec succès depuis 1982. Notre équipe dévouée, qui travaille dans ce secteur depuis plus de 20 ans, offre un service professionnel et compétent à nos clients. Notre équipe parle couramment l'espagnol, l'anglais et l'allemand. Nous proposons des propriétés à vendre et à louer à Mojacar et dans les environs d'Almeria, notamment à Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos et San Juan de los Terreros. * Vistamar — #ME 2642 * Appartement * Revente * 3 chambres à coucher * 2 salles de bains * Surface habitable 92 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
+        nl: "Fantastisch gerenoveerd appartement te koop op Mojacar Playa, Almeria, Andalusië met uitzicht op zee vanaf het terras op het zuiden en een parkeerplaats en berging. Overzicht Volledig gerenoveerd appartement met 3 slaapkamers / 2 badkamers op het zuiden op een verhoogd niveau met een prachtig uitzicht op zee en de bergen met een eigen terras van 24,27 m2, een eigen overdekte parkeerplaats en een beveiligde berging in een modern gebouw met een lift en op korte loopafstand van de zee en alle diensten en voorzieningen op de playa. Een geweldige kans voor iemand die op zoek is naar een groot en modern comfortabel appartement op het zuiden dat klaar is om in te trekken. Indeling Het appartement heeft een bebouwde oppervlakte van 92,37 m2 en is verdeeld over een woon-eetkamer, terras op het zuiden met uitzicht op zee en de bergen, open volledig ingerichte en uitgeruste keuken met ontbijtbar, aparte bijkeuken met sanitair voor wasmachine, hal, 3 slaapkamers en 2 moderne badkamers met douches. Externe gebieden: Terras op het zuiden van 24m2 met nieuwe tuinmeubelen klaar om te genieten van het prachtige uitzicht en de zomeravonden. Verkoop omvat: Meubels, armaturen en fittingen, evenals al het witgoed. Genummerde overdekte parkeerplaats. Berging. Gemeenschappelijke ruimtes: Prachtig gemeenschappelijk zwembad aan de achterkant van het complex, omgeven door grasvelden met de bergen op de achtergrond en met uitzicht op een prachtig uitzicht op zee. Plaats Voor de precieze locatie, zie de pin op Google maps hierboven. Het complex ligt op 7 minuten lopen van de heuvel van het strand en ligt in een doodlopende straat en heeft dus geen doorgaand verkeer. Er zijn ook diverse restaurants en bars op loopafstand, evenals de populaire promenade. Luchthavens Almeria luchthaven ligt op 45 minuten rijden, Murcia luchthaven is 1 uur 20 minuten, de luchthaven van Alicante is 2 uur en de luchthaven van Malaga is 2 uur en 45 minuten. 4 Golfbanen Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. De aangegeven prijs is exclusief de belastingen en kosten die voortvloeien uit de verkoop (ITP tegen het huidige belastingtarief, notaris-, registratie- en advocaatkosten). Wij herinneren u eraan dat u als consument het recht hebt om geïnformeerd te worden en de bijbehorende informatieve documentatie te krijgen, afhankelijk van het geval, op basis van de bepalingen van decreet 218/05 van 11 oktober dat de voorschriften inzake consumenteninformatie bij de verkoop en verhuur van woningen in Andalusië regelt. Informatie Mojacar Estates draait sinds 1982 met succes als een onafhankelijk makelaarskantoor voor de verkoop van onroerend goed en vakantieverhuur. Ons toegewijde team, dat allemaal al meer dan 20 jaar in deze branche werkt, biedt een professionele en deskundige service aan onze klanten. Ons team spreekt vloeiend Spaans, Engels en Duits. Wij bieden onroerend goed te koop en te huur in Mojacar en de omliggende gebieden van Almeria, waaronder Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos en San Juan de los Terreros. * Vistamar — #ME 2642 * Appartement * Bestaande woning * 3 slaapkamers * 2 badkamers * Bebouwde oppervlakte 92 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk",
+        de: "Fabelhafte renovierte Wohnung zum Verkauf in Mojacar Playa, Almeria, Andalusien mit Meerblick von der nach Süden ausgerichteten Terrasse und einem Parkplatz und Abstellraum. Überblick Vollständig renovierte Wohnung mit 3 Schlafzimmern und 2 Bädern in Südlage auf einer erhöhten Ebene mit herrlichem Meer- und Bergblick, einer 24,27 m2 großen privaten Terrasse, einem überdachten Privatparkplatz und einem sicheren Abstellraum in einem modernen Gebäude mit Aufzug und nur wenige Gehminuten vom Meer und allen Dienstleistungen und Annehmlichkeiten an der Playa entfernt. Eine großartige Gelegenheit für jemanden, der auf der Suche nach einer großen und modernen, nach Süden ausgerichteten, komfortablen Wohnung ist, die sofort bezogen werden kann. Grundriss Die Wohnung hat eine bebaute Fläche von 92,37 m2 und verteilt sich auf ein Wohn-Esszimmer, eine nach Süden ausgerichtete Terrasse mit Blick auf das Meer und die Berge, eine offene, voll ausgestattete Küche mit Frühstücksbar, einen separaten Hauswirtschaftsraum mit Anschluss für eine Waschmaschine, einen Flur, 3 Schlafzimmer und 2 moderne Badezimmer mit Duschen. Außenbereiche: Süd-Terrasse von 24m2 mit neuen Gartenmöbeln bereit, die schöne Aussicht und Sommerabende zu genießen. Der Verkauf umfasst: Möbel, Einbauten und Armaturen sowie die gesamte weiße Ware. Nummerierter überdachter Parkplatz. Abstellraum. Gemeinsame Bereiche: Wunderschöner Gemeinschaftspool auf der Rückseite des Komplexes, umgeben von Rasenflächen, mit den Bergen im Hintergrund und mit Blick auf einen atemberaubenden Meerblick. Standort Die genaue Lage entnehmen Sie bitte dem Pin auf Google Maps oben. Der Komplex ist 7 Minuten zu Fuß den Hügel hinauf vom Strand entfernt und liegt in einer Sackgasse, so dass es keinen Durchgangsverkehr gibt. Außerdem sind mehrere Restaurants und Bars sowie die beliebte Strandpromenade zu Fuß erreichbar. Flughäfen Der Flughafen Almeria ist in 45 Minuten zu erreichen, der Flughafen Murcia in 1 Stunde und 20 Minuten, der Flughafen Alicante in 2 Stunden und der Flughafen Malaga in 2 Stunden und 45 Minuten. 4 Golfplätze Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. Der angegebene Preis beinhaltet nicht die Steuern und Kosten, die beim Verkauf anfallen (ITP zum aktuellen Steuersatz, Notar-, Registrierungs- und Anwaltskosten). Wir erinnern Sie daran, dass Sie als Verbraucher das Recht haben, informiert zu werden und die entsprechenden Informationsunterlagen zu erhalten, je nach Fall, basierend auf den Bestimmungen des Dekrets 218/05 vom 11. Oktober, das die Vorschriften zur Verbraucherinformation beim Verkauf und der Vermietung von Wohnungen in Andalusien regelt. Über uns Mojacar Estates ist seit 1982 erfolgreich als unabhängige Agentur für Immobilienverkauf und Ferienvermietung tätig. Unser engagiertes Team, das seit mehr als 20 Jahren in dieser Branche tätig ist, bietet unseren Kunden einen professionellen und sachkundigen Service. Unser Team spricht fließend Spanisch, Englisch und Deutsch. Wir bieten Immobilien zum Verkauf und zur Vermietung in Mojacar und den umliegenden Gebieten von Almeria, einschließlich Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos und San Juan de los Terreros. * Vistamar — #ME 2642 * Appartement * Weiterverkauf * 3 Schlafzimmer * 2 Bäder * Umbaute Fläche 92 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich",
+      },
+      images: {
+        image: [
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59353.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59356.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59346.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59347.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59364.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59365.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59363.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59362.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59361.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59354.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59352.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59358.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59357.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59359.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59360.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59348.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59349.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59350.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59351.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2642/xml_59355.jpg",
+          },
+        ],
+      },
+      prime: 1,
+    },
+    {
+      id: 2638,
+      date: "2023-02-13 15:09:44",
+      ref: "ME 2638",
+      price: 162500,
+      currency: "EUR",
+      price_freq: "sale",
+      type: "Apartment",
+      town: "Pulpi",
+      province: "Almeria",
+      location: {
+        latitude: 37.366207,
+        longitude: -1.711454,
+      },
+      beds: 2,
+      baths: 2,
+      pool: 1,
+      surface_area: {
+        built: 66,
+        plot: 0,
+      },
+      energy_rating: {
+        consumption: "X",
+        emissions: "X",
+      },
+      url: {
+        en: "https://mojacarestates.com/property/2638/apartment-in-pulpi",
+        es: "https://es.mojacarestates.com/propiedad/2638/apartamento-en-pulpi",
+        fr: "https://fr.mojacarestates.com/propriete/2638/appartement-en-pulpi",
+        nl: "https://nl.mojacarestates.com/woning/2638/appartement-in-pulpi",
+        de: "https://de.mojacarestates.com/immobilien/2638/appartement-in-pulpi",
+      },
+      desc: {
+        en: "This off-plan development on Aguilón Golf in Pulpí, Almería consists of 87 properties including 1, 2 and 3-bedroom apartments plus 4 exclusive semi-detached houses with 4 bedrooms. All homes have magnificent terraces facing the sea and the Aguilón Golf course, in a unique natural environment and include a fully equipped kitchen. The urbanisation has excellent communal areas with a saltwater communal swimming pool, gym, a social lounge and lifts. There are 32 two-bedroom apartments on all levels (ground, first, second and third floors) ranging from 65.72m2 to 83.28m2 of constructed area with terraces ranging from 7.40m2 to 50.10m2. The prices for the two bedroom apartments vary from 162,500€ to 222,500€. 10% VAT is not included in the price. The apartments are due to be finished towards the end of 2025. Quality Specifications: - Outdoor carpentry will be in PVC or aluminium with thermal break insulation and double glazing. Bedrooms will have shutters. - Flooring in porcelain stoneware. Terraces in anti-slip porcelain stoneware. - Security door with security lock - Kitchens will be furnished with wall and low cabinets and a worktop made of compact quartz. - Bathrooms will be tiled with ceramic tiles plus extra possibility of including shower screens. White porcelain units and chrome taps. - Individual electric hot water heaters with a complement from solar panels on the roof. - Full ducted air conditioning system with heat pump with flow regulation. - TV and data connection in living room and bedrooms. Video intercom. - Apartments have an interior air renovation system with extractor fan. - Automated door to the garage parking. - There will be the option to customize some of the internal finishes and upgrade some of the appliances etc. For more information on these properties please contact us. Location On the above Google map click on enlarge map and the exact location of the properties for sale are marked with the blue pin. Aguilón Golf is located near Pulpi in Almeria (East Andalusia. An impressive 18-hole, par 70 golf course of outstanding quality and home to a large number of lakes, more than 100 bunkers and strategically located fast greens. This course has various levels of difficulty, is at the foot of the beautiful Sierra del Aguilón mountains, and has a challenging and spectacular design created using the natural gullies of the terrain where you can enjoy breathtaking views of the Bays of Pulpí and Águilas. There is a Club House with a restaurant & bar and a shop. The beaches of San Juan de los Terreros are a 5-minute drive away as are the many restaurants and services of this small town. The bigger town of Aguilas is a 20 minute drive away with all the amenities and everything that you need. Airports Almeria airport is 1 hour 15 minutes’ drive, Murcia airport is 1 hour 15 minutes, Alicante airport is 2 hours and Malaga airport is 3 hours 15 minutes. The indicated price does not include the taxes and expenses derived from the sale (ITP at the current tax rate, notary, registration and lawyer fees). We remind you that as a consumer you have the right to be informed and given the corresponding informative documentation, depending on the case, based on the provisions of Decree 218/05 of 11 October which regulates the Regulations on Consumer Information in the sale and rental of housing in Andalusia. About Us Mojacar Estates have been running successfully as an independent property sales and holiday rentals agency since 1982. Our dedicated team, who have all been working within this industry for more than 20 years, offer a professional and knowledgeable service to our clients. Our team speaks fluent Spanish, English and German. We offer properties for sale and rental in Mojacar and surrounding areas of Almeria, including Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos and San Juan de los Terreros. * Eagle Apartments 2 — #ME 2638 * Apartment * Newly Built * 2 bedrooms * 2 bathrooms * Constructed area 66 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible",
+        es: "Esta promoción sobre plano en Aguilón Golf en Pulpí, Almería consta de 87 propiedades que incluyen apartamentos de 1, 2 y 3 dormitorios más 4 exclusivas casas adosadas con 4 dormitorios. Todas las viviendas disponen de magníficas terrazas frente al mar y al campo de Golf Aguilón, en un entorno natural único e incluyen una cocina totalmente equipada. La urbanización cuenta con excelentes zonas comunes con piscina comunitaria de agua salada, gimnasio, salón social y ascensores. Hay 32 apartamentos de dos dormitorios en todos los niveles (planta baja, primera, segunda y tercera) que van desde 65,72m2 a 83,28m2 de superficie construida con terrazas que van desde 7,40m2 a 50,10m2. Los precios de los apartamentos de dos dormitorios varían de 162.500 € a 222.500 €. El 10% de IVA no está incluido en el precio. Los apartamentos deben estar terminados a finales de 2025. Especificaciones de calidad: - La carpintería exterior será en PVC o aluminio con aislamiento de rotura de puente térmico y doble acristalamiento. Las habitaciones tendrán persianas. - Pavimentos de gres porcelánico. Terrazas en gres porcelánico antideslizante. - Puerta de seguridad con cerradura de seguridad - Las cocinas estarán amuebladas con gabinetes de pared y bajos y una encimera hecha de cuarzo compacto. - Los baños serán alicatados con azulejos de cerámica más posibilidad adicional de incluir mamparas de ducha. Muebles de porcelana blanca y grifería cromada. - Calentadores de agua eléctricos individuales con un complemento de paneles solares en el techo. - Sistema completo de aire acondicionado por conductos con bomba de calor con regulación de flujo. - TV y conexión de datos en salón y dormitorios. Videoportero. - Los apartamentos disponen de un sistema de renovación de aire interior con extractor. - Puerta automatizada al aparcamiento del garaje. - Habrá la opción de personalizar algunos de los acabados internos y actualizar algunos de los electrodomésticos, etc. Para obtener más información sobre estas propiedades, póngase en contacto con nosotros. Ubicación En el mapa de Google de arriba, haga clic en ampliar el mapa y la ubicación exacta de las propiedades en venta está marcada con el pin azul. Aguilón Golf se encuentra cerca de Pulpi en Almería (Andalucía Este. Un impresionante campo de golf de 18 hoyos, par 70 de excelente calidad y hogar de una gran cantidad de lagos, más de 100 bunkers y greens rápidos estratégicamente ubicados. Este campo tiene varios niveles de dificultad, se encuentra al pie de las hermosas montañas de la Sierra del Aguilón, y tiene un diseño desafiante y espectacular creado utilizando los barrancos naturales del terreno donde se puede disfrutar de impresionantes vistas de las Bahías de Pulpí y Águilas. Hay una Casa Club con un restaurante y bar y una tienda. Las playas de San Juan de los Terreros se encuentran a 5 minutos en coche, al igual que los numerosos restaurantes y servicios de esta pequeña ciudad. La ciudad más grande de Águilas se encuentra a 20 minutos en coche con todas las comodidades y todo lo que necesita. Aeropuertos El aeropuerto de Almería está a 1 hora y 15 minutos en coche, el aeropuerto de Murcia a 1 hora y 15 minutos, el aeropuerto de Alicante a 2 horas y el aeropuerto de Málaga a 3 horas y 15 minutos. El precio indicado no incluye los impuestos y gastos derivados de la compraventa (ITP al tipo impositivo vigente, honorarios notariales, registrales y de abogados). Le recordamos que como consumidor tiene derecho a ser informado y entregado la documentación informativa correspondiente, según el caso, en base a lo establecido en el Decreto 218/05 de 11 de octubre por el que se regula el Reglamento de Información al Consumidor en la compraventa y alquiler de viviendas en Andalucía. Sobre nosotros Mojacar Estates ha estado funcionando con éxito como una agencia independiente de venta de propiedades y alquileres vacacionales desde 1982. Nuestro equipo dedicado, que ha estado trabajando dentro de esta industria durante más de 20 años, ofrece un servicio profesional y bien informado a nuestros clientes. Nuestro equipo habla con fluidez español, inglés y alemán. Ofrecemos propiedades en venta y alquiler en Mojácar y sus alrededores de Almería, incluyendo Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos y San Juan de los Terreros. * Eagle Apartments 2 — #ME 2638 * Apartamento * Nueva construcción * 2 dormitorios * 2 cuartos de baño * Superficie construida 66 m² * Agua General * Luz General * Teléfono Posible * Internet Posible",
+        fr: "Ce développement sur plan sur Aguilón Golf à Pulpí, Almería se compose de 87 propriétés, dont des appartements de 1, 2 et 3 chambres et 4 maisons jumelées exclusives avec 4 chambres. Toutes les maisons disposent de magnifiques terrasses face à la mer et au parcours de golf d’Aguilón, dans un environnement naturel unique et comprennent une cuisine entièrement équipée. L’urbanisation dispose d’excellents espaces communs avec une piscine commune d’eau salée, une salle de sport, un salon social et des ascenseurs. Il y a 32 appartements de deux chambres sur tous les niveaux (rez-de-chaussée, premier, deuxième et troisième étages) allant de 65,72m2 à 83,28m2 de surface construite avec des terrasses allant de 7,40m2 à 50,10m2. Les prix des appartements de deux chambres varient de 162 500 € à 222 500 €. La TVA de 10% n’est pas incluse dans le prix. Les appartements devraient être terminés vers la fin de 2025. Spécifications de qualité: - Les menuiseries extérieures seront en PVC ou en aluminium avec isolation thermique et double vitrage. Les chambres auront des volets. - Revêtement de sol en grès cérame. Terrasses en grès cérame antidérapant. - Porte de sécurité avec serrure de sécurité - Les cuisines seront meublées avec des armoires murales et basses et un plan de travail en quartz compact. - Les salles de bains seront carrelées avec des carreaux de céramique plus possibilité supplémentaire d’inclure des parois de douche. Unités en porcelaine blanche et robinetterie chromée. - Chauffe-eau électriques individuels avec un complément de panneaux solaires sur le toit. - Système de climatisation entièrement canalisé avec pompe à chaleur avec régulation de débit. - TV et connexion de données dans le salon et les chambres. Interphone vidéo. - Les appartements disposent d’un système de rénovation d’air intérieur avec hotte aspirante. - Porte automatisée vers le garage stationnement. - Il y aura la possibilité de personnaliser certaines des finitions internes et de mettre à niveau certains des appareils, etc. Pour plus d’informations sur ces propriétés s’il vous plaît contactez-nous. Emplacement Sur la carte Google ci-dessus, cliquez sur agrandir la carte et l’emplacement exact des propriétés à vendre est marqué de l’épingle bleue. Aguilón Golf est situé près de Pulpi à Almeria (Andalousie orientale. Un impressionnant parcours de golf de 18 trous, par 70, d’une qualité exceptionnelle et abritant un grand nombre de lacs, plus de 100 bunkers et des greens rapides stratégiquement situés. Ce parcours a différents niveaux de difficulté, est au pied de la belle Sierra del Aguilón, et a un design stimulant et spectaculaire créé en utilisant les ravins naturels du terrain où vous pourrez profiter d’une vue imprenable sur les baies de Pulpí et Águilas. Il y a un Club House avec un restaurant et un bar et une boutique. Les plages de San Juan de los Terreros sont accessibles en 5 minutes de route, tout comme les nombreux restaurants et services de cette petite ville. La plus grande ville d’Aguilas se trouve à 20 minutes en voiture avec toutes les commodités et tout ce dont vous avez besoin. Aéroports L’aéroport d’Almeria est à 1 heure 15 minutes de route, l’aéroport de Murcie est à 1 heure 15 minutes, l’aéroport d’Alicante est à 2 heures et l’aéroport de Malaga est à 3 heures 15 minutes. Le prix indiqué ne comprend pas les taxes et frais dérivés de la vente (ITP au taux d’imposition en vigueur, frais de notaire, d’enregistrement et d’avocat). Nous vous rappelons qu’en tant que consommateur, vous avez le droit d’être informé et de recevoir la documentation informative correspondante, selon le cas, sur la base des dispositions du décret 218/05 du 11 octobre qui réglemente le règlement sur l’information des consommateurs dans la vente et la location de logements en Andalousie. Qui sommes-nous Mojacar Estates fonctionne avec succès en tant qu’agence indépendante de vente immobilière et de location de vacances depuis 1982. Notre équipe dévouée, qui travaille dans cette industrie depuis plus de 20 ans, offre un service professionnel et compétent à nos clients. Notre équipe parle couramment l’espagnol, l’anglais et l’allemand. Nous proposons des propriétés à vendre et à louer à Mojacar et dans les environs d’Almeria, y compris Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos et San Juan de los Terreros. * Eagle Apartments 2 — #ME 2638 * Appartement * Nouveau bâtiment * 2 chambres à coucher * 2 salles de bains * Surface habitable 66 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
+        nl: "Deze off-plan ontwikkeling op Aguilón Golf in Pulpí, Almería bestaat uit 87 woningen, waaronder appartementen met 1, 2 en 3 slaapkamers plus 4 exclusieve halfvrijstaande huizen met 4 slaapkamers. Alle huizen hebben prachtige terrassen met uitzicht op de zee en de aguilón golfbaan, in een unieke natuurlijke omgeving en beschikken over een volledig uitgeruste keuken. De urbanisatie heeft uitstekende gemeenschappelijke ruimtes met een zoutwater gemeenschappelijk zwembad, een fitnessruimte, een sociale lounge en liften. Er zijn 32 appartementen met twee slaapkamers op alle niveaus (begane grond, eerste, tweede en derde verdieping), variërend van 65,72 m2 tot 83,28 m2 bebouwde oppervlakte met terrassen variërend van 7,40 m2 tot 50,10 m2. De prijzen voor de appartementen met twee slaapkamers variëren van 162.500€ tot € 222.500€ . 10% BTW is niet inbegrepen in de prijs. De appartementen moeten eind 2025 klaar zijn. Kwaliteitsspecificaties: - Buiten timmerwerk zal in PVC of aluminium zijn met thermische scheidingsisolatie en dubbele beglazing. Slaapkamers hebben rolluiken. - Vloeren in porseleinen aardewerk. Terrassen in antislip porseleinen aardewerk. - Veiligheidsdeur met veiligheidsslot - Keukens worden ingericht met wand- en lage kasten en een werkblad van compact kwarts. - Badkamers worden betegeld met keramische tegels plus extra mogelijkheid om doucheschermen op te nemen. Witte porseleinen units en chromen kranen. - Individuele elektrische warmwaterboilers met een aanvulling van zonnepanelen op het dak. - Volledig geleid airconditioningsysteem met warmtepomp met stroomregeling. - TV en data aansluiting in woonkamer en slaapkamers. Video-intercom. - Appartementen hebben een interieur luchtrenovatiesysteem met afzuigkap. - Automatische deur naar de parkeergarage. - Er zal de optie zijn om enkele van de interne afwerkingen aan te passen en sommige apparaten te upgraden, enz. Voor meer informatie over deze woningen kunt u contact met ons opnemen. Plaats Klik op de bovenstaande Google-kaart op de kaart en de exacte locatie van de te koop staande woningen zijn gemarkeerd met de blauwe pin. Aguilón Golf ligt in de buurt van Pulpi in Almeria (Oost-Andalusië). Een indrukwekkende 18-holes, par 70 golfbaan van uitstekende kwaliteit en de thuisbasis van een groot aantal meren, meer dan 100 bunkers en strategisch gelegen snelle greens. Deze baan heeft verschillende moeilijkheidsgraden, ligt aan de voet van de prachtige Bergen van de Sierra del Aguilón en heeft een uitdagend en spectaculair ontwerp gemaakt met behulp van de natuurlijke geulen van het terrein waar u kunt genieten van een adembenemend uitzicht op de baaien van Pulpí en Águilas. Er is een clubhuis met een restaurant en een bar en een winkel. De stranden van San Juan de los Terreros liggen op 5 minuten rijden, net als de vele restaurants en diensten van dit kleine stadje. De grotere stad Aguilas ligt op 20 minuten rijden met alle voorzieningen en alles wat je nodig hebt. Luchthavens De luchthaven van Almeria ligt op 1 uur en 15 minuten rijden, de luchthaven van Murcia op 1 uur en 15 minuten, de luchthaven van Alicante op 2 uur en de luchthaven van Malaga op 3 uur en 15 minuten. De aangegeven prijs is exclusief de belastingen en kosten die voortvloeien uit de verkoop (ITP tegen het huidige belastingtarief, notaris-, registratie- en advocaatkosten). Wij herinneren u eraan dat u als consument het recht hebt om geïnformeerd te worden en de bijbehorende informatieve documentatie te krijgen, afhankelijk van het geval, op basis van de bepalingen van decreet 218/05 van 11 oktober dat de voorschriften inzake consumenteninformatie bij de verkoop en verhuur van woningen in Andalusië regelt. Informatie Mojacar Estates draait sinds 1982 met succes als een onafhankelijk makelaarskantoor voor de verkoop van onroerend goed en vakantieverhuur. Ons toegewijde team, dat allemaal al meer dan 20 jaar in deze branche werkt, biedt een professionele en deskundige service aan onze klanten. Ons team spreekt vloeiend Spaans, Engels en Duits. Wij bieden onroerend goed te koop en te huur in Mojacar en de omliggende gebieden van Almeria, waaronder Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos en San Juan de los Terreros. * Eagle Apartments 2 — #ME 2638 * Appartement * Nieuwbouw * 2 slaapkamers * 2 badkamers * Bebouwde oppervlakte 66 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk",
+        de: "Diese Off-Plan-Anlage am Aguilón Golf in Pulpí, Almería, besteht aus 87 Immobilien, darunter Apartments mit 1, 2 und 3 Schlafzimmern sowie 4 exklusiven Doppelhaushälften mit 4 Schlafzimmern. Alle Häuser verfügen über herrliche Terrassen mit Blick auf das Meer und den Golfplatz Aguilón in einer einzigartigen natürlichen Umgebung und verfügen über eine voll ausgestattete Küche. Die Urbanisation verfügt über ausgezeichnete Gemeinschaftsbereiche mit einem Salzwasser-Gemeinschaftspool, einem Fitnessraum, einer Gemeinschaftslounge und Aufzügen. Es gibt 32 Zwei-Zimmer-Wohnungen auf allen Ebenen (Erdgeschoss, erste, zweite und dritte Etage) von 65,72m2 bis 83,28m2 bebaute Fläche mit Terrassen von 7,40m2 bis 50,10m2. Die Preise für die Apartments mit zwei Schlafzimmern variieren zwischen 162.500 € und 222.500 €. 10% Mehrwertsteuer ist nicht im Preis inbegriffen. Die Wohnungen sollen gegen Ende 2025 fertiggestellt werden. Qualitätsvorgaben: - Die Tischlerei im Freien wird aus PVC oder Aluminium mit thermischer Trennisolierung und Doppelverglasung sein. Die Schlafzimmer verfügen über Fensterläden. - Bodenbeläge aus Feinsteinzeug. Terrassen aus rutschfestem Feinsteinzeug. - Sicherheitstür mit Sicherheitsschloss - Die Küchen werden mit Wand- und niedrigen Schränken und einer Arbeitsplatte aus kompaktem Quarz ausgestattet. - Die Badezimmer werden mit Keramikfliesen und zusätzlichen Duschwänden gefliest. Weiße Porzellaneinheiten und Chromarmaturen. - Individuelle elektrische Warmwasserbereiter mit einer Ergänzung von Sonnenkollektoren auf dem Dach. - Komplette Kanalklimaanlage mit Wärmepumpe mit Durchflussregelung. - TV- und Datenanschluss im Wohn- und Schlafzimmer. Video-Gegensprechanlage. - Die Apartments verfügen über ein Innenluftrenovierungssystem mit Dunstabzugshaube. - Automatisiertes Tor zum Garagenparkplatz. - Es wird die Möglichkeit geben, einige der internen Oberflächen anzupassen und einige der Geräte usw. zu aktualisieren. Für weitere Informationen zu diesen Immobilien kontaktieren Sie uns bitte. Ort Klicken Sie auf der obigen Google-Karte auf die Karte vergrößern und die genaue Lage der zum Verkauf stehenden Immobilien ist mit dem blauen Pin markiert. Aguilón Golf liegt in der Nähe von Pulpi in Almeria (Ostandalusien. Ein beeindruckender 18-Loch, Par 70 Golfplatz von herausragender Qualität und Heimat einer großen Anzahl von Seen, mehr als 100 Bunkern und strategisch gelegenen schnellen Grüns. Dieser Platz hat verschiedene Schwierigkeitsgrade, liegt am Fuße der wunderschönen Sierra del Aguilón und hat ein anspruchsvolles und spektakuläres Design, das aus den natürlichen Schluchten des Geländes erstellt wurde, wo Sie einen atemberaubenden Blick auf die Buchten von Pulpí und Águilas genießen können. Es gibt ein Clubhaus mit einem Restaurant & Bar und einem Geschäft. Die Strände von San Juan de los Terreros sind eine 5-minütige Autofahrt entfernt, ebenso wie die vielen Restaurants und Dienstleistungen dieser kleinen Stadt. Die größere Stadt Aguilas ist eine 20-minütige Autofahrt entfernt mit allen Annehmlichkeiten und allem, was Sie brauchen. Flughäfen Der Flughafen Almeria ist 1 Stunde 15 Autominuten entfernt, der Flughafen Murcia 1 Stunde 15 Minuten, der Flughafen Alicante 2 Stunden und der Flughafen Malaga 3 Stunden 15 Minuten. Der angegebene Preis beinhaltet nicht die Steuern und Ausgaben, die sich aus dem Verkauf ergeben (ITP zum aktuellen Steuersatz, Notar-, Registrierungs- und Anwaltskosten). Wir erinnern Sie daran, dass Sie als Verbraucher das Recht haben, je nach Fall informiert zu werden und die entsprechenden informativen Unterlagen zu erhalten, basierend auf den Bestimmungen des Dekrets 218/05 vom 11. Oktober, das die Vorschriften über Verbraucherinformationen beim Verkauf und der Vermietung von Wohnungen in Andalusien regelt. Über uns Mojacar Estates ist seit 1982 erfolgreich als unabhängige Immobilienverkaufs- und Ferienvermietungsagentur tätig. Unser engagiertes Team, das alle seit mehr als 20 Jahren in dieser Branche tätig ist, bietet unseren Kunden einen professionellen und sachkundigen Service. Unser Team spricht fließend Spanisch, Englisch und Deutsch. Wir bieten Immobilien zum Verkauf und zur Miete in Mojacar und Umgebung von Almeria, einschließlich Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos und San Juan de los Terreros. * Eagle Apartments 2 — #ME 2638 * Appartement * Neubau * 2 Schlafzimmer * 2 Bäder * Umbaute Fläche 66 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich",
+      },
+      images: {
+        image: [
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2638/xml_59266.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2638/xml_59267.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2638/xml_59270.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2638/xml_59268.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2638/xml_59271.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2638/xml_59272.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2638/xml_59273.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2638/xml_59274.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2638/xml_59275.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2638/xml_59269.jpg",
+          },
+          {
+            tags: {
+              tag: "floorplan",
+            },
+            url: "https://static.mojacarestates.com/floor_plans/3/2638/nwm_45.jpg",
+          },
+          {
+            tags: {
+              tag: "floorplan",
+            },
+            url: "https://static.mojacarestates.com/floor_plans/3/2638/nwm_46.jpg",
+          },
+          {
+            tags: {
+              tag: "floorplan",
+            },
+            url: "https://static.mojacarestates.com/floor_plans/3/2638/nwm_44.jpg",
+          },
+        ],
+      },
+      prime: 1,
+    },
+    {
+      id: 2641,
+      date: "2023-02-17 16:01:49",
+      ref: "ME 2641",
+      price: 285000,
+      currency: "EUR",
+      price_freq: "sale",
+      type: "Town House",
+      town: "Mojacar",
+      province: "Almeria",
+      location: {
+        latitude: 37.136907,
+        longitude: -1.829954,
+      },
+      beds: 3,
+      baths: 2,
+      pool: 1,
+      surface_area: {
+        built: 112,
+        plot: 0,
+      },
+      energy_rating: {
+        consumption: "X",
+        emissions: "X",
+      },
+      url: {
+        en: "https://mojacarestates.com/property/2641/town-house-in-mojacar",
+        es: "https://es.mojacarestates.com/propiedad/2641/duplex-en-mojacar",
+        fr: "https://fr.mojacarestates.com/propriete/2641/maison-de-ville-en-mojacar",
+        nl: "https://nl.mojacarestates.com/woning/2641/rijtjeshuis-in-mojacar",
+        de: "https://de.mojacarestates.com/immobilien/2641/reihenhaus-in-mojacar",
+      },
+      desc: {
+        en: "Frontline complex with lovely townhouse for sale on Mojacar Playa, Almeria, Andalusia, only a couple of minutes walk from the beach and includes a garage space and storeroom. Overview This townhouse is ideally situated on a small urbanisation called “El Duende”, very close to the beach and very easy walking distance from all amenities including supermarkets, banks, shops and medical centre. The property is distributed on 2 floors with a large solarium of 30m2. There is a private covered terrace on the ground floor with views of the communal garden and pool. The property comes with an underground parking space and a storeroom of 4m2. This is an ideal investment property for those interested in doing summer and winter rentals. Currently the owners have a very successful rental business. It has 3 bedrooms, 2 bathrooms, cloakroom /WC, fully equipped separate kitchen, lounge-diner with access to terrace and private roof terrace. Access to property is via the community gate and you will find the house a few meters along the community walkway. Layout Ground floor: The front door opens into an entrance hall leading to the right to a cloakroom and to the left a separate (small) kitchen fully equipped with all white goods including dishwasher. The washing machine and hot water boiler are in a cupboard in the entrance patio area. The lounge-diner has a wood burning stove and patio doors leading out to a covered terrace area overlooking the community pool area and the sea. First floor: The master bedroom has built-in wardrobes, a ceiling fan and an ensuite bathroom with a shower cubicle. The windows open onto a balcony. There two other double bedrooms with built-in wardrobes and a full bathroom with a bath. Another flight of internal stairs leads up to the private roof terrace equipped with a gas BBQ, terrace furniture and an awning for shade in the summer months. There are wonderful 360º views of the sea, the mountains and the picturesque village of Mojacar. Sale includes: partly furnished with white goods, fixtures and fittings. Allocated underground parking space and a storeroom. Extras include: Centralised ducted air conditioning (hot & cold air), wood burning stove, gas central heating, Communal areas: pool and gardens. Location For the precise location, see the pin on Google maps above. The complex is a 2-minute walk from the beach, supermarkets, restaurants and bars as well as many other amenities. The beach is less than 100 metres away. Living in this property you don’t need a car as you have everything you need within walking distance. Airports Almeria airport is a 45-minute drive, Murcia airport is 1 hour 20 minutes, Alicante airport is 2 hours and Malaga airport is 2 hours 45 minutes. 4 Golf Courses Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. The indicated price does not include the taxes and expenses derived from the sale (ITP at the current tax rate, notary, registration and lawyer fees). We remind you that as a consumer you have the right to be informed and given the corresponding informative documentation, depending on the case, based on the provisions of Decree 218/05 of 11 October which regulates the Regulations on Consumer Information in the sale and rental of housing in Andalusia. About Us Mojacar Estates have been running successfully as an independent property sales and holiday rentals agency since 1982. Our dedicated team, who have all been working within this industry for more than 20 years, offer a professional and knowledgeable service to our clients. Our team speaks fluent Spanish, English and German. We offer properties for sale and rental in Mojacar and surrounding areas of Almeria, including Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos and San Juan de los Terreros. * El Duende — #ME 2641 * Town House * Resale * 3 bedrooms * 2 bathrooms * Constructed area 112 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible",
+        es: 'Complejo en primera línea con preciosa casa adosada en venta en Mojácar Playa, Almería, Andalucía, a solo un par de minutos a pie de la playa e incluye una plaza de garaje y trastero. Visión general Esta casa adosada está idealmente situada en una pequeña urbanización llamada "El Duende", muy cerca de la playa y muy a poca distancia a pie de todos los servicios, incluidos supermercados, bancos, tiendas y centro médico. La vivienda se distribuye en 2 plantas con un amplio solárium de 30m2. Hay una terraza cubierta privada en la planta baja con vistas al jardín comunitario y la piscina. La propiedad cuenta con una plaza de aparcamiento subterráneo y un trastero de 4m2. Esta es una propiedad de inversión ideal para aquellos interesados en hacer alquileres de verano e invierno. Actualmente los propietarios tienen un negocio de alquiler muy exitoso. Tiene 3 dormitorios, 2 baños, aseo / WC, cocina independiente totalmente equipada, salón-comedor con acceso a terraza y azotea privada. El acceso a la propiedad es a través de la puerta de la comunidad y encontrará la casa a pocos metros a lo largo de la pasarela comunitaria. Diseño Planta baja: La puerta principal se abre a un hall de entrada que conduce a la derecha a un aseo y a la izquierda una cocina separada (pequeña) totalmente equipada con todos los electrodomésticos, incluido el lavavajillas. La lavadora y la caldera de agua caliente están en un armario en el área del patio de entrada. El salón-comedor tiene una estufa de leña y puertas de patio que dan a una terraza cubierta con vistas a la zona de la piscina comunitaria y al mar. Primera planta: El dormitorio principal tiene armarios empotrados, un ventilador de techo y un baño privado con cabina de ducha. Las ventanas dan a un balcón. Hay otros dos dormitorios dobles con armarios empotrados y un baño completo con bañera. Otro tramo de escaleras internas conduce a la terraza privada equipada con una barbacoa de gas, muebles de terraza y un toldo para sombra en los meses de verano. Hay maravillosas vistas de 360º al mar, las montañas y el pintoresco pueblo de Mojácar. La venta incluye: parcialmente amueblado con electrodomésticos, accesorios y accesorios. Plaza de aparcamiento subterráneo asignada y un trastero. Los extras incluyen: Aire acondicionado centralizado por conductos (aire frío y caliente), estufa de leña, calefacción central de gas, Zonas comunitarias: piscina y jardines. Ubicación Para obtener la ubicación precisa, consulte el pin en los mapas de Google arriba. El complejo se encuentra a 2 minutos a pie de la playa, supermercados, restaurantes y bares, así como de muchos otros servicios. La playa está a menos de 100 metros. Al vivir en esta propiedad, no necesita un automóvil, ya que tiene todo lo que necesita a poca distancia. Aeropuertos El aeropuerto de Almería está a 45 minutos en coche, el aeropuerto de Murcia está a 1 hora y 20 minutos, el aeropuerto de Alicante a 2 horas y el aeropuerto de Málaga a 2 horas y 45 minutos. 4 Campos de Golf Mojácar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. El precio indicado no incluye los impuestos y gastos derivados de la compraventa (ITP al tipo impositivo vigente, honorarios notariales, registrales y de abogados). Le recordamos que como consumidor tiene derecho a ser informado y entregado la documentación informativa correspondiente, según el caso, en base a lo establecido en el Decreto 218/05 de 11 de octubre por el que se regula el Reglamento de Información al Consumidor en la compraventa y alquiler de viviendas en Andalucía. Sobre nosotros Mojacar Estates ha estado funcionando con éxito como una agencia independiente de venta de propiedades y alquileres vacacionales desde 1982. Nuestro equipo dedicado, que ha estado trabajando dentro de esta industria durante más de 20 años, ofrece un servicio profesional y bien informado a nuestros clientes. Nuestro equipo habla con fluidez español, inglés y alemán. Ofrecemos propiedades en venta y alquiler en Mojácar y sus alrededores de Almería, incluyendo Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos y San Juan de los Terreros. * El Duende — #ME 2641 * Duplex * Buen estado * 3 dormitorios * 2 cuartos de baño * Superficie construida 112 m² * Agua General * Luz General * Teléfono Posible * Internet Posible',
+        fr: "Complexe de première ligne avec belle maison de ville à vendre sur Mojacar Playa, Almeria, Andalousie, à seulement quelques minutes à pied de la plage et comprend un garage et un cellier. Aperçu Cette maison de ville est idéalement située sur une petite urbanisation appelée « El Duende », très proche de la plage et très facile à distance de marche de toutes les commodités, y compris les supermarchés, les banques, les magasins et le centre médical. La propriété est répartie sur 2 étages avec un grand solarium de 30m2. Il y a une terrasse couverte privée au rez-de-chaussée avec vue sur le jardin commun et la piscine. La propriété dispose d’un parking souterrain et d’un cellier de 4m2. C’est une propriété d’investissement idéale pour ceux qui sont intéressés à faire des locations d’été et d’hiver. Actuellement, les propriétaires ont une entreprise de location très prospère. Il dispose de 3 chambres, 2 salles de bains, vestiaire / WC, cuisine séparée entièrement équipée, salon-salle à manger avec accès à la terrasse et terrasse privée sur le toit. L’accès à la propriété se fait par la porte communautaire et vous trouverez la maison à quelques mètres le long de la passerelle communautaire. Disposition Rez-de-chaussée: La porte d’entrée s’ouvre sur un hall d’entrée menant à droite à un vestiaire et à gauche à une (petite) cuisine séparée entièrement équipée avec tous les produits électroménagers, y compris le lave-vaisselle. La machine à laver et la chaudière à eau chaude sont dans un placard dans le patio d’entrée. Le salon-salle à manger dispose d’un poêle à bois et de portes-fenêtres menant à une terrasse couverte donnant sur la piscine communautaire et la mer. Premier étage: La chambre principale dispose d’armoires intégrées, d’un ventilateur de plafond et d’une salle de bains avec cabine de douche. Les fenêtres s’ouvrent sur un balcon. Il y a deux autres chambres doubles avec placards intégrés et une salle de bain complète avec baignoire. Un autre escalier intérieur mène à la terrasse privée sur le toit équipée d’un barbecue à gaz, de meubles de terrasse et d’un auvent pour l’ombre pendant les mois d’été. Il y a une vue magnifique à 360º sur la mer, les montagnes et le village pittoresque de Mojacar. La vente comprend: partiellement meublé avec des produits blancs, des accessoires et des accessoires. Place de parking souterraine allouée et un cellier. Les extras incluent: Climatisation canalisée centralisée (air chaud et froid), poêle à bois, chauffage central au gaz, Espaces communs: piscine et jardins. Emplacement Pour l’emplacement précis, voir l’épingle sur Google maps ci-dessus. Le complexe se trouve à 2 minutes à pied de la plage, des supermarchés, des restaurants et des bars ainsi que de nombreuses autres commodités. La plage se trouve à moins de 100 mètres. Vivre dans cette propriété, vous n’avez pas besoin d’une voiture car vous avez tout ce dont vous avez besoin à distance de marche. Aéroports L’aéroport d’Almeria est à 45 minutes en voiture, l’aéroport de Murcie est à 1 heure 20 minutes, l’aéroport d’Alicante est à 2 heures et l’aéroport de Malaga est à 2 heures 45 minutes. 4 terrains de golf Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. Le prix indiqué ne comprend pas les taxes et frais dérivés de la vente (ITP au taux d’imposition en vigueur, frais de notaire, d’enregistrement et d’avocat). Nous vous rappelons qu’en tant que consommateur, vous avez le droit d’être informé et de recevoir la documentation informative correspondante, selon le cas, sur la base des dispositions du décret 218/05 du 11 octobre qui réglemente le règlement sur l’information des consommateurs dans la vente et la location de logements en Andalousie. Qui sommes-nous Mojacar Estates fonctionne avec succès en tant qu’agence indépendante de vente immobilière et de location de vacances depuis 1982. Notre équipe dévouée, qui travaille dans cette industrie depuis plus de 20 ans, offre un service professionnel et compétent à nos clients. Notre équipe parle couramment l’espagnol, l’anglais et l’allemand. Nous proposons des propriétés à vendre et à louer à Mojacar et dans les environs d’Almeria, y compris Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos et San Juan de los Terreros. * El Duende — #ME 2641 * Maison de Ville * Revente * 3 chambres à coucher * 2 salles de bains * Surface habitable 112 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
+        nl: 'Frontline complex met mooi herenhuis te koop op Mojacar Playa, Almeria, Andalusië, op slechts een paar minuten lopen van het strand en omvat een garage en berging. Overzicht Dit herenhuis is ideaal gelegen op een kleine urbanisatie genaamd "El Duende", zeer dicht bij het strand en op loopafstand van alle voorzieningen, waaronder supermarkten, banken, winkels en medisch centrum. De woning is verdeeld over 2 verdiepingen met een groot solarium van 30m2. Er is een eigen overdekt terras op de begane grond met uitzicht op de gemeenschappelijke tuin en het zwembad. De woning wordt geleverd met een ondergrondse parkeerplaats en een berging van 4m2. Dit is een ideale vastgoedbelegging voor diegenen die geïnteresseerd zijn in het doen van zomer- en winterverhuur. Momenteel hebben de eigenaren een zeer succesvol verhuurbedrijf. Het heeft 3 slaapkamers, 2 badkamers, garderobe / toilet, volledig uitgeruste aparte keuken, woon-eetkamer met toegang tot terras en een eigen dakterras. Toegang tot het pand is via de gemeenschappelijke poort en u vindt het huis een paar meter langs de gemeenschappelijke loopbrug. Indeling Begane grond: De voordeur opent in een hal die naar rechts leidt naar een garderobe en aan de linkerkant een aparte (kleine) keuken volledig uitgerust met alle witgoed inclusief vaatwasser. De wasmachine en warmwaterboiler bevinden zich in een kast in de patio bij de ingang. De woon-eetkamer heeft een houtkachel en openslaande deuren naar een overdekt terras met uitzicht op het gemeenschappelijke zwembad en de zee. Eerste verdieping: De master bedroom heeft ingebouwde kasten, een plafondventilator en een ensuite badkamer met een douchecabine. De ramen komen uit op een balkon. Er zijn twee andere slaapkamers met ingebouwde kasten en een complete badkamer met een bad. Een andere interne trap leidt naar het privédakterras uitgerust met een gasbarbecue, terrasmeubilair en een luifel voor schaduw in de zomermaanden. Er zijn prachtige 360º uitzichten op de zee, de bergen en het pittoreske dorpje Mojacar. Verkoop omvat: gedeeltelijk ingericht met witgoed, armaturen en fittingen. Toegewezen ondergrondse parkeerplaats en een berging. Extra\'s zijn onder andere: Gecentraliseerde geleide airconditioning (warme & koude lucht), houtkachel, centrale verwarming op gas, Gemeenschappelijke ruimtes: zwembad en tuinen. Plaats Voor de precieze locatie, zie de pin op Google maps hierboven. Het complex ligt op 2 minuten lopen van het strand, supermarkten, restaurants en bars, evenals vele andere voorzieningen. Het strand ligt op minder dan 100 meter afstand. Wonen in deze woning heb je geen auto nodig omdat je alles wat je nodig hebt op loopafstand hebt. Luchthavens De luchthaven van Almeria ligt op 45 minuten rijden, de luchthaven van Murcia op 1 uur en 20 minuten, de luchthaven van Alicante op 2 uur en de luchthaven van Malaga op 2 uur en 45 minuten. 4 Golfbanen Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. De aangegeven prijs is exclusief de belastingen en kosten die voortvloeien uit de verkoop (ITP tegen het huidige belastingtarief, notaris-, registratie- en advocaatkosten). Wij herinneren u eraan dat u als consument het recht hebt om geïnformeerd te worden en de bijbehorende informatieve documentatie te krijgen, afhankelijk van het geval, op basis van de bepalingen van decreet 218/05 van 11 oktober dat de voorschriften inzake consumenteninformatie bij de verkoop en verhuur van woningen in Andalusië regelt. Informatie Mojacar Estates draait sinds 1982 met succes als een onafhankelijk makelaarskantoor voor de verkoop van onroerend goed en vakantieverhuur. Ons toegewijde team, dat allemaal al meer dan 20 jaar in deze branche werkt, biedt een professionele en deskundige service aan onze klanten. Ons team spreekt vloeiend Spaans, Engels en Duits. Wij bieden onroerend goed te koop en te huur in Mojacar en de omliggende gebieden van Almeria, waaronder Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos en San Juan de los Terreros. * El Duende — #ME 2641 * Rijtjeshuis * Bestaande woning * 3 slaapkamers * 2 badkamers * Bebouwde oppervlakte 112 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk',
+        de: 'Komplex in erster Meereslinie mit schönem Stadthaus zum Verkauf auf Mojacar Playa, Almeria, Andalusien, nur wenige Gehminuten vom Strand entfernt und umfasst einen Garagenplatz und einen Abstellraum. Überblick Dieses Stadthaus liegt ideal in einer kleinen Urbanisation namens "El Duende", ganz in der Nähe des Strandes und nur wenige Gehminuten von allen Annehmlichkeiten wie Supermärkten, Banken, Geschäften und einem medizinischen Zentrum entfernt. Das Anwesen ist auf 2 Etagen mit einem großen Solarium von 30m2 verteilt. Es gibt eine private überdachte Terrasse im Erdgeschoss mit Blick auf den Gemeinschaftsgarten und den Pool. Das Anwesen verfügt über einen Tiefgaragenstellplatz und einen Abstellraum von 4m2. Dies ist eine ideale Anlageimmobilie für diejenigen, die an Sommer- und Wintervermietungen interessiert sind. Derzeit haben die Eigentümer ein sehr erfolgreiches Vermietungsgeschäft. Es verfügt über 3 Schlafzimmer, 2 Bäder, Garderobe / WC, voll ausgestattete separate Küche, Wohn-Esszimmer mit Zugang zur Terrasse und private Dachterrasse. Der Zugang zum Grundstück erfolgt über das Gemeindetor und Sie finden das Haus nur wenige Meter entlang des Gemeinschaftswegs. Layout Erdgeschoss: Die Eingangstür öffnet sich in eine Eingangshalle, die nach rechts zu einer Garderobe und zur linken Seite eine separate (kleine) Küche führt, die komplett mit allen Haushaltsgeräten einschließlich Geschirrspüler ausgestattet ist. Die Waschmaschine und der Warmwasserboiler befinden sich in einem Schrank im Eingangsbereich. Das Wohn- und Esszimmer verfügt über einen Holzofen und Terrassentüren, die zu einer überdachten Terrasse mit Blick auf den Gemeinschaftspoolbereich und das Meer führen. Erster Stock: Das Hauptschlafzimmer verfügt über Einbauschränke, einen Deckenventilator und ein eigenes Badezimmer mit Duschkabine. Die Fenster öffnen sich auf einen Balkon. Es gibt zwei weitere Doppelzimmer mit Einbauschränken und ein komplettes Badezimmer mit Badewanne. Eine weitere Innentreppe führt auf die private Dachterrasse, die mit einem Gasgrill, Terrassenmöbeln und einer Markise für Schatten in den Sommermonaten ausgestattet ist. Es gibt einen herrlichen 360º-Blick auf das Meer, die Berge und das malerische Dorf Mojacar. Der Verkauf beinhaltet: teilweise mit Haushaltsgeräten, Einrichtungsgegenständen ausgestattet. Zugewiesener Tiefgaragenstellplatz und ein Abstellraum. Zu den Extras gehören: Zentrale Kanalklimaanlage (warme und kalte Luft), Holzofen, Gaszentralheizung, Gemeinschaftsbereiche: Pool und Gärten. Ort Für den genauen Standort siehe den Pin auf Google Maps oben. Der Komplex liegt 2 Gehminuten vom Strand, Supermärkten, Restaurants und Bars sowie vielen anderen Annehmlichkeiten entfernt. Der Strand ist weniger als 100 m entfernt. Wenn Sie in dieser Immobilie wohnen, brauchen Sie kein Auto, da Sie alles, was Sie brauchen, zu Fuß erreichbar sind. Flughäfen Der Flughafen Almeria ist eine 45-minütige Fahrt, der Flughafen Murcia 1 Stunde 20 Minuten, der Flughafen Alicante 2 Stunden und der Flughafen Malaga 2 Stunden 45 Minuten. 4 Golfplätze Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. Der angegebene Preis beinhaltet nicht die Steuern und Ausgaben, die sich aus dem Verkauf ergeben (ITP zum aktuellen Steuersatz, Notar-, Registrierungs- und Anwaltskosten). Wir erinnern Sie daran, dass Sie als Verbraucher das Recht haben, je nach Fall informiert zu werden und die entsprechenden informativen Unterlagen zu erhalten, basierend auf den Bestimmungen des Dekrets 218/05 vom 11. Oktober, das die Vorschriften über Verbraucherinformationen beim Verkauf und der Vermietung von Wohnungen in Andalusien regelt. Über uns Mojacar Estates ist seit 1982 erfolgreich als unabhängige Immobilienverkaufs- und Ferienvermietungsagentur tätig. Unser engagiertes Team, das alle seit mehr als 20 Jahren in dieser Branche tätig ist, bietet unseren Kunden einen professionellen und sachkundigen Service. Unser Team spricht fließend Spanisch, Englisch und Deutsch. Wir bieten Immobilien zum Verkauf und zur Miete in Mojacar und Umgebung von Almeria, einschließlich Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos und San Juan de los Terreros. * El Duende — #ME 2641 * Reihenhaus * Weiterverkauf * 3 Schlafzimmer * 2 Bäder * Umbaute Fläche 112 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich',
+      },
+      images: {
+        image: [
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59303.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59295.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59291.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59290.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59292.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59287.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59288.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59301.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59289.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59297.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59296.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59293.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59299.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59300.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59298.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59302.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59304.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2641/xml_59305.jpg",
+          },
+        ],
+      },
+      prime: 1,
+    },
+    {
+      id: 2639,
+      date: "2023-02-13 15:11:16",
+      ref: "ME 2639",
+      price: 227500,
+      currency: "EUR",
+      price_freq: "sale",
+      type: "Apartment",
+      town: "Pulpi",
+      province: "Almeria",
+      location: {
+        latitude: 37.3659,
+        longitude: -1.711636,
+      },
+      beds: 3,
+      baths: 2,
+      pool: 1,
+      surface_area: {
+        built: 93,
+        plot: 0,
+      },
+      energy_rating: {
+        consumption: "X",
+        emissions: "X",
+      },
+      url: {
+        en: "https://mojacarestates.com/property/2639/apartment-in-pulpi",
+        es: "https://es.mojacarestates.com/propiedad/2639/apartamento-en-pulpi",
+        fr: "https://fr.mojacarestates.com/propriete/2639/appartement-en-pulpi",
+        nl: "https://nl.mojacarestates.com/woning/2639/appartement-in-pulpi",
+        de: "https://de.mojacarestates.com/immobilien/2639/appartement-in-pulpi",
+      },
+      desc: {
+        en: "This off-plan development on Aguilón Golf in Pulpí, Almería consists of 87 properties including 1, 2 and 3-bedroom apartments plus 4 exclusive semi-detached houses with 4 bedrooms. All homes have magnificent terraces facing the sea and the Aguilón Golf course, in a unique natural environment and include a fully equipped kitchen. The urbanisation has excellent communal areas with a saltwater communal swimming pool, gym, a social lounge and lifts. There are 33 three-bedroom apartments on all levels (ground, first, second and third floors) ranging from 93.10m2 to 137.66m2 of constructed area with terraces ranging from 26.50m2 to 55.20m2. The prices for the three-bedroom apartments vary from 227,500€ to 297,500€. Some of the 3 bedroom properties are duplexes, distributed on two floors with three bedrooms and one bathroom on the upper floor with a terrace and one bathroom on the lower floor with a large terrace off the living / dining room. 10% VAT is not included in the price. The apartments are due to be finished towards the end of 2025. Quality Specifications: - Outdoor carpentry will be in PVC or aluminium with thermal break insulation and double glazing. Bedrooms will have shutters. - Flooring in porcelain stoneware. Terraces in anti-slip porcelain stoneware. - Security door with security lock - Kitchens will be furnished with wall and low cabinets and a worktop made of compact quartz. - Bathrooms will be tiled with ceramic tiles plus extra possibility of including shower screens. White porcelain units and chrome taps. - Individual electric hot water heaters with a complement from solar panels on the roof. - Full ducted air conditioning system with heat pump with flow regulation. - TV and data connection in living room and bedrooms. Video intercom. - Apartments have an interior air renovation system with extractor fan. - Automated door to the garage parking. - There will be the option to customize some of the internal finishes and upgrade some of the appliances etc. For more information on these properties please contact us. Location On the above Google map click on enlarge map and the exact location of the properties for sale are marked with the blue pin. Aguilón Golf is located near Pulpi in Almeria (East Andalusia. An impressive 18-hole, par 70 golf course of outstanding quality and home to a large number of lakes, more than 100 bunkers and strategically located fast greens. This course has various levels of difficulty, is at the foot of the beautiful Sierra del Aguilón mountains, and has a challenging and spectacular design created using the natural gullies of the terrain where you can enjoy breathtaking views of the Bays of Pulpí and Águilas. There is a Club House with a restaurant & bar and a shop. The beaches of San Juan de los Terreros are a 5-minute drive away as are the many restaurants and services of this small town. The bigger town of Aguilas is a 20 minute drive away with all the amenities and everything that you need. Airports Almeria airport is 1 hour 15 minutes’ drive, Murcia airport is 1 hour 15 minutes, Alicante airport is 2 hours and Malaga airport is 3 hours 15 minutes. The indicated price does not include the taxes and expenses derived from the sale (ITP at the current tax rate, notary, registration and lawyer fees). We remind you that as a consumer you have the right to be informed and given the corresponding informative documentation, depending on the case, based on the provisions of Decree 218/05 of 11 October which regulates the Regulations on Consumer Information in the sale and rental of housing in Andalusia. About Us Mojacar Estates have been running successfully as an independent property sales and holiday rentals agency since 1982. Our dedicated team, who have all been working within this industry for more than 20 years, offer a professional and knowledgeable service to our clients. Our team speaks fluent Spanish, English and German. We offer properties for sale and rental in Mojacar and surrounding areas of Almeria, including Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos and San Juan de los Terreros. * Eagle Apartments 3 — #ME 2639 * Apartment * Newly Built * 3 bedrooms * 2 bathrooms * Constructed area 93 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible",
+        es: "Esta promoción sobre plano en Aguilón Golf en Pulpí, Almería consta de 87 propiedades que incluyen apartamentos de 1, 2 y 3 dormitorios más 4 exclusivas casas adosadas con 4 dormitorios. Todas las viviendas disponen de magníficas terrazas frente al mar y al campo de Golf Aguilón, en un entorno natural único e incluyen una cocina totalmente equipada. La urbanización cuenta con excelentes zonas comunes con piscina comunitaria de agua salada, gimnasio, salón social y ascensores. Hay 33 apartamentos de tres dormitorios en todos los niveles (planta baja, primera, segunda y tercera) que van desde 93,10m2 a 137,66m2 de superficie construida con terrazas que van desde 26,50m2 a 55,20m2. Los precios de los apartamentos de tres dormitorios varían de 227.500 € a 297.500 €. Algunas de las propiedades de 3 dormitorios son dúplex, distribuidas en dos plantas con tres dormitorios y un baño en la planta superior con terraza y un baño en la planta inferior con una gran terraza fuera del salón / comedor. El 10% de IVA no está incluido en el precio. Los apartamentos deben estar terminados a finales de 2025. Especificaciones de calidad: - La carpintería exterior será en PVC o aluminio con aislamiento de rotura de puente térmico y doble acristalamiento. Las habitaciones tendrán persianas. - Pavimentos de gres porcelánico. Terrazas en gres porcelánico antideslizante. - Puerta de seguridad con cerradura de seguridad - Las cocinas estarán amuebladas con gabinetes de pared y bajos y una encimera hecha de cuarzo compacto. - Los baños serán alicatados con azulejos de cerámica más posibilidad adicional de incluir mamparas de ducha. Muebles de porcelana blanca y grifería cromada. - Calentadores de agua eléctricos individuales con un complemento de paneles solares en el techo. - Sistema completo de aire acondicionado por conductos con bomba de calor con regulación de flujo. - TV y conexión de datos en salón y dormitorios. Videoportero. - Los apartamentos disponen de un sistema de renovación de aire interior con extractor. - Puerta automatizada al aparcamiento del garaje. - Habrá la opción de personalizar algunos de los acabados internos y actualizar algunos de los electrodomésticos, etc. Para obtener más información sobre estas propiedades, póngase en contacto con nosotros. Ubicación En el mapa de Google de arriba, haga clic en ampliar el mapa y la ubicación exacta de las propiedades en venta está marcada con el pin azul. Aguilón Golf se encuentra cerca de Pulpi en Almería (Andalucía Este. Un impresionante campo de golf de 18 hoyos, par 70 de excelente calidad y hogar de una gran cantidad de lagos, más de 100 bunkers y greens rápidos estratégicamente ubicados. Este campo tiene varios niveles de dificultad, se encuentra al pie de las hermosas montañas de la Sierra del Aguilón, y tiene un diseño desafiante y espectacular creado utilizando los barrancos naturales del terreno donde se puede disfrutar de impresionantes vistas de las Bahías de Pulpí y Águilas. Hay una Casa Club con un restaurante y bar y una tienda. Las playas de San Juan de los Terreros se encuentran a 5 minutos en coche, al igual que los numerosos restaurantes y servicios de esta pequeña ciudad. La ciudad más grande de Águilas se encuentra a 20 minutos en coche con todas las comodidades y todo lo que necesita. Aeropuertos El aeropuerto de Almería está a 1 hora y 15 minutos en coche, el aeropuerto de Murcia a 1 hora y 15 minutos, el aeropuerto de Alicante a 2 horas y el aeropuerto de Málaga a 3 horas y 15 minutos. El precio indicado no incluye los impuestos y gastos derivados de la compraventa (ITP al tipo impositivo vigente, honorarios notariales, registrales y de abogados). Le recordamos que como consumidor tiene derecho a ser informado y entregado la documentación informativa correspondiente, según el caso, en base a lo establecido en el Decreto 218/05 de 11 de octubre por el que se regula el Reglamento de Información al Consumidor en la compraventa y alquiler de viviendas en Andalucía. Sobre nosotros Mojacar Estates ha estado funcionando con éxito como una agencia independiente de venta de propiedades y alquileres vacacionales desde 1982. Nuestro equipo dedicado, que ha estado trabajando dentro de esta industria durante más de 20 años, ofrece un servicio profesional y bien informado a nuestros clientes. Nuestro equipo habla con fluidez español, inglés y alemán. Ofrecemos propiedades en venta y alquiler en Mojácar y sus alrededores de Almería, incluyendo Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos y San Juan de los Terreros. * Eagle Apartments 3 — #ME 2639 * Apartamento * Nueva construcción * 3 dormitorios * 2 cuartos de baño * Superficie construida 93 m² * Agua General * Luz General * Teléfono Posible * Internet Posible",
+        fr: "Ce développement sur plan sur Aguilón Golf à Pulpí, Almería se compose de 87 propriétés, dont des appartements de 1, 2 et 3 chambres et 4 maisons jumelées exclusives avec 4 chambres. Toutes les maisons disposent de magnifiques terrasses face à la mer et au parcours de golf d’Aguilón, dans un environnement naturel unique et comprennent une cuisine entièrement équipée. L’urbanisation dispose d’excellents espaces communs avec une piscine commune d’eau salée, une salle de sport, un salon social et des ascenseurs. Il y a 33 appartements de trois chambres sur tous les niveaux (rez-de-chaussée, premier, deuxième et troisième étages) allant de 93,10m2 à 137,66m2 de surface construite avec des terrasses allant de 26,50m2 à 55,20m2. Les prix des appartements de trois chambres varient de 227 500 € à 297 500 €. Certaines des propriétés de 3 chambres sont des duplex, répartis sur deux étages avec trois chambres et une salle de bain à l’étage supérieur avec une terrasse et une salle de bain à l’étage inférieur avec une grande terrasse hors salon / salle à manger. La TVA de 10% n’est pas incluse dans le prix. Les appartements devraient être terminés vers la fin de 2025. Spécifications de qualité: - Les menuiseries extérieures seront en PVC ou en aluminium avec isolation thermique et double vitrage. Les chambres auront des volets. - Revêtement de sol en grès cérame. Terrasses en grès cérame antidérapant. - Porte de sécurité avec serrure de sécurité - Les cuisines seront meublées avec des armoires murales et basses et un plan de travail en quartz compact. - Les salles de bains seront carrelées avec des carreaux de céramique plus possibilité supplémentaire d’inclure des parois de douche. Unités en porcelaine blanche et robinetterie chromée. - Chauffe-eau électriques individuels avec un complément de panneaux solaires sur le toit. - Système de climatisation entièrement canalisé avec pompe à chaleur avec régulation de débit. - TV et connexion de données dans le salon et les chambres. Interphone vidéo. - Les appartements disposent d’un système de rénovation d’air intérieur avec hotte aspirante. - Porte automatisée vers le garage stationnement. - Il y aura la possibilité de personnaliser certaines des finitions internes et de mettre à niveau certains des appareils, etc. Pour plus d’informations sur ces propriétés s’il vous plaît contactez-nous. Emplacement Sur la carte Google ci-dessus, cliquez sur agrandir la carte et l’emplacement exact des propriétés à vendre est marqué de l’épingle bleue. Aguilón Golf est situé près de Pulpi à Almeria (Andalousie orientale. Un impressionnant parcours de golf de 18 trous, par 70, d’une qualité exceptionnelle et abritant un grand nombre de lacs, plus de 100 bunkers et des greens rapides stratégiquement situés. Ce parcours a différents niveaux de difficulté, est au pied de la belle Sierra del Aguilón, et a un design stimulant et spectaculaire créé en utilisant les ravins naturels du terrain où vous pourrez profiter d’une vue imprenable sur les baies de Pulpí et Águilas. Il y a un Club House avec un restaurant et un bar et une boutique. Les plages de San Juan de los Terreros sont accessibles en 5 minutes de route, tout comme les nombreux restaurants et services de cette petite ville. La plus grande ville d’Aguilas se trouve à 20 minutes en voiture avec toutes les commodités et tout ce dont vous avez besoin. Aéroports L’aéroport d’Almeria est à 1 heure 15 minutes de route, l’aéroport de Murcie est à 1 heure 15 minutes, l’aéroport d’Alicante est à 2 heures et l’aéroport de Malaga est à 3 heures 15 minutes. Le prix indiqué ne comprend pas les taxes et frais dérivés de la vente (ITP au taux d’imposition en vigueur, frais de notaire, d’enregistrement et d’avocat). Nous vous rappelons qu’en tant que consommateur, vous avez le droit d’être informé et de recevoir la documentation informative correspondante, selon le cas, sur la base des dispositions du décret 218/05 du 11 octobre qui réglemente le règlement sur l’information des consommateurs dans la vente et la location de logements en Andalousie. Qui sommes-nous Mojacar Estates fonctionne avec succès en tant qu’agence indépendante de vente immobilière et de location de vacances depuis 1982. Notre équipe dévouée, qui travaille dans cette industrie depuis plus de 20 ans, offre un service professionnel et compétent à nos clients. Notre équipe parle couramment l’espagnol, l’anglais et l’allemand. Nous proposons des propriétés à vendre et à louer à Mojacar et dans les environs d’Almeria, y compris Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos et San Juan de los Terreros. * Eagle Apartments 3 — #ME 2639 * Appartement * Nouveau bâtiment * 3 chambres à coucher * 2 salles de bains * Surface habitable 93 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
+        nl: "Deze off-plan ontwikkeling op Aguilón Golf in Pulpí, Almería bestaat uit 87 woningen, waaronder appartementen met 1, 2 en 3 slaapkamers plus 4 exclusieve halfvrijstaande huizen met 4 slaapkamers. Alle huizen hebben prachtige terrassen met uitzicht op de zee en de aguilón golfbaan, in een unieke natuurlijke omgeving en beschikken over een volledig uitgeruste keuken. De urbanisatie heeft uitstekende gemeenschappelijke ruimtes met een zoutwater gemeenschappelijk zwembad, een fitnessruimte, een sociale lounge en liften. Er zijn 33 appartementen met drie slaapkamers op alle niveaus (begane grond, eerste, tweede en derde verdieping) variërend van 93,10m2 tot 137,66m2 bebouwde oppervlakte met terrassen variërend van 26,50m2 tot 55,20m2. De prijzen voor de appartementen met drie slaapkamers variëren van 227.500€ tot € 297.500€ . Sommige van de woningen met 3 slaapkamers zijn duplexen, verdeeld over twee verdiepingen met drie slaapkamers en een badkamer op de bovenste verdieping met een terras en een badkamer op de benedenverdieping met een groot terras naast de woon / eetkamer. 10% BTW is niet inbegrepen in de prijs. De appartementen moeten eind 2025 klaar zijn. Kwaliteitsspecificaties: - Buiten timmerwerk zal in PVC of aluminium zijn met thermische scheidingsisolatie en dubbele beglazing. Slaapkamers hebben rolluiken. - Vloeren in porseleinen aardewerk. Terrassen in antislip porseleinen aardewerk. - Veiligheidsdeur met veiligheidsslot - Keukens worden ingericht met wand- en lage kasten en een werkblad van compact kwarts. - Badkamers worden betegeld met keramische tegels plus extra mogelijkheid om doucheschermen op te nemen. Witte porseleinen units en chromen kranen. - Individuele elektrische warmwaterboilers met een aanvulling van zonnepanelen op het dak. - Volledig geleid airconditioningsysteem met warmtepomp met stroomregeling. - TV en data aansluiting in woonkamer en slaapkamers. Video-intercom. - Appartementen hebben een interieur luchtrenovatiesysteem met afzuigkap. - Automatische deur naar de parkeergarage. - Er zal de optie zijn om enkele van de interne afwerkingen aan te passen en sommige apparaten te upgraden, enz. Voor meer informatie over deze woningen kunt u contact met ons opnemen. Plaats Klik op de bovenstaande Google-kaart op de kaart en de exacte locatie van de te koop staande woningen zijn gemarkeerd met de blauwe pin. Aguilón Golf ligt in de buurt van Pulpi in Almeria (Oost-Andalusië). Een indrukwekkende 18-holes, par 70 golfbaan van uitstekende kwaliteit en de thuisbasis van een groot aantal meren, meer dan 100 bunkers en strategisch gelegen snelle greens. Deze baan heeft verschillende moeilijkheidsgraden, ligt aan de voet van de prachtige Bergen van de Sierra del Aguilón en heeft een uitdagend en spectaculair ontwerp gemaakt met behulp van de natuurlijke geulen van het terrein waar u kunt genieten van een adembenemend uitzicht op de baaien van Pulpí en Águilas. Er is een clubhuis met een restaurant en een bar en een winkel. De stranden van San Juan de los Terreros liggen op 5 minuten rijden, net als de vele restaurants en diensten van dit kleine stadje. De grotere stad Aguilas ligt op 20 minuten rijden met alle voorzieningen en alles wat je nodig hebt. Luchthavens De luchthaven van Almeria ligt op 1 uur en 15 minuten rijden, de luchthaven van Murcia op 1 uur en 15 minuten, de luchthaven van Alicante op 2 uur en de luchthaven van Malaga op 3 uur en 15 minuten. De aangegeven prijs is exclusief de belastingen en kosten die voortvloeien uit de verkoop (ITP tegen het huidige belastingtarief, notaris-, registratie- en advocaatkosten). Wij herinneren u eraan dat u als consument het recht hebt om geïnformeerd te worden en de bijbehorende informatieve documentatie te krijgen, afhankelijk van het geval, op basis van de bepalingen van decreet 218/05 van 11 oktober dat de voorschriften inzake consumenteninformatie bij de verkoop en verhuur van woningen in Andalusië regelt. Informatie Mojacar Estates draait sinds 1982 met succes als een onafhankelijk makelaarskantoor voor de verkoop van onroerend goed en vakantieverhuur. Ons toegewijde team, dat allemaal al meer dan 20 jaar in deze branche werkt, biedt een professionele en deskundige service aan onze klanten. Ons team spreekt vloeiend Spaans, Engels en Duits. Wij bieden onroerend goed te koop en te huur in Mojacar en de omliggende gebieden van Almeria, waaronder Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos en San Juan de los Terreros. * Eagle Apartments 3 — #ME 2639 * Appartement * Nieuwbouw * 3 slaapkamers * 2 badkamers * Bebouwde oppervlakte 93 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk",
+        de: "Diese Off-Plan-Anlage am Aguilón Golf in Pulpí, Almería, besteht aus 87 Immobilien, darunter Apartments mit 1, 2 und 3 Schlafzimmern sowie 4 exklusiven Doppelhaushälften mit 4 Schlafzimmern. Alle Häuser verfügen über herrliche Terrassen mit Blick auf das Meer und den Golfplatz Aguilón in einer einzigartigen natürlichen Umgebung und verfügen über eine voll ausgestattete Küche. Die Urbanisation verfügt über ausgezeichnete Gemeinschaftsbereiche mit einem Salzwasser-Gemeinschaftspool, einem Fitnessraum, einer Gemeinschaftslounge und Aufzügen. Es gibt 33 Drei-Zimmer-Wohnungen auf allen Ebenen (Erdgeschoss, erste, zweite und dritte Etage) von 93,10m2 bis 137,66m2 bebaute Fläche mit Terrassen von 26,50m2 bis 55,20m2. Die Preise für die Dreizimmerwohnungen variieren von 227.500€ bis 297.500€. Einige der 3-Zimmer-Immobilien sind Maisonetten, verteilt auf zwei Etagen mit drei Schlafzimmern und einem Badezimmer im Obergeschoss mit Terrasse und einem Badezimmer auf der unteren Etage mit einer großen Terrasse vor dem Wohn- / Esszimmer. 10% Mehrwertsteuer ist nicht im Preis inbegriffen. Die Wohnungen sollen gegen Ende 2025 fertiggestellt werden. Qualitätsvorgaben: - Die Tischlerei im Freien wird aus PVC oder Aluminium mit thermischer Trennisolierung und Doppelverglasung sein. Die Schlafzimmer verfügen über Fensterläden. - Bodenbeläge aus Feinsteinzeug. Terrassen aus rutschfestem Feinsteinzeug. - Sicherheitstür mit Sicherheitsschloss - Die Küchen werden mit Wand- und niedrigen Schränken und einer Arbeitsplatte aus kompaktem Quarz ausgestattet. - Die Badezimmer werden mit Keramikfliesen und zusätzlichen Duschwänden gefliest. Weiße Porzellaneinheiten und Chromarmaturen. - Individuelle elektrische Warmwasserbereiter mit einer Ergänzung von Sonnenkollektoren auf dem Dach. - Komplette Kanalklimaanlage mit Wärmepumpe mit Durchflussregelung. - TV- und Datenanschluss im Wohn- und Schlafzimmer. Video-Gegensprechanlage. - Die Apartments verfügen über ein Innenluftrenovierungssystem mit Dunstabzugshaube. - Automatisiertes Tor zum Garagenparkplatz. - Es wird die Möglichkeit geben, einige der internen Oberflächen anzupassen und einige der Geräte usw. zu aktualisieren. Für weitere Informationen zu diesen Immobilien kontaktieren Sie uns bitte. Ort Klicken Sie auf der obigen Google-Karte auf die Karte vergrößern und die genaue Lage der zum Verkauf stehenden Immobilien ist mit dem blauen Pin markiert. Aguilón Golf liegt in der Nähe von Pulpi in Almeria (Ostandalusien. Ein beeindruckender 18-Loch, Par 70 Golfplatz von herausragender Qualität und Heimat einer großen Anzahl von Seen, mehr als 100 Bunkern und strategisch gelegenen schnellen Grüns. Dieser Platz hat verschiedene Schwierigkeitsgrade, liegt am Fuße der wunderschönen Sierra del Aguilón und hat ein anspruchsvolles und spektakuläres Design, das aus den natürlichen Schluchten des Geländes erstellt wurde, wo Sie einen atemberaubenden Blick auf die Buchten von Pulpí und Águilas genießen können. Es gibt ein Clubhaus mit einem Restaurant & Bar und einem Geschäft. Die Strände von San Juan de los Terreros sind eine 5-minütige Autofahrt entfernt, ebenso wie die vielen Restaurants und Dienstleistungen dieser kleinen Stadt. Die größere Stadt Aguilas ist eine 20-minütige Autofahrt entfernt mit allen Annehmlichkeiten und allem, was Sie brauchen. Flughäfen Der Flughafen Almeria ist 1 Stunde 15 Autominuten entfernt, der Flughafen Murcia 1 Stunde 15 Minuten, der Flughafen Alicante 2 Stunden und der Flughafen Malaga 3 Stunden 15 Minuten. Der angegebene Preis beinhaltet nicht die Steuern und Ausgaben, die sich aus dem Verkauf ergeben (ITP zum aktuellen Steuersatz, Notar-, Registrierungs- und Anwaltskosten). Wir erinnern Sie daran, dass Sie als Verbraucher das Recht haben, je nach Fall informiert zu werden und die entsprechenden informativen Unterlagen zu erhalten, basierend auf den Bestimmungen des Dekrets 218/05 vom 11. Oktober, das die Vorschriften über Verbraucherinformationen beim Verkauf und der Vermietung von Wohnungen in Andalusien regelt. Über uns Mojacar Estates ist seit 1982 erfolgreich als unabhängige Immobilienverkaufs- und Ferienvermietungsagentur tätig. Unser engagiertes Team, das alle seit mehr als 20 Jahren in dieser Branche tätig ist, bietet unseren Kunden einen professionellen und sachkundigen Service. Unser Team spricht fließend Spanisch, Englisch und Deutsch. Wir bieten Immobilien zum Verkauf und zur Miete in Mojacar und Umgebung von Almeria, einschließlich Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos und San Juan de los Terreros. * Eagle Apartments 3 — #ME 2639 * Appartement * Neubau * 3 Schlafzimmer * 2 Bäder * Umbaute Fläche 93 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich",
+      },
+      images: {
+        image: [
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2639/xml_59276.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2639/xml_59277.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2639/xml_59280.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2639/xml_59278.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2639/xml_59281.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2639/xml_59282.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2639/xml_59283.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2639/xml_59284.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2639/xml_59285.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2639/xml_59279.jpg",
+          },
+          {
+            tags: {
+              tag: "floorplan",
+            },
+            url: "https://static.mojacarestates.com/floor_plans/3/2639/nwm_47.jpg",
+          },
+          {
+            tags: {
+              tag: "floorplan",
+            },
+            url: "https://static.mojacarestates.com/floor_plans/3/2639/nwm_48.jpg",
+          },
+          {
+            tags: {
+              tag: "floorplan",
+            },
+            url: "https://static.mojacarestates.com/floor_plans/3/2639/nwm_49.jpg",
+          },
+          {
+            tags: {
+              tag: "floorplan",
+            },
+            url: "https://static.mojacarestates.com/floor_plans/3/2639/nwm_50.jpg",
+          },
+        ],
+      },
+    },
+    {
+      id: 2637,
+      date: "2023-02-13 15:03:42",
+      ref: "ME 2637",
+      price: 132500,
+      currency: "EUR",
+      price_freq: "sale",
+      type: "Apartment",
+      town: "Pulpi",
+      province: "Almeria",
+      location: {
+        latitude: 37.369123,
+        longitude: -1.709169,
+      },
+      beds: 1,
+      baths: 1,
+      pool: 1,
+      surface_area: {
+        built: 45,
+        plot: 0,
+      },
+      energy_rating: {
+        consumption: "X",
+        emissions: "X",
+      },
+      url: {
+        en: "https://mojacarestates.com/property/2637/apartment-in-pulpi",
+        es: "https://es.mojacarestates.com/propiedad/2637/apartamento-en-pulpi",
+        fr: "https://fr.mojacarestates.com/propriete/2637/appartement-en-pulpi",
+        nl: "https://nl.mojacarestates.com/woning/2637/appartement-in-pulpi",
+        de: "https://de.mojacarestates.com/immobilien/2637/appartement-in-pulpi",
+      },
+      desc: {
+        en: "This off-plan development on Aguilón Golf in Pulpí, Almería consists of 87 properties including 1, 2 and 3-bedroom apartments plus 4 exclusive semi-detached houses with 4 bedrooms. All homes have magnificent terraces facing the sea and the Aguilón Golf course, in a unique natural environment and include a fully equipped kitchen. The urbanisation has excellent communal areas with a saltwater communal swimming pool, gym, a social lounge and lifts. There are 14 one-bedroom apartments on all levels (ground, first, second and third floors) ranging from 45.68m2 to 60.35m2 of constructed area with terraces ranging from 18.30m2 to 30.30m2. The prices for the one bedroom apartments vary from 132,500€ to 142,500€. 10% VAT is not included in the price. The apartments are due to be finished towards the end of 2025. Quality Specifications: - Outdoor carpentry will be in PVC or aluminium with thermal break insulation and double glazing. Bedrooms will have shutters. - Flooring in porcelain stoneware. Terraces in anti-slip porcelain stoneware. - Security door with security lock - Kitchens will be furnished with wall and low cabinets and a worktop made of compact quartz. - Bathrooms will be tiled with ceramic tiles plus extra possibility of including shower screens. White porcelain units and chrome taps. - Individual electric hot water heaters with a complement from solar panels on the roof. - Full ducted air conditioning system with heat pump with flow regulation. - TV and data connection in living room and bedrooms. Video intercom. - Apartments have an interior air renovation system with extractor fan. - Automated door to the garage parking. - There will be the option to customize some of the internal finishes and upgrade some of the appliances etc. For more information on these properties please contact us. Location On the above Google map click on enlarge map and the exact location of the properties for sale are marked with the blue pin. Aguilón Golf is located near Pulpi in Almeria (East Andalusia. An impressive 18-hole, par 70 golf course of outstanding quality and home to a large number of lakes, more than 100 bunkers and strategically located fast greens. This course has various levels of difficulty, is at the foot of the beautiful Sierra del Aguilón mountains, and has a challenging and spectacular design created using the natural gullies of the terrain where you can enjoy breathtaking views of the Bays of Pulpí and Águilas. There is a Club House with a restaurant & bar and a shop. The beaches of San Juan de los Terreros are a 5-minute drive away as are the many restaurants and services of this small town. The bigger town of Aguilas is a 20 minute drive away with all the amenities and everything that you need. Airports Almeria airport is 1 hour 15 minutes’ drive, Murcia airport is 1 hour 15 minutes, Alicante airport is 2 hours and Malaga airport is 3 hours 15 minutes. The indicated price does not include the taxes and expenses derived from the sale (ITP at the current tax rate, notary, registration and lawyer fees). We remind you that as a consumer you have the right to be informed and given the corresponding informative documentation, depending on the case, based on the provisions of Decree 218/05 of 11 October which regulates the Regulations on Consumer Information in the sale and rental of housing in Andalusia. About Us Mojacar Estates have been running successfully as an independent property sales and holiday rentals agency since 1982. Our dedicated team, who have all been working within this industry for more than 20 years, offer a professional and knowledgeable service to our clients. Our team speaks fluent Spanish, English and German. We offer properties for sale and rental in Mojacar and surrounding areas of Almeria, including Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos and San Juan de los Terreros. * Eagle Apartments 1 — #ME 2637 * Apartment * Newly Built * One bedroom * One bathroom * Constructed area 45 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible",
+        es: "Esta promoción sobre plano en Aguilón Golf en Pulpí, Almería consta de 87 propiedades que incluyen apartamentos de 1, 2 y 3 dormitorios más 4 exclusivas casas adosadas con 4 dormitorios. Todas las viviendas disponen de magníficas terrazas frente al mar y al campo de Golf Aguilón, en un entorno natural único e incluyen una cocina totalmente equipada. La urbanización cuenta con excelentes zonas comunes con piscina comunitaria de agua salada, gimnasio, salón social y ascensores. Hay 14 apartamentos de un dormitorio en todos los niveles (planta baja, primera, segunda y tercera) que van desde 45,68m2 a 60,35m2 de superficie construida con terrazas que van desde 18,30m2 a 30,30m2. Los precios de los apartamentos de un dormitorio varían de 132.500 € a 142.500 €. El 10% de IVA no está incluido en el precio. Los apartamentos deben estar terminados a finales de 2025. Especificaciones de calidad: - La carpintería exterior será en PVC o aluminio con aislamiento de rotura de puente térmico y doble acristalamiento. Las habitaciones tendrán persianas. - Pavimentos de gres porcelánico. Terrazas en gres porcelánico antideslizante. - Puerta de seguridad con cerradura de seguridad - Las cocinas estarán amuebladas con gabinetes de pared y bajos y una encimera hecha de cuarzo compacto. - Los baños serán alicatados con azulejos de cerámica más posibilidad adicional de incluir mamparas de ducha. Muebles de porcelana blanca y grifería cromada. - Calentadores de agua eléctricos individuales con un complemento de paneles solares en el techo. - Sistema completo de aire acondicionado por conductos con bomba de calor con regulación de flujo. - TV y conexión de datos en salón y dormitorios. Videoportero. - Los apartamentos disponen de un sistema de renovación de aire interior con extractor. - Puerta automatizada al aparcamiento del garaje. - Habrá la opción de personalizar algunos de los acabados internos y actualizar algunos de los electrodomésticos, etc. Para obtener más información sobre estas propiedades, póngase en contacto con nosotros. Ubicación En el mapa de Google de arriba, haga clic en ampliar el mapa y la ubicación exacta de las propiedades en venta está marcada con el pin azul. Aguilón Golf se encuentra cerca de Pulpi en Almería (Andalucía Este. Un impresionante campo de golf de 18 hoyos, par 70 de excelente calidad y hogar de una gran cantidad de lagos, más de 100 bunkers y greens rápidos estratégicamente ubicados. Este campo tiene varios niveles de dificultad, se encuentra al pie de las hermosas montañas de la Sierra del Aguilón, y tiene un diseño desafiante y espectacular creado utilizando los barrancos naturales del terreno donde se puede disfrutar de impresionantes vistas de las Bahías de Pulpí y Águilas. Hay una Casa Club con un restaurante y bar y una tienda. Las playas de San Juan de los Terreros se encuentran a 5 minutos en coche, al igual que los numerosos restaurantes y servicios de esta pequeña ciudad. La ciudad más grande de Águilas se encuentra a 20 minutos en coche con todas las comodidades y todo lo que necesita. Aeropuertos El aeropuerto de Almería está a 1 hora y 15 minutos en coche, el aeropuerto de Murcia a 1 hora y 15 minutos, el aeropuerto de Alicante a 2 horas y el aeropuerto de Málaga a 3 horas y 15 minutos. El precio indicado no incluye los impuestos y gastos derivados de la compraventa (ITP al tipo impositivo vigente, honorarios notariales, registrales y de abogados). Le recordamos que como consumidor tiene derecho a ser informado y entregado la documentación informativa correspondiente, según el caso, en base a lo establecido en el Decreto 218/05 de 11 de octubre por el que se regula el Reglamento de Información al Consumidor en la compraventa y alquiler de viviendas en Andalucía. Sobre nosotros Mojacar Estates ha estado funcionando con éxito como una agencia independiente de venta de propiedades y alquileres vacacionales desde 1982. Nuestro equipo dedicado, que ha estado trabajando dentro de esta industria durante más de 20 años, ofrece un servicio profesional y bien informado a nuestros clientes. Nuestro equipo habla con fluidez español, inglés y alemán. Ofrecemos propiedades en venta y alquiler en Mojácar y sus alrededores de Almería, incluyendo Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos y San Juan de los Terreros. * Eagle Apartments 1 — #ME 2637 * Apartamento * Nueva construcción * Un dormitorio * Un cuarto de baño * Superficie construida 45 m² * Agua General * Luz General * Teléfono Posible * Internet Posible",
+        fr: "Ce développement sur plan sur Aguilón Golf à Pulpí, Almería se compose de 87 propriétés, dont des appartements de 1, 2 et 3 chambres et 4 maisons jumelées exclusives avec 4 chambres. Toutes les maisons disposent de magnifiques terrasses face à la mer et au parcours de golf d’Aguilón, dans un environnement naturel unique et comprennent une cuisine entièrement équipée. L’urbanisation dispose d’excellents espaces communs avec une piscine commune d’eau salée, une salle de sport, un salon social et des ascenseurs. Il y a 14 appartements d’une chambre sur tous les niveaux (rez-de-chaussée, premier, deuxième et troisième étages) allant de 45,68m2 à 60,35m2 de surface construite avec des terrasses allant de 18,30m2 à 30,30m2. Les prix des appartements d’une chambre varient de 132 500 € à 142 500 €. La TVA de 10% n’est pas incluse dans le prix. Les appartements devraient être terminés vers la fin de 2025. Spécifications de qualité: - Les menuiseries extérieures seront en PVC ou en aluminium avec isolation thermique et double vitrage. Les chambres auront des volets. - Revêtement de sol en grès cérame. Terrasses en grès cérame antidérapant. - Porte de sécurité avec serrure de sécurité - Les cuisines seront meublées avec des armoires murales et basses et un plan de travail en quartz compact. - Les salles de bains seront carrelées avec des carreaux de céramique plus possibilité supplémentaire d’inclure des parois de douche. Unités en porcelaine blanche et robinetterie chromée. - Chauffe-eau électriques individuels avec un complément de panneaux solaires sur le toit. - Système de climatisation entièrement canalisé avec pompe à chaleur avec régulation de débit. - TV et connexion de données dans le salon et les chambres. Interphone vidéo. - Les appartements disposent d’un système de rénovation d’air intérieur avec hotte aspirante. - Porte automatisée vers le garage stationnement. - Il y aura la possibilité de personnaliser certaines des finitions internes et de mettre à niveau certains des appareils, etc. Pour plus d’informations sur ces propriétés s’il vous plaît contactez-nous. Emplacement Sur la carte Google ci-dessus, cliquez sur agrandir la carte et l’emplacement exact des propriétés à vendre est marqué de l’épingle bleue. Aguilón Golf est situé près de Pulpi à Almeria (Andalousie orientale. Un impressionnant parcours de golf de 18 trous, par 70, d’une qualité exceptionnelle et abritant un grand nombre de lacs, plus de 100 bunkers et des greens rapides stratégiquement situés. Ce parcours a différents niveaux de difficulté, est au pied de la belle Sierra del Aguilón, et a un design stimulant et spectaculaire créé en utilisant les ravins naturels du terrain où vous pourrez profiter d’une vue imprenable sur les baies de Pulpí et Águilas. Il y a un Club House avec un restaurant et un bar et une boutique. Les plages de San Juan de los Terreros sont accessibles en 5 minutes de route, tout comme les nombreux restaurants et services de cette petite ville. La plus grande ville d’Aguilas se trouve à 20 minutes en voiture avec toutes les commodités et tout ce dont vous avez besoin. Aéroports L’aéroport d’Almeria est à 1 heure 15 minutes de route, l’aéroport de Murcie est à 1 heure 15 minutes, l’aéroport d’Alicante est à 2 heures et l’aéroport de Malaga est à 3 heures 15 minutes. Le prix indiqué ne comprend pas les taxes et frais dérivés de la vente (ITP au taux d’imposition en vigueur, frais de notaire, d’enregistrement et d’avocat). Nous vous rappelons qu’en tant que consommateur, vous avez le droit d’être informé et de recevoir la documentation informative correspondante, selon le cas, sur la base des dispositions du décret 218/05 du 11 octobre qui réglemente le règlement sur l’information des consommateurs dans la vente et la location de logements en Andalousie. Qui sommes-nous Mojacar Estates fonctionne avec succès en tant qu’agence indépendante de vente immobilière et de location de vacances depuis 1982. Notre équipe dévouée, qui travaille dans cette industrie depuis plus de 20 ans, offre un service professionnel et compétent à nos clients. Notre équipe parle couramment l’espagnol, l’anglais et l’allemand. Nous proposons des propriétés à vendre et à louer à Mojacar et dans les environs d’Almeria, y compris Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos et San Juan de los Terreros. * Eagle Apartments 1 — #ME 2637 * Appartement * Nouveau bâtiment * Une chambre à coucher * Une salle de bains * Surface habitable 45 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
+        nl: "Deze off-plan ontwikkeling op Aguilón Golf in Pulpí, Almería bestaat uit 87 woningen, waaronder appartementen met 1, 2 en 3 slaapkamers plus 4 exclusieve halfvrijstaande huizen met 4 slaapkamers. Alle huizen hebben prachtige terrassen met uitzicht op de zee en de aguilón golfbaan, in een unieke natuurlijke omgeving en beschikken over een volledig uitgeruste keuken. De urbanisatie heeft uitstekende gemeenschappelijke ruimtes met een zoutwater gemeenschappelijk zwembad, een fitnessruimte, een sociale lounge en liften. Er zijn 14 appartementen met een slaapkamer op alle niveaus (begane grond, eerste, tweede en derde verdieping), variërend van 45,68m2 tot 60,35m2 bebouwde oppervlakte met terrassen variërend van 18,30m2 tot 30,30m2. De prijzen voor de appartementen met één slaapkamer variëren van 132.500€ tot € 142.500. 10% BTW is niet inbegrepen in de prijs. De appartementen moeten eind 2025 klaar zijn. Kwaliteitsspecificaties: - Buiten timmerwerk zal in PVC of aluminium zijn met thermische scheidingsisolatie en dubbele beglazing. Slaapkamers hebben rolluiken. - Vloeren in porseleinen aardewerk. Terrassen in antislip porseleinen aardewerk. - Veiligheidsdeur met veiligheidsslot - Keukens worden ingericht met wand- en lage kasten en een werkblad van compact kwarts. - Badkamers worden betegeld met keramische tegels plus extra mogelijkheid om doucheschermen op te nemen. Witte porseleinen units en chromen kranen. - Individuele elektrische warmwaterboilers met een aanvulling van zonnepanelen op het dak. - Volledig geleid airconditioningsysteem met warmtepomp met stroomregeling. - TV en data aansluiting in woonkamer en slaapkamers. Video-intercom. - Appartementen hebben een interieur luchtrenovatiesysteem met afzuigkap. - Automatische deur naar de parkeergarage. - Er zal de optie zijn om enkele van de interne afwerkingen aan te passen en sommige apparaten te upgraden, enz. Voor meer informatie over deze woningen kunt u contact met ons opnemen. Plaats Klik op de bovenstaande Google-kaart op de kaart en de exacte locatie van de te koop staande woningen zijn gemarkeerd met de blauwe pin. Aguilón Golf ligt in de buurt van Pulpi in Almeria (Oost-Andalusië). Een indrukwekkende 18-holes, par 70 golfbaan van uitstekende kwaliteit en de thuisbasis van een groot aantal meren, meer dan 100 bunkers en strategisch gelegen snelle greens. Deze baan heeft verschillende moeilijkheidsgraden, ligt aan de voet van de prachtige Bergen van de Sierra del Aguilón en heeft een uitdagend en spectaculair ontwerp gemaakt met behulp van de natuurlijke geulen van het terrein waar u kunt genieten van een adembenemend uitzicht op de baaien van Pulpí en Águilas. Er is een clubhuis met een restaurant en een bar en een winkel. De stranden van San Juan de los Terreros liggen op 5 minuten rijden, net als de vele restaurants en diensten van dit kleine stadje. De grotere stad Aguilas ligt op 20 minuten rijden met alle voorzieningen en alles wat je nodig hebt. Luchthavens De luchthaven van Almeria ligt op 1 uur en 15 minuten rijden, de luchthaven van Murcia op 1 uur en 15 minuten, de luchthaven van Alicante op 2 uur en de luchthaven van Malaga op 3 uur en 15 minuten. De aangegeven prijs is exclusief de belastingen en kosten die voortvloeien uit de verkoop (ITP tegen het huidige belastingtarief, notaris-, registratie- en advocaatkosten). Wij herinneren u eraan dat u als consument het recht hebt om geïnformeerd te worden en de bijbehorende informatieve documentatie te krijgen, afhankelijk van het geval, op basis van de bepalingen van decreet 218/05 van 11 oktober dat de voorschriften inzake consumenteninformatie bij de verkoop en verhuur van woningen in Andalusië regelt. Informatie Mojacar Estates draait sinds 1982 met succes als een onafhankelijk makelaarskantoor voor de verkoop van onroerend goed en vakantieverhuur. Ons toegewijde team, dat allemaal al meer dan 20 jaar in deze branche werkt, biedt een professionele en deskundige service aan onze klanten. Ons team spreekt vloeiend Spaans, Engels en Duits. Wij bieden onroerend goed te koop en te huur in Mojacar en de omliggende gebieden van Almeria, waaronder Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos en San Juan de los Terreros. * Eagle Apartments 1 — #ME 2637 * Appartement * Nieuwbouw * Een slaapkamer * Een badkamer * Bebouwde oppervlakte 45 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk",
+        de: "Diese Off-Plan-Anlage am Aguilón Golf in Pulpí, Almería, besteht aus 87 Immobilien, darunter Apartments mit 1, 2 und 3 Schlafzimmern sowie 4 exklusiven Doppelhaushälften mit 4 Schlafzimmern. Alle Häuser verfügen über herrliche Terrassen mit Blick auf das Meer und den Golfplatz Aguilón in einer einzigartigen natürlichen Umgebung und verfügen über eine voll ausgestattete Küche. Die Urbanisation verfügt über ausgezeichnete Gemeinschaftsbereiche mit einem Salzwasser-Gemeinschaftspool, einem Fitnessraum, einer Gemeinschaftslounge und Aufzügen. Es gibt 14 Apartments mit einem Schlafzimmer auf allen Ebenen (Erdgeschoss, erste, zweite und dritte Etage) von 45,68 m2 bis 60,35 m2 bebaute Fläche mit Terrassen von 18,30 m2 bis 30,30 m2. Die Preise für die Apartments mit einem Schlafzimmer variieren zwischen 132.500 € und 142.500 €. 10% Mehrwertsteuer ist nicht im Preis inbegriffen. Die Wohnungen sollen gegen Ende 2025 fertiggestellt werden. Qualitätsvorgaben: - Die Tischlerei im Freien wird aus PVC oder Aluminium mit thermischer Trennisolierung und Doppelverglasung sein. Die Schlafzimmer verfügen über Fensterläden. - Bodenbeläge aus Feinsteinzeug. Terrassen aus rutschfestem Feinsteinzeug. - Sicherheitstür mit Sicherheitsschloss - Die Küchen werden mit Wand- und niedrigen Schränken und einer Arbeitsplatte aus kompaktem Quarz ausgestattet. - Die Badezimmer werden mit Keramikfliesen und zusätzlichen Duschwänden gefliest. Weiße Porzellaneinheiten und Chromarmaturen. - Individuelle elektrische Warmwasserbereiter mit einer Ergänzung von Sonnenkollektoren auf dem Dach. - Komplette Kanalklimaanlage mit Wärmepumpe mit Durchflussregelung. - TV- und Datenanschluss im Wohn- und Schlafzimmer. Video-Gegensprechanlage. - Die Apartments verfügen über ein Innenluftrenovierungssystem mit Dunstabzugshaube. - Automatisiertes Tor zum Garagenparkplatz. - Es wird die Möglichkeit geben, einige der internen Oberflächen anzupassen und einige der Geräte usw. zu aktualisieren. Für weitere Informationen zu diesen Immobilien kontaktieren Sie uns bitte. Ort Klicken Sie auf der obigen Google-Karte auf die Karte vergrößern und die genaue Lage der zum Verkauf stehenden Immobilien ist mit dem blauen Pin markiert. Aguilón Golf liegt in der Nähe von Pulpi in Almeria (Ostandalusien. Ein beeindruckender 18-Loch, Par 70 Golfplatz von herausragender Qualität und Heimat einer großen Anzahl von Seen, mehr als 100 Bunkern und strategisch gelegenen schnellen Grüns. Dieser Platz hat verschiedene Schwierigkeitsgrade, liegt am Fuße der wunderschönen Sierra del Aguilón und hat ein anspruchsvolles und spektakuläres Design, das aus den natürlichen Schluchten des Geländes erstellt wurde, wo Sie einen atemberaubenden Blick auf die Buchten von Pulpí und Águilas genießen können. Es gibt ein Clubhaus mit einem Restaurant & Bar und einem Geschäft. Die Strände von San Juan de los Terreros sind eine 5-minütige Autofahrt entfernt, ebenso wie die vielen Restaurants und Dienstleistungen dieser kleinen Stadt. Die größere Stadt Aguilas ist eine 20-minütige Autofahrt entfernt mit allen Annehmlichkeiten und allem, was Sie brauchen. Flughäfen Der Flughafen Almeria ist 1 Stunde 15 Autominuten entfernt, der Flughafen Murcia 1 Stunde 15 Minuten, der Flughafen Alicante 2 Stunden und der Flughafen Malaga 3 Stunden 15 Minuten. Der angegebene Preis beinhaltet nicht die Steuern und Ausgaben, die sich aus dem Verkauf ergeben (ITP zum aktuellen Steuersatz, Notar-, Registrierungs- und Anwaltskosten). Wir erinnern Sie daran, dass Sie als Verbraucher das Recht haben, je nach Fall informiert zu werden und die entsprechenden informativen Unterlagen zu erhalten, basierend auf den Bestimmungen des Dekrets 218/05 vom 11. Oktober, das die Vorschriften über Verbraucherinformationen beim Verkauf und der Vermietung von Wohnungen in Andalusien regelt. Über uns Mojacar Estates ist seit 1982 erfolgreich als unabhängige Immobilienverkaufs- und Ferienvermietungsagentur tätig. Unser engagiertes Team, das alle seit mehr als 20 Jahren in dieser Branche tätig ist, bietet unseren Kunden einen professionellen und sachkundigen Service. Unser Team spricht fließend Spanisch, Englisch und Deutsch. Wir bieten Immobilien zum Verkauf und zur Miete in Mojacar und Umgebung von Almeria, einschließlich Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos und San Juan de los Terreros. * Eagle Apartments 1 — #ME 2637 * Appartement * Neubau * Ein Schlafzimmer * Ein Badezimmer * Umbaute Fläche 45 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich",
+      },
+      images: {
+        image: [
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2637/xml_59251.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2637/xml_59252.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2637/xml_59255.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2637/xml_59253.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2637/xml_59256.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2637/xml_59257.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2637/xml_59258.jpg",
+          },
+          {
+            tags: {
+              tag: "floorplan",
+            },
+            url: "https://static.mojacarestates.com/floor_plans/3/2637/nwm_40.jpg",
+          },
+          {
+            tags: {
+              tag: "floorplan",
+            },
+            url: "https://static.mojacarestates.com/floor_plans/3/2637/nwm_41.jpg",
+          },
+          {
+            tags: {
+              tag: "floorplan",
+            },
+            url: "https://static.mojacarestates.com/floor_plans/3/2637/nwm_42.jpg",
+          },
+          {
+            tags: {
+              tag: "floorplan",
+            },
+            url: "https://static.mojacarestates.com/floor_plans/3/2637/nwm_43.jpg",
+          },
+        ],
+      },
+      prime: 1,
+    },
+    {
       id: 2634,
-      date: "2023-02-02 17:37:41",
+      date: "2023-02-02 20:38:41",
       ref: "ME 2634",
       price: 109000,
       currency: "EUR",
@@ -76,11 +562,10 @@ export const data = {
           },
         ],
       },
-      prime: 1,
     },
     {
       id: 2633,
-      date: "2023-01-31 19:06:20",
+      date: "2023-02-07 19:27:27",
       ref: "ME 2633",
       price: 320000,
       currency: "EUR",
@@ -116,7 +601,7 @@ export const data = {
         es: 'Encantadora villa situada en el campo en venta, a un corto trayecto en coche del pueblo de Mojácar en la provincia de Almería, Andalucía, con piscina y maravillosas vistas de las montañas de Sierra Cabrera. Resumen Esta villa se distribuye en una sola planta y está situada en una zona tranquila rodeada de olivares. Hay hermosos paseos directamente desde la villa al campo. El pueblo de Mojácar está a 5 minutos en coche, Mojácar Playa está a 10 minutos en coche y Turre está a 10 minutos en coche. La villa está situada en una parcela de buen tamaño y tiene dos trasteros separados, así como un recinto para perros. Distribución Se entra a la propiedad a través de grandes puertas de hierro que se abren a una entrada grande con mucho espacio para aparcar varios coches. La puerta principal se abre a un salón luminoso (este es un segundo salón) y comedor con una zona de oficina en una esquina, que tiene ventanas en todos los lados que ofrecen bonitas vistas de los jardines. Hay una puerta en un extremo que se abre directamente a la zona de la piscina y hay una estufa de leña y radiador para la calefacción en los meses de invierno. Pasando a la habitación de al lado hay un amplio salón con chimenea y una cocina que tiene una escotilla que da al salón. La cocina da a la zona de la piscina y está totalmente amueblada y equipada con encimera de gas, horno eléctrico, microondas, lavadora y nevera / congelador de doble tamaño. Hay radiadores en la cocina y el salón. Dormitorios Hay tres dormitorios dobles y un baño completo con bañera. El dormitorio principal es extra grande y tiene dos juegos de armarios empotrados, así como acceso a su propia terraza en la parte trasera de la propiedad. El segundo y tercer dormitorio tienen armarios de pie y ventanas que dan a la zona de la piscina. Hay radiadores en todos los dormitorios. En el lateral de la casa hay un gran trastero al que se accede a través de la zona de la piscina. La venta incluye: Instalaciones y accesorios. Paneles solares. Calentador de agua a gas. Calefacción central de gasoil. Zonas exteriores El acceso a la piscina es a través del salón / comedor. Hay una piscina y zona de piscina pavimentada con hermosas vistas de las montañas de Sierra Cabrera. Una pérgola de madera proporciona sombra en los meses de verano para comer al aire libre. Más allá de la zona de la piscina, que está amurallada, hay más terreno con algunos olivos y árboles frutales. A un lado de la casa hay un trastero y en la parte trasera hay otros dos trasteros. También hay un recinto para perros. Localización En el mapa de Google haga clic en "ampliar mapa" y la ubicación exacta de la propiedad en venta en Mojácar, Costa Almería, Andalucía está marcada con la chincheta azul. Se encuentra a 5 minutos en coche del pueblo de Mojácar, a 10 minutos en coche de Mojácar Playa y Turre. Aeropuertos El aeropuerto de Almería está a 45 minutos en coche, el aeropuerto de Murcia está a 1 hora y 20 minutos, el aeropuerto de Alicante está a 2 horas y el aeropuerto de Málaga está a 2 horas y 45 minutos. 4 Campos de Golf Mojácar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilón Golf. El precio indicado no incluye los impuestos y gastos derivados de la venta (ITP al tipo impositivo vigente, gastos de notaría, registro y abogado). Le recordamos que como consumidor tiene derecho a ser informado y a que se le entregue la documentación informativa correspondiente, según los casos, en base a lo dispuesto en el Decreto 218/05 de 11 de octubre por el que se regula el Reglamento de Información al Consumidor en la compraventa y arrendamiento de viviendas en Andalucía. Sobre Nosotros Mojácar Estates ha estado funcionando con éxito como una agencia independiente de venta de propiedades y alquileres de vacaciones desde 1982. Nuestro equipo dedicado, que han estado trabajando en esta industria durante más de 20 años, ofrecen un servicio profesional y bien informado a nuestros clientes. Nuestro equipo habla español, inglés y alemán con fluidez. Ofrecemos propiedades en venta y alquiler en Mojácar y alrededores de Almería, incluyendo Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos y San Juan de los Terreros. * Los Olivos — #ME 2633 * Chalet * Buen estado * 3 dormitorios * Un cuarto de baño * Área de terreno 1,500 m² * Superficie construida 178 m² * Agua General * Luz General * Teléfono Posible * Internet Posible',
         fr: "Belle villa située dans la campagne à vendre, à une courte distance du village de Mojacar dans la province d'Almeria, en Andalousie, avec une piscine et des vues magnifiques sur les montagnes de la Sierra Cabrera. Vue générale Cette villa est tout sur un étage et est situé dans une zone tranquille entourée d'oliveraies. Il y a de belles promenades directement de la villa dans la campagne. Le village de Mojacar est à 5 minutes en voiture, Mojacar Playa est à 10 minutes en voiture et Turre est à 10 minutes en voiture. La villa est située sur un terrain de bonne taille et dispose de deux débarras séparés ainsi que d'un enclos pour les chiens. Disposition Vous entrez dans la propriété par de grandes portes en fer qui s'ouvrent sur une grande allée avec beaucoup d'espace pour garer plusieurs voitures. La porte d'entrée s'ouvre sur un salon lumineux (c'est un deuxième salon) et une salle à manger avec un coin bureau dans un coin, qui a des fenêtres de tous les côtés offrant de jolies vues sur les jardins. Il y a une porte à une extrémité qui ouvre directement sur la zone de la piscine et il y a un poêle à bois et un radiateur pour le chauffage dans les mois d'hiver. La pièce suivante est un salon spacieux avec une cheminée et une cuisine ouverte avec une fenêtre donnant sur le salon. La cuisine donne sur l'espace piscine et est entièrement aménagée et équipée d'une plaque de cuisson au gaz, d'un four électrique, d'un micro-ondes, d'une machine à laver et d'un réfrigérateur/congélateur double. Il y a des radiateurs dans la cuisine et le salon. Chambres à coucher Il y a trois chambres doubles et une salle de bain complète avec une baignoire. La chambre principale est très grande et possède deux ensembles d'armoires encastrées ainsi qu'un accès à sa propre terrasse à l'arrière de la propriété. Les deuxième et troisième chambres ont toutes deux des armoires indépendantes et des fenêtres donnant sur la piscine. Il y a des radiateurs dans toutes les chambres. Sur le côté de la maison se trouve un grand débarras auquel on accède par l'espace piscine. La vente comprend : Installations et équipements. Panneaux solaires. Chauffe-eau à gaz. Chauffage central au gazole. Espaces extérieurs L'accès à la piscine se fait par le salon / salle à manger. Il y a une piscine et une zone de piscine pavée avec de belles vues sur les montagnes de la Sierra Cabrera. Une pergola en bois fournit de l'ombre pendant les mois d'été pour les repas en plein air. Au-delà de la piscine, qui est clôturée, il y a plus de terrain avec quelques oliviers et arbres fruitiers. Sur un côté de la maison se trouve un débarras et à l'arrière deux autres débarras. Il y a également un enclos pour les chiens. Localisation Sur Google map, cliquez sur \"Agrandir la carte\" et l'emplacement exact de la propriété à vendre à Mojácar, Costa Almería, Andalousie est marqué par l'épingle bleue. Elle est située à 5 minutes en voiture du village de Mojacar, à 10 minutes en voiture de Mojacar Playa et Turre. Aéroports L'aéroport d'Almería est à 45 minutes de route, celui de Murcie à 1 heure 20 minutes, celui d'Alicante à 2 heures et celui de Malaga à 2 heures 45 minutes. 4 terrains de golf Mojácar : Marina de la Torre, Vera : Valle del Este, Cuevas de Almanzora : Desert Springs, Pulpi : Aguilon Golf. Le prix indiqué ne comprend pas les impôts et les frais dérivés de la vente (ITP au taux d'imposition en vigueur, frais de notaire, d'enregistrement et d'avocat). Nous vous rappelons qu'en tant que consommateur, vous avez le droit d'être informé et de recevoir la documentation informative correspondante, selon le cas, sur la base des dispositions du décret 218/05 du 11 octobre qui régit le Règlement sur l'information du consommateur dans la vente et la location de logements en Andalousie. À propos de nous Mojacar Estates est une agence indépendante de vente de propriétés et de location de vacances qui fonctionne avec succès depuis 1982. Notre équipe dévouée, qui travaille dans ce secteur depuis plus de 20 ans, offre un service professionnel et compétent à nos clients. Notre équipe parle couramment l'espagnol, l'anglais et l'allemand. Nous proposons des propriétés à vendre et à louer à Mojacar et dans les environs d'Almeria, notamment à Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos et San Juan de los Terreros. * Los Olivos — #ME 2633 * Villa * Revente * 3 chambres à coucher * Une salle de bains * Surface terrain 1,500 m² * Surface habitable 178 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
         nl: 'Mooie villa op het platteland te koop, op een klein eindje rijden van het dorp Mojacar in de provincie Almeria, Andalusië met een zwembad en een prachtig uitzicht op de bergen van Sierra Cabrera. Overzicht Deze villa is allemaal op een verdieping en is gelegen in een rustige omgeving, omringd door olijfgaarden. Er zijn mooie wandelingen direct vanuit de villa naar het platteland. Het dorp Mojacar ligt op 5 minuten rijden, Mojacar Playa ligt op 10 minuten rijden en Turre ligt op 10 minuten rijden. De villa ligt op een ruim perceel en heeft twee aparte bergingen en een verblijf voor honden. Indeling U betreedt het pand via grote ijzeren poorten die uitkomen op een grote oprit met voldoende ruimte om meerdere auto\'s te parkeren. De voordeur opent in een lichte lounge (dit is een tweede lounge) en eetkamer met een kantoorruimte in een hoek, die ramen aan alle kanten heeft met een mooi uitzicht op de tuinen. Er is een deur aan het ene uiteinde die direct naar het zwembad opent en er is een houtkachel en radiator voor verwarming in de wintermaanden. Lopend door naar de volgende kamer is een ruime woonkamer met een open haard en een open keuken met een raamluik naar de woonkamer. De keuken kijkt uit op het zwembad en is volledig uitgerust en uitgerust met een gaskookplaat, elektrische oven, magnetron, wasmachine en dubbele koelkast / vriezer. Er zijn radiatoren in de keuken en woonkamer. Slaapkamers Er zijn drie slaapkamers en een complete badkamer met een bad. De grote slaapkamer is extra groot en heeft twee sets ingebouwde kasten en toegang tot een eigen terras aan de achterzijde van het pand. De tweede en derde slaapkamer hebben beide vrijstaande kasten en ramen met uitzicht op het zwembad. Er zijn radiatoren in alle slaapkamers. Aan de zijkant van het huis is een grote berging die toegankelijk is via het zwembad. De verkoop omvat: Armaturen en fittingen. Zonnepanelen. Gas warmwaterboiler. Centrale verwarming. Externe gebieden Toegang tot het zwembad is via de lounge/ eetkamer. Er is een zwembad en een verhard zwembad met een prachtig uitzicht op de bergen van Sierra Cabrera. Een houten pergola biedt schaduw in de zomermaanden om buiten te dineren. Voorbij het zwembad, dat ommuurd is, is er meer land met enkele olijf- en fruitbomen. Aan de ene kant van het huis is een berging en aan de achterkant zijn er nog twee bergingen. Er is ook een verblijf voor honden. Plaats Klik op de Google-kaart op "vergroot kaart" en de exacte locatie van het onroerend goed te koop in Mojácar, Costa Almería, Andalusië is gemarkeerd met de blauwe speld. Het ligt op 5 minuten rijden van het dorp Mojacar, op 10 minuten rijden van Mojacar Playa en Turre. Luchthavens De luchthaven van Almería ligt op 45 minuten rijden, de luchthaven van Murcia op 1 uur en 20 minuten, de luchthaven van Alicante op 2 uur en de luchthaven van Málaga op 2 uur en 45 minuten. 4 Golfbanen Mojácar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. De aangegeven prijs is exclusief de belastingen en kosten die voortvloeien uit de verkoop (ITP tegen het huidige belastingtarief, notaris-, registratie- en advocaatkosten). Wij herinneren u eraan dat u als consument het recht hebt om geïnformeerd te worden en de bijbehorende informatieve documentatie te krijgen, afhankelijk van het geval, op basis van de bepalingen van decreet 218/05 van 11 oktober dat de voorschriften inzake consumenteninformatie bij de verkoop en verhuur van woningen in Andalusië regelt. Informatie Mojacar Estates draait sinds 1982 met succes als een onafhankelijk makelaarskantoor voor de verkoop van onroerend goed en vakantieverhuur. Ons toegewijde team, dat allemaal al meer dan 20 jaar in deze branche werkt, biedt een professionele en deskundige service aan onze klanten. Ons team spreekt vloeiend Spaans, Engels en Duits. Wij bieden onroerend goed te koop en te huur in Mojacar en de omliggende gebieden van Almeria, waaronder Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos en San Juan de los Terreros. * Los Olivos — #ME 2633 * Villa * Bestaande woning * 3 slaapkamers * Een badkamer * Grond oppervlakte 1,500 m² * Bebouwde oppervlakte 178 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk',
-        de: 'Schöne Villa auf dem Lande zu verkaufen, eine kurze Fahrt vom Dorf Mojacar in der Provinz Almeria, Andalusien mit einem Pool und herrlichem Blick auf die Sierra Cabrera Berge. Überblick Diese Villa befindet sich auf einer Etage und liegt in einer ruhigen Gegend, umgeben von Olivenhainen. Es gibt schöne Spaziergänge direkt von der Villa in die Landschaft. Das Dorf Mojacar ist eine 5-minütige Autofahrt entfernt, Mojacar Playa ist eine 10-minütige Autofahrt und Turre ist eine 10-minütige Autofahrt. Die Villa befindet sich auf einem großen Grundstück und verfügt über zwei separate Abstellräume sowie ein Hundegehege. Grundriss Man betritt das Anwesen durch große Eisentore, die zu einer großen Einfahrt mit viel Platz zum Parken mehrerer Autos führen. Die Eingangstür führt in ein helles Wohnzimmer (dies ist ein zweites Wohnzimmer) und ein Esszimmer mit einem Bürobereich in einer Ecke, das auf allen Seiten Fenster hat, die einen schönen Blick auf die Gärten bieten. An einem Ende befindet sich eine Tür, die direkt zum Poolbereich führt, und es gibt einen Holzofen und einen Heizkörper zum Heizen in den Wintermonaten. Der nächste Raum ist ein geräumiges Wohnzimmer mit einem Kamin und einer offenen Küche, die über eine Fensterluke zum Wohnzimmer verfügt. Die Küche blickt auf den Poolbereich und ist voll ausgestattet mit einem Gasherd, einem Elektroofen, einer Mikrowelle, einer Waschmaschine und einem doppelt so großen Kühlschrank mit Gefrierfach. Es gibt Heizkörper in der Küche und im Wohnzimmer. Schlafräume Es gibt drei Doppelschlafzimmer und ein komplettes Badezimmer mit einer Badewanne. Das Hauptschlafzimmer ist besonders groß und hat zwei Einbauschränken sowie Zugang zu seiner eigenen Terrasse auf der Rückseite des Hauses. Das zweite und dritte Schlafzimmer haben beide freistehende Schränke und Fenster mit Blick auf den Poolbereich. In allen Schlafzimmern gibt es Heizkörper. An der Seite des Hauses befindet sich ein großer Abstellraum, der über den Poolbereich zugänglich ist. Der Verkauf umfasst: Einrichtungsgegenstände und Zubehör. Sonnenkollektoren. Gas-Warmwasserbereiter. Zentralheizung. Externe Bereiche Der Zugang zum Pool erfolgt über das Wohn-/Esszimmer. Es gibt einen Pool und einen gepflasterten Poolbereich mit herrlichem Blick auf die Berge der Sierra Cabrera. Eine hölzerne Pergola spendet in den Sommermonaten Schatten für Mahlzeiten im Freien. Hinter dem Poolbereich, der ummauert ist, befindet sich ein weiteres Grundstück mit einigen Oliven- und Obstbäumen. Auf der einen Seite des Hauses befindet sich ein Abstellraum und auf der Rückseite gibt es zwei weitere Abstellräume. Es gibt auch ein Gehege für Hunde. Standort Auf der Google-Karte klicken Sie auf "Karte vergrößern" und die genaue Lage der Immobilie zum Verkauf in Mojácar, Costa Almería, Andalusien ist mit der blauen Nadel markiert. Es befindet sich 5 Autominuten vom Dorf Mojacar und 10 Autominuten von Mojacar Playa und Turre entfernt. Flughäfen Der Flughafen Almería ist 45 Minuten entfernt, der Flughafen Murcia 1 Stunde 20 Minuten, der Flughafen Alicante 2 Stunden und der Flughafen Málaga 2 Stunden 45 Minuten. 4 Golfplätze Mojácar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. Der angegebene Preis beinhaltet nicht die Steuern und Kosten, die beim Verkauf anfallen (ITP zum aktuellen Steuersatz, Notar-, Registrierungs- und Anwaltskosten). Wir erinnern Sie daran, dass Sie als Verbraucher das Recht haben, informiert zu werden und je nach Fall die entsprechenden Informationsunterlagen zu erhalten, basierend auf den Bestimmungen des Dekrets 218/05 vom 11. Oktober, das die Vorschriften zur Verbraucherinformation beim Verkauf und der Vermietung von Wohnungen in Andalusien regelt. Über uns Mojacar Estates ist seit 1982 erfolgreich als unabhängige Agentur für Immobilienverkauf und Ferienvermietung tätig. Unser engagiertes Team, das seit mehr als 20 Jahren in dieser Branche tätig ist, bietet unseren Kunden einen professionellen und sachkundigen Service. Unser Team spricht fließend Spanisch, Englisch und Deutsch. Wir bieten Immobilien zum Verkauf und zur Vermietung in Mojacar und den umliegenden Gebieten von Almeria, einschließlich Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos und San Juan de los Terreros. * Los Olivos — #ME 2633 * Villa * Weiterverkauf * 3 Schlafzimmer * Ein Badezimmer * Grundstückfläche 1,500 m² * Umbaute Fläche 178 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich',
+        de: 'Schöne Villa auf dem Lande zu verkaufen, eine kurze Fahrt vom Dorf Mojacar in der Provinz Almeria, Andalusien mit einem Pool und herrlichem Blick auf die Sierra Cabrera Berge. Überblick Diese Villa befindet sich auf einer Ebene und liegt in einer ruhigen Gegend, umgeben von Olivenhainen. Es gibt schöne Spaziergänge direkt von der Villa hinaus in die Landschaft. Das Dorf Mojacar ist eine 5-minütige Autofahrt entfernt, Mojacar Playa ist eine 10-minütige Autofahrt und Turre ist eine 10-minütige Autofahrt. Die Villa befindet sich auf einem großen Grundstück und verfügt über zwei separate Abstellräume sowie ein Hundegehege. Grundriss Man betritt das Anwesen durch große Eisentore, die zu einer großen Einfahrt mit viel Platz zum Parken mehrerer Autos führen. Die Eingangstür führt in ein helles Wohnzimmer (dies ist ein zweites Wohnzimmer) und ein Esszimmer mit einem Bürobereich in einer Ecke, das auf allen Seiten Fenster hat, die einen schönen Blick auf den Garten bietet. An einem Ende befindet sich eine Tür, die direkt zum Poolbereich führt, und es gibt einen Holzofen und einen Heizkörper zum Heizen in den Wintermonaten. Der nächste Raum ist ein geräumiges Wohnzimmer mit einem Kamin und einer offenen Küche. Die Küche blickt auf den Poolbereich und ist voll ausgestattet mit einem Gasherd, einem Elektroofen, einer Mikrowelle, einer Waschmaschine und einem american size Kühlschrank mit Gefrierfach. Es gibt Heizkörper in der Küche und im Wohnzimmer. Schlafräume Es gibt drei Doppelschlafzimmer und ein komplettes Badezimmer mit einer Badewanne. Das Hauptschlafzimmer ist besonders groß und hat zwei Einbauschränken sowie Zugang zu seiner eigenen Terrasse auf der Rückseite des Hauses. Das zweite und dritte Schlafzimmer haben beide freistehende Schränke und Fenster mit Blick auf den Poolbereich. In allen Schlafzimmern gibt es Heizkörper. An der Seite des Hauses befindet sich ein großer Abstellraum, der über den Poolbereich zugänglich ist. Der Verkauf umfasst: Einrichtungsgegenstände und Zubehör. Sonnenkollektoren. Gas-Warmwasserbereiter. Zentralheizung. Externe Bereiche Der Zugang zum Pool erfolgt über das Wohn-/Esszimmer. Es gibt einen Pool und einen gepflasterten Poolbereich mit herrlichem Blick auf die Berge der Sierra Cabrera. Eine hölzerne Pergola spendet in den Sommermonaten Schatten für Mahlzeiten im Freien. Hinter dem Poolbereich, der ummauert ist, befindet sich ein weiteres Grundstück mit einigen Oliven- und Obstbäumen. Auf der einen Seite des Hauses befindet sich ein Abstellraum und auf der Rückseite gibt es zwei weitere Abstellräume. Es gibt auch ein Gehege für Hunde. Standort Auf der Google-Karte klicken Sie auf "Karte vergrößern" und die genaue Lage der Immobilie zum Verkauf in Mojácar, Costa Almería, Andalusien ist mit der blauen Nadel markiert. Es befindet sich 5 Autominuten vom Dorf Mojacar und 10 Autominuten von Mojacar Playa und Turre entfernt. Flughäfen Der Flughafen Almería ist 45 Minuten entfernt, der Flughafen Murcia 1 Stunde 20 Minuten, der Flughafen Alicante 2 Stunden und der Flughafen Málaga 2 Stunden 45 Minuten. 4 Golfplätze Mojácar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. Der angegebene Preis beinhaltet nicht die Steuern und Kosten, die beim Verkauf anfallen (ITP zum aktuellen Steuersatz, Notar-, Registrierungs- und Anwaltskosten). Wir erinnern Sie daran, dass Sie als Verbraucher das Recht haben, informiert zu werden und je nach Fall die entsprechenden Informationsunterlagen zu erhalten, basierend auf den Bestimmungen des Dekrets 218/05 vom 11. Oktober, das die Vorschriften zur Verbraucherinformation beim Verkauf und der Vermietung von Wohnungen in Andalusien regelt. Über uns Mojacar Estates ist seit 1982 erfolgreich als unabhängige Agentur für Immobilienverkauf und Ferienvermietung tätig. Unser engagiertes Team, das seit mehr als 20 Jahren in dieser Branche tätig ist, bietet unseren Kunden einen professionellen und sachkundigen Service. Unser Team spricht fließend Spanisch, Englisch und Deutsch. Wir bieten Immobilien zum Verkauf und zur Vermietung in Mojacar und den umliegenden Gebieten von Almeria, einschließlich Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos und San Juan de los Terreros. * Los Olivos — #ME 2633 * Villa * Weiterverkauf * 3 Schlafzimmer * Ein Badezimmer * Grundstückfläche 1,500 m² * Umbaute Fläche 178 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich',
       },
       images: {
         image: [
@@ -192,7 +677,7 @@ export const data = {
     },
     {
       id: 2629,
-      date: "2023-01-31 19:25:15",
+      date: "2023-01-31 22:34:15",
       ref: "ME 2629",
       price: 825000,
       currency: "EUR",
@@ -322,7 +807,7 @@ export const data = {
     },
     {
       id: 2628,
-      date: "2023-01-24 16:08:34",
+      date: "2023-02-16 17:46:14",
       ref: "ME 2628",
       price: 490000,
       currency: "EUR",
@@ -352,7 +837,7 @@ export const data = {
         nl: "https://nl.mojacarestates.com/woning/2628/villa-in-mojacar",
         de: "https://de.mojacarestates.com/immobilien/2628/villa-in-mojacar",
       },
-      video_url: "https://www.youtube.com/v/upcduQWlEco",
+      video_url: "https://youtu.be/4Oy0FpbTqtI",
       desc: {
         en: 'Stunning, partially reformed villa for sale in the beautiful area of La Parata in Mojacar, Almeria, Andalusia with a brand new sensational pool and terrace area that offers dazzling views of the sea and mountains. Overview This villa has been partially reformed to a high standard using quality materials both inside and out. There are new kitchen and bathrooms. There are gorgeous views from the sitting and dining rooms of the sea. The villa has different levels connected by internal stairs as well as external stairs. All the terracing is brand new as well as the pool and provides lots of outdoor space to sit and enjoy the sun and views. There is private parking for 2 cars at the entrance to the villa. This would make a wonderful holiday or permanent home. Layout There are two entrances to the property, one is directly into the kitchen which is very useful for taking shopping etc, and the other is via a patio directly into the sitting room. There is a large sitting room connected by an arch to the dining room with wonderful views of the sea and mountains. There is plenty of space for a long dining table and chairs. The sitting room is also a very good size with a wood burning stove and doors leading out to the porch. The covered porch of 14m2 runs along one side of the house and has a built-in seating with room for sofas and chairs to enjoy the magical views. There is a separate fully fitted kitchen in a contemporary style with a gas hob, electric fan oven, combi-oven (microwave and oven), fridge-freezer, wine cooler and dishwasher. Some stairs lead up to the 3 double bedrooms and 2 bathrooms. Two of the bedrooms have built-in wardrobes and share the bathroom with bath and fixed shower screen plus more cupboard space for storage. There is access from one of these bedrooms to a paved garden area and a view of the sea. The master bedroom has an en suite bathroom with a modern walk-in shower plus a safe. There is a storeroom at the back of the villa with the washing machine and space for a tumble dryer, as well as storage for brooms, mops etc. Gas water heater. New electrics and plumbing. Sale includes: Fully furnished including washing machine, wine cooler, oven, hob, microwave, integrated fridge / freezer. Alarm with connection to the police. New air conditioning (hot and cold air) throughout, 2 air conditioning units in the living room. External areas Pool. Terracing and garden. Private parking. Location For the exact location please click on "enlarge button" to see on Google maps, above right. La Paratá is a residential area just off the coast of Mojacar. There is a great restaurant/ bar in the heart of La Parata. The distance from the villa in the Parata to the beach is approximately 2.2 km or 7 minutes´ drive. The Parata has a restaurant with pool and tennis facilities (club membership), a hostal and a bar. This is a very sought after area for people looking for an exclusive, peaceful location, close enough by car to all the beach amenities. Airports Almeria airport is a 45-minute drive, Murcia airport is 1 hour 20 minutes, Alicante airport is 2 hours and Malaga airport is 2 hours 45 minutes. 4 Golf Courses Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. The indicated price does not include the taxes and expenses derived from the sale (ITP at the current tax rate, notary, registration and lawyer fees). We remind you that as a consumer you have the right to be informed and given the corresponding informative documentation, depending on the case, based on the provisions of Decree 218/05 of 11 October which regulates the Regulations on Consumer Information in the sale and rental of housing in Andalusia. About Us Mojacar Estates have been running successfully as an independent property sales and holiday rentals agency since 1982. Our dedicated team, who have all been working within this industry for more than 20 years, offer a professional and knowledgeable service to our clients. Our team speaks fluent Spanish, English and German. We offer properties for sale and rental in Mojacar and surrounding areas of Almeria, including Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos and San Juan de los Terreros. * Villa Mil Estrellas — #ME 2628 * Villa * Resale * 3 bedrooms * 2 bathrooms * Land area 560 m² * Constructed area 115 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible',
         es: 'Espectacular chalet parcialmente reformado en venta en la hermosa zona de La Paratá en Mojácar, Almería, Andalucía, con una sensacional piscina y terraza a estrenar que ofrece deslumbrantes vistas al mar y a la montaña. Resumen Esta villa ha sido parcialmente reformada a un alto nivel utilizando materiales de calidad tanto en el interior como en el exterior. Hay cocina y baños nuevos. Hay preciosas vistas al mar desde el salón y el comedor. La villa tiene diferentes niveles conectados por escaleras interiores, así como escaleras exteriores. Todas las terrazas son nuevas, así como la piscina y ofrece un montón de espacio al aire libre para sentarse y disfrutar del sol y las vistas. Hay aparcamiento privado para 2 coches en la entrada de la villa. Esta sería una maravillosa casa permanente o de vacaciones. Distribución Hay dos entradas a la propiedad, una es directamente a la cocina que es muy útil para llevar la compra, etc, y el otro es a través de un patio directamente en la sala de estar. Hay un gran salón conectado por un arco al comedor con maravillosas vistas del mar y las montañas. Hay un amplio espacio para una larga mesa de comedor y sillas. El salón es de muy buen tamaño con una estufa de leña y puertas que dan al porche. El porche cubierto de 14m2 corre a lo largo de un lado de la casa y tiene asientos incorporados, así como espacio para sofás y sillas para disfrutar de las vistas mágicas. Hay una cocina independiente totalmente equipada en un estilo contemporáneo con una encimera de gas, horno eléctrico, horno combinado (microondas y horno), nevera-congelador, vinoteca y lavavajillas. Unas escaleras suben a los 3 dormitorios dobles y 2 baños. Dos de los dormitorios tienen armarios empotrados y comparten el cuarto de baño con bañera y mampara de ducha fija además de más espacio de armario para almacenamiento. Desde uno de estos dormitorios se accede a una zona ajardinada pavimentada y con vistas al mar. El dormitorio principal tiene un cuarto de baño en suite con una moderna ducha y una caja fuerte. Hay un trastero en la parte trasera de la villa con la lavadora y espacio para una secadora, así como el almacenamiento de escobas, fregonas, etc. Calentador de agua a gas. Electricidad y fontanería nuevas. La venta incluye: Totalmente amueblado incluyendo lavadora, enfriador de vino, horno, vitrocerámica, microondas, nevera / congelador integrado. Alarma con conexión a la guardia civil. Nuevo aire acondicionado (aire caliente y frío) en todo el inmueble, 2 unidades de aire acondicionado en la sala de estar. Zonas exteriores Piscina nueva. Terraza y jardín nuevos. Parking privado. Ubicación Para la ubicación exacta por favor haga clic en "ampliar botón" para ver en los mapas de Google, arriba a la derecha. La Paratá es una zona residencial frente a la costa de Mojácar. Hay un gran restaurante / bar en el corazón de La Parata. La distancia desde la villa en la Parata a la playa es de aproximadamente 2,2 km o 7 minutos en coche. La Parata tiene un restaurante con piscina y tenis (membresía del club), un hostal y un bar. Esta es una zona muy solicitada por personas que buscan una ubicación exclusiva y tranquila, lo suficientemente cerca en coche de todos los servicios de playa. Aeropuertos El aeropuerto de Almería está a 45 minutos en coche, el de Murcia a 1 hora y 20 minutos, el de Alicante a 2 horas y el de Málaga a 2 horas y 45 minutos. 4 campos de golf Mojácar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilón Golf. El precio indicado no incluye los impuestos y gastos derivados de la venta (ITP al tipo impositivo vigente, gastos de notaría, registro y abogado). Le recordamos que como consumidor tiene derecho a ser informado y a que se le entregue la documentación informativa correspondiente, según los casos, en base a lo dispuesto en el Decreto 218/05 de 11 de octubre por el que se regula el Reglamento de Información al Consumidor en la compraventa y arrendamiento de viviendas en Andalucía. Sobre Mojácar Mojácar Estates ha estado funcionando con éxito como una agencia independiente de venta de propiedades y alquileres de vacaciones desde 1982. Nuestro equipo dedicado, que han estado trabajando en esta industria durante más de 20 años, ofrecen un servicio profesional y bien informado a nuestros clientes. Nuestro equipo habla español, inglés y alemán con fluidez. Ofrecemos propiedades en venta y alquiler en Mojácar y alrededores de Almería, incluyendo Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos y San Juan de los Terreros. * Villa Mil Estrellas — #ME 2628 * Chalet * Buen estado * 3 dormitorios * 2 cuartos de baño * Área de terreno 560 m² * Superficie construida 115 m² * Agua General * Luz General * Teléfono Posible * Internet Posible',
@@ -364,9 +849,6 @@ export const data = {
         image: [
           {
             url: "https://static.mojacarestates.com/propimgs/3/2628/xml_58930.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2628/xml_58941.jpg",
           },
           {
             url: "https://static.mojacarestates.com/propimgs/3/2628/xml_58932.jpg",
@@ -382,6 +864,9 @@ export const data = {
           },
           {
             url: "https://static.mojacarestates.com/propimgs/3/2628/xml_58928.jpg",
+          },
+          {
+            url: "https://static.mojacarestates.com/propimgs/3/2628/xml_59377.jpg",
           },
           {
             url: "https://static.mojacarestates.com/propimgs/3/2628/xml_58934.jpg",
@@ -420,7 +905,7 @@ export const data = {
             url: "https://static.mojacarestates.com/propimgs/3/2628/xml_58942.jpg",
           },
           {
-            url: "https://static.mojacarestates.com/propimgs/3/2628/xml_58929.jpg",
+            url: "https://static.mojacarestates.com/propimgs/3/2628/xml_59376.jpg",
           },
           {
             tags: {
@@ -434,7 +919,7 @@ export const data = {
     },
     {
       id: 2625,
-      date: "2023-01-26 19:04:44",
+      date: "2023-01-26 22:02:44",
       ref: "ME 2625",
       price: 149500,
       currency: "EUR",
@@ -564,7 +1049,7 @@ export const data = {
     },
     {
       id: 2622,
-      date: "2023-01-26 17:34:47",
+      date: "2023-02-07 21:20:09",
       ref: "ME 2622",
       price: 289000,
       currency: "EUR",
@@ -573,8 +1058,8 @@ export const data = {
       town: "Mojacar",
       province: "Almeria",
       location: {
-        latitude: 37.103772,
-        longitude: -1.847493,
+        latitude: 37.103694,
+        longitude: -1.848107,
       },
       beds: 4,
       baths: 2,
@@ -669,7 +1154,7 @@ export const data = {
     },
     {
       id: 2620,
-      date: "2023-02-01 14:18:48",
+      date: "2023-02-01 17:25:48",
       ref: "ME 2620",
       price: 285000,
       currency: "EUR",
@@ -775,7 +1260,7 @@ export const data = {
     },
     {
       id: 2617,
-      date: "2023-01-16 18:17:51",
+      date: "2023-01-16 21:23:51",
       ref: "ME 2617",
       price: 320000,
       currency: "EUR",
@@ -881,7 +1366,7 @@ export const data = {
     },
     {
       id: 2616,
-      date: "2023-01-21 11:20:49",
+      date: "2023-01-21 14:20:49",
       ref: "ME 2616",
       price: 185000,
       currency: "EUR",
@@ -969,7 +1454,7 @@ export const data = {
     },
     {
       id: 2612,
-      date: "2022-11-23 20:51:41",
+      date: "2022-11-23 23:45:41",
       ref: "ME 2612",
       price: 179000,
       currency: "EUR",
@@ -1065,10 +1550,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 2611,
-      date: "2023-01-26 19:45:38",
+      date: "2023-02-07 18:39:45",
       ref: "ME 2611",
       price: 139950,
       currency: "EUR",
@@ -1167,7 +1653,7 @@ export const data = {
     },
     {
       id: 2605,
-      date: "2022-11-08 21:46:00",
+      date: "2022-11-09 00:47:00",
       ref: "ME 2605",
       price: 193000,
       currency: "EUR",
@@ -1260,114 +1746,8 @@ export const data = {
       prime: 1,
     },
     {
-      id: 2604,
-      date: "2022-11-14 18:55:50",
-      ref: "ME 2604",
-      price: 175000,
-      currency: "EUR",
-      price_freq: "sale",
-      type: "Villa",
-      town: "Turre",
-      province: "Almeria",
-      location: {
-        latitude: 37.158418,
-        longitude: -1.888235,
-      },
-      beds: 2,
-      baths: 2,
-      pool: 1,
-      surface_area: {
-        built: 76,
-        plot: 447,
-      },
-      energy_rating: {
-        consumption: "X",
-        emissions: "X",
-      },
-      url: {
-        en: "https://mojacarestates.com/property/2604/villa-in-turre",
-        es: "https://es.mojacarestates.com/propiedad/2604/chalet-en-turre",
-        fr: "https://fr.mojacarestates.com/propriete/2604/villa-en-turre",
-        nl: "https://nl.mojacarestates.com/woning/2604/villa-in-turre",
-        de: "https://de.mojacarestates.com/immobilien/2604/villa-in-turre",
-      },
-      video_url: "https://www.youtube.com/v/mLqdvS-ky00",
-      desc: {
-        en: 'Nice villa for sale on the “Agua Nueva” urbanisation in Turre, Almeria, Andalusia with a covered heated swimming pool and gardens with views to the mountains in the distance and only a 10 minute drive to the Mediterranean coast. Overview Uniquely designed property around a central patio, all on the ground floor, with two bedrooms and two bathrooms. There are gardens surrounding the property and the swimming pool is covered and heated, allowing for all year-round use. Parking is available in the street and as the villa is at the end of a cul-de-sac, there is never any issue with this and also there is space for parking one car within the property under a car porch. Layout The villa is distributed over the ground floor with rooms leading off from the central patio. Entrance to the property is via a pedestrian gate that leads into the tiled garden and pool area. A couple of steps take you up to the central patio which is a good size and has a table for alfresco dining. This is a protected area and can be used both in the summer and winter months. There are three doors leading off from the patio into the various living areas. One door leads into the sitting-dining room with an open plan kitchen. There are large windows on all sides to catch the sun and allow for plenty of natural light. The kitchen is fully fitted and equipped with an electric hob and oven, dishwasher, fridge-freezer and microwave. A window looks out to the rear of the property. There is access from here to the spacious main double bedroom featuring a cupola or small dome above the bed. There is an ensuite bathroom with a built-in shower using glass bricks. The bathroom has a window for light and ventilation. The bedroom also has access directly into the central courtyard. Another door takes you into the second double bedroom and a bathroom with a shower. Both bedrooms have built-in wardrobes and air conditioning. One more door leads into the utility room with plenty of storage space as well as the washing machine and water heater. External areas The gardens are tiled and gravelled in different areas and there is a garden shed perfect for storing tools. The pool, unusually for this area, has a cover and is also heated by gasoil which means that you can swim all year round. Car porch for one vehicle. Sale includes: Furniture and white goods. Gasoil tank and heater for heating the swimming pool. Location On the Google map click on "enlarge map" and the exact location of the property for sale in Turre, Andalusia is marked with the blue pin. Agua Nueva is a 2-minute drive from Turre town where you can find all the amenities including medical centre, banks, supermarket, post office, as well as restaurants and bars. Turre is approximately 7 km to the beaches of Mojacar and Garrucha. The indicated price does not include the taxes and expenses derived from the sale (ITP at the current tax rate, notary, registration and lawyer fees). We remind you that as a consumer you have the right to be informed and given the corresponding informative documentation, depending on the case, based on the provisions of Decree 218/05 of 11 October which regulates the Regulations on Consumer Information in the sale and rental of housing in Andalusia. Airports Almeria airport is 45 minutes’ drive, Murcia airport is 1 hour 20 minutes, Alicante airport is 2 hours and Malaga airport is 2 hours 45 minutes. Golf Courses Mojacar: Marina de la Torre Vera: Valle del Este Cuevas de Almanzora: Desert Springs Aguilas: Aguilón Golf About Us Mojacar Estates have been running successfully as an independent property sales and holiday rentals agency since 1982. Our dedicated team, who have all been working within this industry for more than 20 years, offer a professional and knowledgeable service to our clients. Our team speaks fluent Spanish, English and German. We offer properties for sale and rental in Mojacar and surrounding areas of Almeria, including Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos and San Juan de los Terreros. * Agua Nueva Elena — #ME 2604 * Villa * Resale * 2 bedrooms * 2 bathrooms * Land area 447 m² * Constructed area 76 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible',
-        es: 'Agradable chalet en venta en la urbanización "Agua Nueva" en Turre, Almería, Andalucía con piscina cubierta y climatizada y jardines con vistas a las montañas en la distancia y a sólo 10 minutos en coche de la costa mediterránea. Resumen Propiedad de diseño único alrededor de un patio central, todo en la planta baja, con dos dormitorios y dos baños. Hay jardines que rodean la propiedad y la piscina está cubierta y climatizada, lo que permite su uso durante todo el año. El aparcamiento está disponible en la calle y como la villa está al final de un callejón sin salida, nunca hay ningún problema con esto y también hay espacio para aparcar un coche dentro de la propiedad bajo un porche de coche. Distribución La villa se distribuye en la planta baja con habitaciones que salen del patio central. La entrada a la propiedad es a través de una puerta peatonal que da paso al jardín de baldosas y la zona de la piscina. Un par de escalones le llevan al patio central que es de buen tamaño y tiene una mesa para comer al aire libre. Esta es una zona protegida y se puede utilizar tanto en los meses de verano como de invierno. Hay tres puertas que conducen desde el patio a las diferentes zonas de estar. Una puerta da acceso al salón-comedor con una cocina americana. Hay grandes ventanas en todos los lados para captar el sol y permitir un montón de luz natural. La cocina está totalmente amueblada y equipada con una placa eléctrica y horno, lavavajillas, nevera-congelador y microondas. Una ventana da a la parte trasera de la propiedad. Desde aquí se accede a la amplia habitación doble principal, que cuenta con una cúpula sobre la cama. Hay un cuarto de baño con una ducha incorporada con ladrillos de vidrio. El cuarto de baño tiene una ventana para la luz y la ventilación. El dormitorio también tiene acceso directo al patio central. Otra puerta le lleva al segundo dormitorio doble y a un baño con ducha. Ambos dormitorios tienen armarios empotrados y aire acondicionado. Una puerta más da acceso al lavadero con mucho espacio de almacenamiento, así como la lavadora y el calentador de agua. Zonas exteriores Los jardines son de baldosas y grava en diferentes áreas y hay un cobertizo de jardín perfecto para almacenar herramientas. La piscina tiene una cubierta y también se calienta por gasoil, inusual para esta zona, lo que significa que se puede nadar todo el año. Parking para un vehículo. La venta incluye: Muebles y electrodomésticos. Depósito de gasoil y calentador para calentar la piscina. Ubicación En el mapa de Google haga clic en "ampliar mapa" y la ubicación exacta de la propiedad en venta en Turre, Andalucía está marcada con el pin azul. Agua Nueva está a 2 minutos en coche de la ciudad de Turre, donde se pueden encontrar todas las comodidades, incluyendo centro médico, bancos, supermercado, oficina de correos, así como restaurantes y bares. Turre está a unos 7 km de las playas de Mojácar y Garrucha. El precio indicado no incluye los impuestos y gastos derivados de la venta (ITP al tipo impositivo vigente, gastos de notario, registro y abogado). Le recordamos que como consumidor tiene derecho a ser informado y a que se le entregue la documentación informativa correspondiente, según el caso, en base a lo establecido en el Decreto 218/05, de 11 de octubre, por el que se regula el Reglamento de Información al Consumidor en la venta y alquiler de viviendas en Andalucía. Aeropuertos El aeropuerto de Almería está a 45 minutos en coche, el de Murcia a 1 hora y 20 minutos, el de Alicante a 2 horas y el de Málaga a 2 horas y 45 minutos. Campos de golf Mojácar: Marina de la Torre Vera: Valle del Este Cuevas de Almanzora: Manantiales del Desierto Águilas: Aguilón Golf Acerca de Mojacar Estates Mojacar Estates ha estado funcionando con éxito como una agencia independiente de venta y alquiler de propiedades desde 1982. Nuestro dedicado equipo, que lleva más de 20 años trabajando en esta industria, ofrece un servicio profesional y bien informado a nuestros clientes. Nuestro equipo habla con fluidez español, inglés y alemán. Ofrecemos propiedades en venta y alquiler en Mojácar y en las zonas circundantes de Almería, incluyendo Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos y San Juan de los Terreros. * Agua Nueva Elena — #ME 2604 * Chalet * Buen estado * 2 dormitorios * 2 cuartos de baño * Área de terreno 447 m² * Superficie construida 76 m² * Agua General * Luz General * Teléfono Posible * Internet Posible',
-        fr: "Agréable villa à vendre sur l'urbanisation \"Agua Nueva\" à Turre, Almeria, Andalousie avec une piscine couverte chauffée et des jardins avec vue sur les montagnes au loin et seulement 10 minutes en voiture de la côte méditerranéenne. Vue générale Propriété de conception unique autour d'un patio central, tout au rez-de-chaussée, avec deux chambres et deux salles de bains. Il y a des jardins autour de la propriété et la piscine est couverte et chauffée, permettant une utilisation toute l'année. Le stationnement est disponible dans la rue et comme la villa est à la fin d'un cul-de-sac, il n'y a jamais de problème avec cela et il y a également de l'espace pour garer une voiture dans la propriété sous un porche de voiture. Disposition La villa est distribuée sur le rez-de-chaussée avec des pièces qui partent du patio central. L'entrée de la propriété se fait par un portail piétonnier qui mène au jardin carrelé et à la zone de la piscine. Quelques marches vous mènent au patio central qui est de bonne taille et dispose d'une table pour les repas en plein air. Il s'agit d'une zone protégée qui peut être utilisée aussi bien en été qu'en hiver. Il y a trois portes qui mènent du patio aux différentes zones de logement. Une porte mène au salon-salle à manger avec une cuisine ouverte. Il y a de grandes fenêtres de tous les côtés pour capter le soleil et permettre une abondance de lumière naturelle. La cuisine est entièrement aménagée et équipée d'une plaque de cuisson et d'un four électriques, d'un lave-vaisselle, d'un réfrigérateur-congélateur et d'un micro-ondes. Une fenêtre donne sur l'arrière de la propriété. De là, on accède à la grande chambre double principale, dotée d'une coupole ou d'un petit dôme au-dessus du lit. Il y a une salle de bain attenante avec une douche intégrée utilisant des briques de verre. La salle de bain a une fenêtre pour la lumière et la ventilation. La chambre a également un accès direct à la cour centrale. Une autre porte vous mène à la deuxième chambre double et à une salle de bains avec douche. Les deux chambres sont équipées d'armoires encastrées et de la climatisation. Une autre porte mène à la buanderie avec de nombreux espaces de rangement ainsi que la machine à laver et le chauffe-eau. Espaces extérieurs Les jardins sont carrelés et gravillonnés à différents endroits et il y a un abri de jardin parfait pour ranger les outils. La piscine, inhabituelle pour cette région, a une couverture et est également chauffée par le gasoil qui signifie que vous pouvez nager toute l'année. Porche pour un véhicule. La vente comprend : Meubles et produits blancs. Réservoir de gasoil et réchauffeur pour le chauffage de la piscine. Emplacement Sur la carte Google, cliquez sur \"Agrandir la carte\" et l'emplacement exact de la propriété à vendre à Turre, en Andalousie, est indiqué par l'épingle bleue. Agua Nueva est à 2 minutes en voiture de la ville de Turre où vous trouverez toutes les commodités, y compris un centre médical, des banques, un supermarché, un bureau de poste, ainsi que des restaurants et des bars. Turre se trouve à environ 7 km des plages de Mojacar et Garrucha. Le prix indiqué ne comprend pas les impôts et les frais dérivés de la vente (ITP au taux d'imposition actuel, frais de notaire, d'enregistrement et d'avocat). Nous vous rappelons qu'en tant que consommateur, vous avez le droit d'être informé et de recevoir la documentation informative correspondante, selon le cas, sur la base des dispositions du décret 218/05 du 11 octobre qui régit le Règlement sur l'information du consommateur dans la vente et la location de logements en Andalousie. Aéroports L'aéroport d'Almeria est à 45 minutes de route, celui de Murcie à 1 heure 20 minutes, celui d'Alicante à 2 heures et celui de Malaga à 2 heures 45 minutes. Terrains de golf Mojacar : Marina de la Torre Vera : Valle del Este Cuevas de Almanzora : Desert Springs Aguilas : Aguilón Golf A propos de nous Mojacar Estates est une agence indépendante de vente de propriétés et de location de vacances qui fonctionne avec succès depuis 1982. Notre équipe dévouée, qui travaille dans ce secteur depuis plus de 20 ans, offre un service professionnel et compétent à nos clients. Notre équipe parle couramment l'espagnol, l'anglais et l'allemand. Nous proposons des propriétés à vendre et à louer à Mojacar et dans les environs d'Almeria, notamment à Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos et San Juan de los Terreros. * Agua Nueva Elena — #ME 2604 * Villa * Revente * 2 chambres à coucher * 2 salles de bains * Surface terrain 447 m² * Surface habitable 76 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
-        nl: 'Mooie villa te koop op de urbanisatie "Agua Nueva" in Turre, Almeria, Andalusië met een overdekt verwarmd zwembad en tuinen met uitzicht op de bergen in de verte en op slechts 10 minuten rijden naar de Middellandse Zeekust. Overzicht Uniek ontworpen woning rond een centrale patio, allemaal op de begane grond, met twee slaapkamers en twee badkamers. Er zijn tuinen rondom de accommodatie en het zwembad is overdekt en verwarmd, waardoor u het hele jaar door kunt worden gebruikt. Parkeren is mogelijk in de straat en aangezien de villa aan het einde van een doodlopende straat ligt, is hier nooit een probleem mee en is er ook ruimte voor het parkeren van een auto in het pand onder een veranda. Indeling De villa is verdeeld over de begane grond met kamers die leiden naar de centrale patio. Toegang tot het pand is via een voetgangerspoort die leidt naar de betegelde tuin en het zwembad. Een paar treden brengen u naar de centrale patio die een goede grootte heeft en een tafel heeft om buiten te dineren. Dit is een beschermd gebied en kan zowel in de zomer- als wintermaanden worden gebruikt. Er zijn drie deuren die van de patio naar de verschillende woonruimtes leiden. Een deur leidt naar de zit-eetkamer met een open keuken. Er zijn grote ramen aan alle kanten om de zon te vangen en zorgen voor veel natuurlijk licht. De keuken is volledig uitgerust en uitgerust met een elektrische kookplaat en oven, vaatwasser, koel-vriescombinatie en magnetron. Een raam kijkt uit op de achterzijde van het pand. Er is vanaf hier toegang tot de ruime grote tweepersoonsslaapkamer met een koepel of kleine koepel boven het bed. Er is een ensuite badkamer met een ingebouwde douche met behulp van glazen bakstenen. De badkamer heeft een raam voor licht en ventilatie. De slaapkamer heeft ook direct toegang tot de centrale binnenplaats. Een andere deur brengt u naar de tweede slaapkamer met tweepersoonsbed en een badkamer met een douche. Beide slaapkamers zijn voorzien van inbouwkasten en airconditioning. Nog een deur leidt naar de bijkeuken met veel bergruimte, evenals de wasmachine en boiler. Externe gebieden De tuinen zijn betegeld en grind in verschillende gebieden en er is een tuinhuisje perfect voor het opslaan van gereedschap. Het zwembad, ongebruikelijk voor dit gebied, heeft een afdekking en wordt ook verwarmd door gasolie, wat betekent dat u het hele jaar door kunt zwemmen. Auto veranda voor één voertuig. Verkoop omvat: Meubels en witgoed. Gasolietank en verwarming voor het verwarmen van het zwembad. Plaats Klik op de Google-kaart op "vergroot kaart" en de exacte locatie van het onroerend goed te koop in Turre, Andalusië is gemarkeerd met de blauwe pin. Agua Nueva ligt op 2 minuten rijden van de stad Turre, waar u alle voorzieningen kunt vinden, waaronder een medisch centrum, banken, een supermarkt, een postkantoor, restaurants en bars. Turre ligt op ongeveer 7 km van de stranden van Mojacar en Garrucha. De aangegeven prijs is exclusief de belastingen en kosten die voortvloeien uit de verkoop (ITP tegen het huidige belastingtarief, notaris-, registratie- en advocaatkosten). Wij herinneren u eraan dat u als consument het recht hebt om geïnformeerd te worden en de bijbehorende informatieve documentatie te krijgen, afhankelijk van het geval, op basis van de bepalingen van decreet 218/05 van 11 oktober dat de voorschriften inzake consumenteninformatie bij de verkoop en verhuur van woningen in Andalusië regelt. Luchthavens De luchthaven van Almeria ligt op 45 minuten rijden, de luchthaven van Murcia op 1 uur en 20 minuten, de luchthaven van Alicante op 2 uur en de luchthaven van Malaga op 2 uur en 45 minuten. Golfbanen Mojacar: Marina de la Torre Vera: Valle del Este Cuevas de Almanzora: Woestijnbronnen Aguilas: Aguilón Golf Informatie Mojacar Estates draait sinds 1982 met succes als een onafhankelijk makelaarskantoor voor de verkoop van onroerend goed en vakantieverhuur. Ons toegewijde team, dat allemaal al meer dan 20 jaar in deze branche werkt, biedt een professionele en deskundige service aan onze klanten. Ons team spreekt vloeiend Spaans, Engels en Duits. Wij bieden onroerend goed te koop en te huur in Mojacar en de omliggende gebieden van Almeria, waaronder Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos en San Juan de los Terreros. * Agua Nueva Elena — #ME 2604 * Villa * Bestaande woning * 2 slaapkamers * 2 badkamers * Grond oppervlakte 447 m² * Bebouwde oppervlakte 76 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk',
-        de: 'Schöne Villa zum Verkauf in der Urbanisation "Agua Nueva" in Turre, Almeria, Andalusien mit überdachtem, beheiztem Schwimmbad und Garten mit Blick auf die Berge in der Ferne und nur 10 Autominuten von der Mittelmeerküste entfernt. Überblick Einzigartig gestaltete Immobilie rund um einen zentralen Innenhof, alles im Erdgeschoss, mit zwei Schlafzimmern und zwei Bädern. Das Haus ist von Gärten umgeben und der Swimmingpool ist überdacht und beheizt und kann das ganze Jahr über genutzt werden. Parken kann man auf der Straße, und da die Villa am Ende einer Sackgasse liegt, gibt es nie Probleme damit. Außerdem gibt es Platz für ein Auto auf dem Grundstück unter einer Veranda. Grundriss Die Villa ist über das Erdgeschoss verteilt, wobei die Zimmer vom zentralen Innenhof aus zugänglich sind. Der Zugang zum Grundstück erfolgt über ein Fußgängertor, das in den gefliesten Garten und den Poolbereich führt. Über ein paar Stufen gelangt man auf den zentralen Patio, der eine gute Größe hat und einen Tisch für Mahlzeiten im Freien bietet. Dies ist ein geschützter Bereich, der sowohl in den Sommer- als auch in den Wintermonaten genutzt werden kann. Drei Türen führen von der Terrasse in die verschiedenen Wohnbereiche. Eine Tür führt in das Wohn-Esszimmer mit einer offenen Küche. Die großen Fenster auf allen Seiten fangen die Sonne ein und sorgen für viel natürliches Licht. Die Küche ist voll ausgestattet und verfügt über einen Elektroherd mit Backofen, einen Geschirrspüler, eine Kühl-Gefrierkombination und eine Mikrowelle. Ein Fenster blickt auf die Rückseite des Hauses. Von hier aus gelangt man in das geräumige Hauptschlafzimmer mit Doppelbett und einer kleinen Kuppel über dem Bett. Es gibt ein eigenes Badezimmer mit einer eingebauten Dusche aus Glasbausteinen. Das Badezimmer hat ein Fenster für Licht und Belüftung. Das Schlafzimmer hat auch einen direkten Zugang zum zentralen Innenhof. Durch eine weitere Tür gelangt man in das zweite Schlafzimmer mit Doppelbett und einem Badezimmer mit Dusche. Beide Schlafzimmer haben Einbauschränke und eine Klimaanlage. Eine weitere Tür führt in den Hauswirtschaftsraum mit viel Stauraum sowie der Waschmaschine und dem Warmwasserbereiter. Außenbereiche Die Gärten sind in verschiedenen Bereichen gefliest und gekiest und es gibt ein Gartenhaus, das sich perfekt zur Aufbewahrung von Werkzeugen eignet. Der Pool, ungewöhnlich für diese Gegend, ist überdacht und wird mit Gas beheizt, so dass man das ganze Jahr über schwimmen kann. Autoabstellplatz für ein Fahrzeug. Der Verkauf umfasst: Möbel und Haushaltsgeräte. Gasöltank und Heizgerät für die Beheizung des Pools. Standort Auf der Google-Karte klicken Sie auf "Karte vergrößern" und die genaue Lage der Immobilie zum Verkauf in Turre, Andalusien ist mit der blauen Nadel markiert. Agua Nueva ist nur 2 Autominuten von der Stadt Turre entfernt, wo Sie alle Annehmlichkeiten wie ein Ärztezentrum, Banken, Supermarkt, Postamt sowie Restaurants und Bars finden. Turre ist ca. 7 km von den Stränden von Mojacar und Garrucha entfernt. Der angegebene Preis beinhaltet nicht die Steuern und Kosten, die durch den Verkauf entstehen (ITP zum aktuellen Steuersatz, Notar-, Registrierungs- und Anwaltskosten). Wir erinnern Sie daran, dass Sie als Verbraucher das Recht haben, informiert zu werden und je nach Fall die entsprechenden Informationsunterlagen zu erhalten, basierend auf den Bestimmungen des Dekrets 218/05 vom 11. Oktober, das die Vorschriften zur Verbraucherinformation beim Verkauf und der Vermietung von Wohnungen in Andalusien regelt. Flughäfen Der Flughafen Almeria ist 45 Minuten entfernt, der Flughafen Murcia 1 Stunde und 20 Minuten, der Flughafen Alicante 2 Stunden und der Flughafen Malaga 2 Stunden und 45 Minuten. Golfplätze Mojacar: Yachthafen de la Torre Vera: Valle del Este Cuevas de Almanzora: Wüste Springs Aguilas: Aguilón Golf Über uns Mojacar Estates ist seit 1982 erfolgreich als unabhängige Agentur für Immobilienverkauf und Ferienvermietung tätig. Unser engagiertes Team, das seit mehr als 20 Jahren in dieser Branche tätig ist, bietet unseren Kunden einen professionellen und sachkundigen Service. Unser Team spricht fließend Spanisch, Englisch und Deutsch. Wir bieten Immobilien zum Verkauf und zur Vermietung in Mojacar und den umliegenden Gebieten von Almeria, einschließlich Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos und San Juan de los Terreros. * Agua Nueva Elena — #ME 2604 * Villa * Weiterverkauf * 2 Schlafzimmer * 2 Bäder * Grundstückfläche 447 m² * Umbaute Fläche 76 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich',
-      },
-      images: {
-        image: [
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57944.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57928.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57934.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57929.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57927.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57939.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57938.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57935.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57936.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57933.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57931.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57932.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57937.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57930.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57940.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57941.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57942.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57943.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57945.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2604/xml_57946.jpg",
-          },
-        ],
-      },
-      prime: 1,
-    },
-    {
       id: 2603,
-      date: "2023-01-21 11:37:01",
+      date: "2023-01-21 14:47:01",
       ref: "ME 2603",
       price: 430000,
       currency: "EUR",
@@ -1488,7 +1868,7 @@ export const data = {
     },
     {
       id: 2599,
-      date: "2022-11-15 18:03:13",
+      date: "2022-11-15 21:22:13",
       ref: "ME 2599",
       price: 115000,
       currency: "EUR",
@@ -1576,7 +1956,7 @@ export const data = {
     },
     {
       id: 2596,
-      date: "2023-01-05 22:17:29",
+      date: "2023-01-06 01:27:29",
       ref: "ME 2596",
       price: 359000,
       currency: "EUR",
@@ -1681,7 +2061,7 @@ export const data = {
     },
     {
       id: 2595,
-      date: "2022-11-09 22:13:04",
+      date: "2022-11-10 01:14:04",
       ref: "ME 2595",
       price: 350000,
       currency: "EUR",
@@ -1787,7 +2167,7 @@ export const data = {
     },
     {
       id: 2593,
-      date: "2022-10-18 22:52:14",
+      date: "2022-10-19 00:59:14",
       ref: "ME 2593",
       price: 238000,
       currency: "EUR",
@@ -1892,7 +2272,7 @@ export const data = {
     },
     {
       id: 2591,
-      date: "2022-10-19 23:34:20",
+      date: "2022-10-20 02:37:20",
       ref: "ME 2591",
       price: 179900,
       currency: "EUR",
@@ -1988,11 +2368,10 @@ export const data = {
           },
         ],
       },
-      prime: 1,
     },
     {
       id: 2586,
-      date: "2022-10-13 22:48:26",
+      date: "2022-10-14 01:47:26",
       ref: "ME 2586",
       price: 120000,
       currency: "EUR",
@@ -2098,7 +2477,7 @@ export const data = {
     },
     {
       id: 2585,
-      date: "2022-11-25 16:55:29",
+      date: "2022-11-25 20:04:29",
       ref: "ME 2585",
       price: 149000,
       currency: "EUR",
@@ -2194,10 +2573,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 2584,
-      date: "2023-01-05 23:00:58",
+      date: "2023-01-06 01:04:58",
       ref: "ME 2584",
       price: 74000,
       currency: "EUR",
@@ -2280,10 +2660,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 2583,
-      date: "2022-10-26 22:38:48",
+      date: "2022-10-27 01:48:48",
       ref: "ME 2583",
       price: 145000,
       currency: "EUR",
@@ -2356,9 +2737,9 @@ export const data = {
     },
     {
       id: 2582,
-      date: "2022-12-14 18:56:16",
+      date: "2023-02-14 18:42:29",
       ref: "ME 2582",
-      price: 109000,
+      price: 99000,
       currency: "EUR",
       price_freq: "sale",
       type: "Apartment",
@@ -2462,7 +2843,7 @@ export const data = {
     },
     {
       id: 2581,
-      date: "2023-01-26 18:03:15",
+      date: "2023-01-26 21:03:15",
       ref: "ME 2581",
       price: 165000,
       currency: "EUR",
@@ -2562,7 +2943,7 @@ export const data = {
     },
     {
       id: 2579,
-      date: "2022-10-10 21:23:57",
+      date: "2022-10-11 00:33:57",
       ref: "ME 2579",
       price: 195000,
       currency: "EUR",
@@ -2668,7 +3049,7 @@ export const data = {
     },
     {
       id: 2570,
-      date: "2022-11-24 18:35:02",
+      date: "2022-11-24 20:31:02",
       ref: "ME 2570",
       price: 175000,
       currency: "EUR",
@@ -2774,7 +3155,7 @@ export const data = {
     },
     {
       id: 2567,
-      date: "2023-01-05 15:54:27",
+      date: "2023-01-05 19:05:27",
       ref: "ME 2567",
       price: 689000,
       currency: "EUR",
@@ -2880,7 +3261,7 @@ export const data = {
     },
     {
       id: 2565,
-      date: "2022-11-24 18:47:04",
+      date: "2022-11-24 20:47:04",
       ref: "ME 2565",
       price: 128000,
       currency: "EUR",
@@ -2982,10 +3363,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 2561,
-      date: "2022-11-24 18:47:51",
+      date: "2022-11-24 21:02:51",
       ref: "ME 2561",
       price: 215000,
       currency: "EUR",
@@ -3091,7 +3473,7 @@ export const data = {
     },
     {
       id: 2556,
-      date: "2023-01-12 21:43:42",
+      date: "2023-01-13 00:51:42",
       ref: "ME 2556",
       price: 289000,
       currency: "EUR",
@@ -3193,11 +3575,10 @@ export const data = {
           },
         ],
       },
-      prime: 1,
     },
     {
       id: 2553,
-      date: "2022-11-16 18:13:43",
+      date: "2022-11-16 21:27:43",
       ref: "ME 2553",
       price: 320000,
       currency: "EUR",
@@ -3302,92 +3683,8 @@ export const data = {
       prime: 1,
     },
     {
-      id: 2551,
-      date: "2022-08-18 23:06:54",
-      ref: "ME 2551",
-      price: 235000,
-      currency: "EUR",
-      price_freq: "sale",
-      type: "Town House",
-      town: "Mojacar",
-      province: "Almeria",
-      location: {
-        latitude: 37.131236,
-        longitude: -1.835876,
-      },
-      beds: 3,
-      baths: 1,
-      pool: 1,
-      surface_area: {
-        built: 83,
-        plot: 148,
-      },
-      energy_rating: {
-        consumption: "X",
-        emissions: "X",
-      },
-      url: {
-        en: "https://mojacarestates.com/property/2551/town-house-in-mojacar",
-        es: "https://es.mojacarestates.com/propiedad/2551/duplex-en-mojacar",
-        fr: "https://fr.mojacarestates.com/propriete/2551/maison-de-ville-en-mojacar",
-        nl: "https://nl.mojacarestates.com/woning/2551/rijtjeshuis-in-mojacar",
-        de: "https://de.mojacarestates.com/immobilien/2551/reihenhaus-in-mojacar",
-      },
-      desc: {
-        en: "Centrally located bungalow for sale in Mojacar, Almeria, Andalusia which forms part of a small urbanisation with a communal swimming pool as well as a good sized private garden and solarium. Access to the property is via the front terrace and parking space for one car. Coming into the house, there is a hallway with the three double bedrooms distributed off from this. The master bedroom is on the left, followed by the cloakroom and the second bedroom. To the right is the third bedroom and the fully renovated bathroom. All the bedrooms have built-in wardrobes. The living-dining room has a fireplace with a pellet burner and doors leading out to the front garden which is fully tiled. The separate kitchen is off to the left and has windows looking out to the front and doors leading to the internal patio with external stairs going up to the solarium with 360º sea and mountain views. The fully fitted kitchen in ivory colour has a timeless elegant design with excellent finishes: stylish doors and door handles, LED lights underneath the wall units, integrated dishwasher, fridge / freezer and electric oven. The front garden has a pedestrian gate to Calle Ceuta, which takes you to the communal pool. The property is 200 metres from the beach, where you will also find bars and restaurants. Air conditioning (hot and cold air) in two bedrooms and in the lounge. Furnished according to the inventory. Location The town house is situated in a quiet residential area 200 metres from the sea. It is a 5 minute walk from the property to the beach. On the seafront there are plenty of restaurants and bars. The exact location is marked with a pin on the Google map. Airports Almeria airport is a 45 minute drive, Murcia airport is 1 hour 20 minutes, Alicante airport is 2 hours and Malaga airport is 2 hours 45 minutes. Golf Courses Mojacar: Marina de la Torre, Vera: Valle del Este and Cuevas de Almanzora: Desert Springs. * Calle Ceuta — #ME 2551 * Town House * Resale * 3 bedrooms * One bathroom * + Cloakroom / WC * Land area 148 m² * Constructed area 83 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible",
-        es: "Bungalow céntrico en venta en Mojácar, Almería, Andalucía, que forma parte de una pequeña urbanización con piscina comunitaria, así como un jardín privado de buen tamaño y solárium. El acceso a la propiedad es a través de la terraza delantera y plaza de aparcamiento para un coche. Al entrar en la casa, hay un pasillo con los tres dormitorios dobles distribuidos a partir de este. El dormitorio principal está a la izquierda, seguido por el guardarropa y el segundo dormitorio. A la derecha se encuentra el tercer dormitorio y el baño totalmente reformado. Todos los dormitorios tienen armarios empotrados. El salón-comedor tiene una chimenea con un quemador de pellets y puertas que conducen al jardín delantero que está completamente alicatado. La cocina independiente está a la izquierda y tiene ventanas que dan al frente y puertas que conducen al patio interno con escaleras externas que suben al solárium con vistas de 360º al mar y a la montaña. La cocina totalmente equipada en color marfil tiene un diseño elegante atemporal con excelentes acabados: puertas y manijas de puertas elegantes, luces LED debajo de las unidades de pared, lavavajillas integrado, nevera / congelador y horno eléctrico. El jardín delantero tiene una puerta peatonal a la calle Ceuta, que te lleva a la piscina comunitaria. El establecimiento se encuentra a 200 metros de la playa, donde también encontrará bares y restaurantes. Aire acondicionado (aire frío y calor) en dos dormitorios y en el salón. Amueblado según el inventario. Ubicación La casa de pueblo está situada en una tranquila zona residencial a 200 metros del mar. Está a 5 minutos a pie de la propiedad a la playa. En el paseo marítimo hay muchos restaurantes y bares. La ubicación exacta está marcada con un pin en el mapa de Google. Aeropuertos El aeropuerto de Almería está a 45 minutos en coche, el aeropuerto de Murcia está a 1 hora y 20 minutos, el aeropuerto de Alicante está a 2 horas y el aeropuerto de Málaga está a 2 horas y 45 minutos. Campos de Golf Mojácar: Marina de la Torre, Vera: Valle del Este y Cuevas de Almanzora: Desert Springs. * Calle Ceuta — #ME 2551 * Duplex * Buen estado * 3 dormitorios * Un cuarto de baño * + Aseo * Área de terreno 148 m² * Superficie construida 83 m² * Agua General * Luz General * Teléfono Posible * Internet Posible",
-        fr: "Bungalow situé au centre à vendre à Mojacar, Almeria, Andalousie qui fait partie d’une petite urbanisation avec une piscine commune ainsi qu’un jardin privé de bonne taille et un solarium. L’accès à la propriété se fait par la terrasse avant et l’espace de stationnement pour une voiture. En entrant dans la maison, il y a un couloir avec les trois chambres doubles distribuées à partir de cela. La chambre principale est sur la gauche, suivie du vestiaire et de la deuxième chambre. À droite se trouve la troisième chambre et la salle de bain entièrement rénovée. Toutes les chambres ont des armoires encastrées. Le salon-salle à manger dispose d’une cheminée avec un brûleur à granulés et des portes donnant sur le jardin avant qui est entièrement carrelé. La cuisine séparée est à gauche et a des fenêtres donnant sur l’avant et des portes menant au patio intérieur avec des escaliers extérieurs menant au solarium avec vue à 360 ° sur la mer et la montagne. La cuisine entièrement équipée en couleur ivoire a un design élégant intemporel avec d’excellentes finitions: portes et poignées de porte élégantes, lumières LED sous les unités murales, lave-vaisselle intégré, réfrigérateur / congélateur et four électrique. Le jardin avant a une porte piétonne à Calle Ceuta, qui vous emmène à la piscine commune. L’établissement se trouve à 200 mètres de la plage, où vous trouverez également des bars et des restaurants. Air conditionné (air chaud et froid) dans deux chambres et dans le salon. Meublé selon l’inventaire. Emplacement La maison de ville est située dans un quartier résidentiel calme à 200 mètres de la mer. Il se trouve à 5 minutes à pied de la propriété jusqu’à la plage. Sur le front de mer, il y a beaucoup de restaurants et de bars. L’emplacement exact est marqué d’une épingle sur la carte Google. Aéroports L’aéroport d’Almeria est à 45 minutes en voiture, l’aéroport de Murcie est à 1 heure 20 minutes, l’aéroport d’Alicante est à 2 heures et l’aéroport de Malaga est à 2 heures 45 minutes. Terrains de golf Mojacar: Marina de la Torre, Vera: Valle del Este et Cuevas de Almanzora: Desert Springs. * Calle Ceuta — #ME 2551 * Maison de Ville * Revente * 3 chambres à coucher * Une salle de bains * + Toilette * Surface terrain 148 m² * Surface habitable 83 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
-        nl: "Centraal gelegen bungalow te koop in Mojacar, Almeria, Andalusië, die deel uitmaakt van een kleine urbanisatie met een gemeenschappelijk zwembad, evenals een ruime privétuin en solarium. Toegang tot de woning is via het terras aan de voorzijde en parkeerplaats voor één auto. Als u het huis binnenkomt, is er een hal met de drie tweepersoonsslaapkamers hiervandaan verdeeld. De hoofdslaapkamer bevindt zich aan de linkerkant, gevolgd door de garderobe en de tweede slaapkamer. Aan de rechterkant is de derde slaapkamer en de volledig gerenoveerde badkamer. Alle slaapkamers hebben ingebouwde kasten. De woon-eetkamer heeft een open haard met een pelletbrander en openslaande deuren naar de voortuin die volledig betegeld is. De aparte keuken is aan de linkerkant en heeft ramen die uitkijken op de voorkant en deuren die leiden naar de interne patio met externe trap naar het solarium met 360º uitzicht op zee en de bergen. De volledig ingerichte keuken in ivoorkleur heeft een tijdloos elegant design met uitstekende afwerkingen: stijlvolle deuren en deurklinken, LED-verlichting onder de wandkasten, geïntegreerde vaatwasser, koel/vriescombinatie en elektrische oven. De voortuin heeft een voetgangerspoort naar Calle Ceuta, die u naar het gemeenschappelijke zwembad brengt. De accommodatie ligt op 200 meter van het strand, waar u ook bars en restaurants vindt. Airconditioning (warme en koude lucht) in twee slaapkamers en in de woonkamer. Ingericht volgens de inventaris. Plaats Het herenhuis ligt in een rustige woonwijk op 200 meter van de zee. Het is 5 minuten lopen van de accommodatie naar het strand. Aan de kust vindt u tal van restaurants en bars. De exacte locatie is gemarkeerd met een speld op de Google-kaart. Luchthavens De luchthaven van Almeria ligt op 45 minuten rijden, de luchthaven van Murcia op 1 uur en 20 minuten, de luchthaven van Alicante op 2 uur en de luchthaven van Malaga op 2 uur en 45 minuten. Golfbanen Mojacar: Marina de la Torre, Vera: Valle del Este en Cuevas de Almanzora: Desert Springs. * Calle Ceuta — #ME 2551 * Rijtjeshuis * Bestaande woning * 3 slaapkamers * Een badkamer * + Toilet * Grond oppervlakte 148 m² * Bebouwde oppervlakte 83 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk",
-        de: "Zentral gelegener Bungalow zum Verkauf in Mojacar, Almeria, Andalusien, der Teil einer kleinen Urbanisation mit einem Gemeinschaftspool sowie einem großen privaten Garten und Solarium ist. Der Zugang zum Grundstück erfolgt über die vordere Terrasse und den Parkplatz für ein Auto. Wenn Sie in das Haus kommen, gibt es einen Flur mit den drei Doppelzimmern, die davon verteilt sind. Das Hauptschlafzimmer befindet sich auf der linken Seite, gefolgt von der Garderobe und dem zweiten Schlafzimmer. Auf der rechten Seite befindet sich das dritte Schlafzimmer und das komplett renovierte Badezimmer. Alle Schlafzimmer verfügen über Einbauschränke. Das Wohn-Esszimmer verfügt über einen Kamin mit einem Pelletofen und Türen, die zum Vorgarten führen, der komplett gefliest ist. Die separate Küche befindet sich auf der linken Seite und hat Fenster mit Blick auf die Vorderseite und Türen, die zum Innenhof führen, mit Außentreppen, die zum Solarium mit 360 ° Meer- und Bergblick führen. Die voll ausgestattete Küche in Elfenbeinfarbe hat ein zeitlos elegantes Design mit hervorragenden Oberflächen: stilvolle Türen und Türgriffe, LED-Leuchten unter den Schrankwänden, integrierter Geschirrspüler, Kühl- / Gefrierschrank und Elektroherd. Der Vorgarten hat ein Fußgängertor zur Calle Ceuta, das Sie zum Gemeinschaftspool führt. Die Unterkunft befindet sich 200 m vom Strand entfernt, wo Sie auch Bars und Restaurants finden. Klimaanlage (warme und kalte Luft) in zwei Schlafzimmern und im Wohnzimmer. Möbliert nach dem Inventar. Ort Das Stadthaus liegt in einer ruhigen Wohngegend, 200 m vom Meer entfernt. Es ist 5 Minuten zu Fuß von der Unterkunft zum Strand. Direkt am Meer gibt es viele Restaurants und Bars. Der genaue Standort ist auf der Google-Karte mit einem Pin markiert. Flughäfen Der Flughafen Almeria ist eine 45-minütige Fahrt, der Flughafen Murcia ist 1 Stunde 20 Minuten, der Flughafen Alicante ist 2 Stunden und der Flughafen Malaga ist 2 Stunden 45 Minuten entfernt. Golfplätze Mojacar: Marina de la Torre, Vera: Valle del Este und Cuevas de Almanzora: Wüstenquellen. * Calle Ceuta — #ME 2551 * Reihenhaus * Weiterverkauf * 3 Schlafzimmer * Ein Badezimmer * + Gäste-WC * Grundstückfläche 148 m² * Umbaute Fläche 83 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich",
-      },
-      images: {
-        image: [
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2551/xml_56335.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2551/xml_56345.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2551/xml_56337.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2551/xml_56338.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2551/xml_56343.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2551/xml_56347.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2551/xml_56339.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2551/xml_56340.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2551/xml_56341.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2551/xml_56342.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2551/xml_56344.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2551/xml_56346.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2551/xml_56336.jpg",
-          },
-        ],
-      },
-      prime: 1,
-    },
-    {
       id: 2539,
-      date: "2023-01-19 20:31:25",
+      date: "2023-01-19 23:33:25",
       ref: "ME 2539",
       price: 325000,
       currency: "EUR",
@@ -3493,7 +3790,7 @@ export const data = {
     },
     {
       id: 2537,
-      date: "2023-01-31 15:24:42",
+      date: "2023-01-31 18:34:42",
       ref: "ME 2537",
       price: 360000,
       currency: "EUR",
@@ -3599,7 +3896,7 @@ export const data = {
     },
     {
       id: 2527,
-      date: "2023-01-05 15:14:22",
+      date: "2023-01-05 17:28:22",
       ref: "ME 2527",
       price: 222500,
       currency: "EUR",
@@ -3704,7 +4001,7 @@ export const data = {
     },
     {
       id: 2526,
-      date: "2022-12-19 17:49:20",
+      date: "2022-12-19 19:57:20",
       ref: "ME 2526",
       price: 120000,
       currency: "EUR",
@@ -3772,11 +4069,10 @@ export const data = {
           },
         ],
       },
-      prime: 1,
     },
     {
       id: 2525,
-      date: "2022-12-19 17:02:00",
+      date: "2022-12-19 19:04:00",
       ref: "ME 2525",
       price: 179000,
       currency: "EUR",
@@ -3872,7 +4168,7 @@ export const data = {
     },
     {
       id: 2524,
-      date: "2022-08-18 23:11:16",
+      date: "2022-08-19 01:20:16",
       ref: "ME 2524",
       price: 169000,
       currency: "EUR",
@@ -3956,7 +4252,7 @@ export const data = {
     },
     {
       id: 2519,
-      date: "2022-11-16 19:23:23",
+      date: "2022-11-16 21:22:23",
       ref: "ME 2519",
       price: 160000,
       currency: "EUR",
@@ -4010,7 +4306,7 @@ export const data = {
     },
     {
       id: 2518,
-      date: "2022-06-06 21:06:48",
+      date: "2022-06-07 00:20:48",
       ref: "ME 2518",
       price: 75000,
       currency: "EUR",
@@ -4106,113 +4402,8 @@ export const data = {
       prime: 1,
     },
     {
-      id: 2513,
-      date: "2022-06-06 19:06:01",
-      ref: "ME 2513",
-      price: 650000,
-      currency: "EUR",
-      price_freq: "sale",
-      type: "Villa",
-      town: "Mojacar",
-      province: "Almeria",
-      location: {
-        latitude: 37.136657,
-        longitude: -1.831153,
-      },
-      beds: 6,
-      baths: 3,
-      pool: 1,
-      surface_area: {
-        built: 228,
-        plot: 517,
-      },
-      energy_rating: {
-        consumption: "X",
-        emissions: "X",
-      },
-      url: {
-        en: "https://mojacarestates.com/property/2513/villa-in-mojacar",
-        es: "https://es.mojacarestates.com/propiedad/2513/chalet-en-mojacar",
-        fr: "https://fr.mojacarestates.com/propriete/2513/villa-en-mojacar",
-        nl: "https://nl.mojacarestates.com/woning/2513/villa-in-mojacar",
-        de: "https://de.mojacarestates.com/immobilien/2513/villa-in-mojacar",
-      },
-      desc: {
-        en: "Large villa for sale in a very central part of Mojacar Playa, near the Parque Comercial in Almeria, Andalusia with pool and garden, sea views from the terraces. Access to the property is via a pedestrian door with an intercom. This leads into the garden and there are steps leading up to a big covered porch and the front door. There is also an electric entry gate for cars that leads to a sloping driveway where you can park 3 cars. The villa has 4 floors. Ground floor On this level coming through the front door, you have a hallway with various rooms leading off on either side. The living-dining room is off to the right with a large window on the side of the villa that frames the banana palms outside. There are patio doors looking out to the lovely mature garden with olive trees amongst others, which open onto the front terrace. The kitchen is to the left and is large and fully fitted and equipped with granite work tops and plenty of space for a breakfast table and chairs. The kitchen is fitted with an electric hob & oven, a fridge-freezer, dishwasher, washing machine and free-standing microwave. Two windows allow for lots of natural light. There is a double bedroom on this floor with built-in wardrobes and a family bathroom with bath and window for natural light. First floor There are feature stain glass windows on the staircase. A door leads from the hallway to a large covered southeast facing terrace. There are 2 double bedrooms with built-in wardrobes, one has access to a balcony that overlooks the pool at the rear of the property, and the other has access to another large terrace at the front with sea views. There is a good sized family bathroom with bath and window to the back. Second floor Here there is a large solarium with sea views. Semi-basement There are interior stairs that lead down from the ground floor. On this level there are 2 double bedrooms and an office / bedroom. The 2 double bedrooms have built-in wardrobes and high up windows. The office has shelving and could easily be converted into another bedroom. A door opens from the office onto the driveway. There is a family bathroom with bath. And another room that is a storeroom / larder at present with an extra freezer. Exterior The gardens have beautiful mature trees which makes for a wonderful splash of greenery around the villa. There is a built-in BBQ and terrace at the front. Steps lead around to the back of the villa where the 32m2 pool is. The other side of the villa also has a garden area. Extras: Centralised air conditioning (hot and cold air) throughout the villa. Security anti-theft glass. Alarm. Location The villa couldn’t be more centrally located: 2 minutes’ walk from the supermarkets, banks, medical centre, post office, shops and restaurants as well as the beach. The exact location of the apartment is marked with a pin on the Google map. *****PURCHASE TAXES ARE NOW 7% ON ALL PROPERTIES IN ANDALUSIA (SO TAXES BELOW TO BE ADJUSTED ACCORDINGLY)***** NET PRICE: 650.000 € PURCHASE TAXES: 54.500 € NOTARY FEES - APPROX.: 2.200 € LAND REGISTRY - APPROX.: 2.000 € TOTAL PRICE: 708.700 € Price valid until sold. Conveyancing not included. The rates applied are the highest, and the buyer may, due to their characteristics, benefit from some tax deductions. The property A. I. D. is available at our office according to the decree 218/2005 of 11 of October that regulates the information regulation for the consumer in the purchasing-selling of property in Andalusia. Airports Almeria airport is a 45 minute drive, Murcia airport is 1 hour 20 minutes, Alicante airport is 2 hours and Malaga airport is 2 hours 45 minutes. Golf Courses Mojacar: Marina de la Torre, Vera: Valle del Este and Cuevas de Almanzora: Desert Springs. * Casa Arenal — #ME 2513 * Villa * Resale * 6 bedrooms * 3 bathrooms * Land area 517 m² * Constructed area 228 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible",
-        es: "Amplio chalet en venta en una zona muy céntrica de Mojácar Playa, cerca del Parque Comercial en Almería, Andalucía con piscina y jardín, vistas al mar desde las terrazas. El acceso a la propiedad es a través de una puerta peatonal con un videoportero. Esto conduce al jardín y hay escalones que suben a un gran porche cubierto y la puerta principal. También hay una puerta de entrada eléctrica para los coches que da lugar a un camino inclinado donde se puede aparcar 3 coches. La villa tiene 4 plantas. Planta baja En esta planta, entrando por la puerta principal, hay un pasillo con varias habitaciones a ambos lados. El salón-comedor está a la derecha con una gran ventana en el lado de la villa que enmarca las palmeras de plátano fuera. Hay ventanales que dan al precioso jardín maduro con olivos, entre otros, y la terraza delantera. La cocina está a la izquierda y es grande y totalmente equipada con encimeras de granito y un montón de espacio para una mesa de desayuno y sillas. La cocina está equipada con una placa eléctrica y horno, una nevera-congelador, lavavajillas, lavadora y microondas independiente. Dos ventanas permiten la entrada de mucha luz natural. En esta planta hay un dormitorio doble con armarios empotrados y un baño completo con bañera y ventana para que entre la luz natural. Primera planta En la escalera hay unas vidrieras. Una puerta conduce desde el pasillo a una gran terraza cubierta orientada al sureste. Hay 2 dormitorios dobles con armarios empotrados, uno tiene acceso a un balcón que da a la piscina en la parte trasera de la propiedad, y el otro tiene acceso a otra gran terraza en la parte delantera con vistas al mar. Hay un baño completo de buen tamaño con bañera y ventana en la parte trasera. Segunda planta Aquí hay un gran solarium con vistas al mar. Semisótano Hay escaleras interiores que bajan desde la planta baja. En este nivel hay 2 dormitorios dobles y un despacho/dormitorio. Los 2 dormitorios dobles tienen armarios empotrados y ventanas altas. El despacho tiene estanterías y podría convertirse fácilmente en otro dormitorio. Una puerta se abre desde la oficina al camino de entrada. Hay un baño completo con bañera y otra habitación que es un almacén / despensa en la actualidad con un congelador adicional. Exterior Los jardines tienen hermosos árboles maduros que hace un maravilloso chapoteo de la vegetación alrededor de la villa. Hay una barbacoa incorporada y una terraza en la parte delantera. Los pasos van alrededor de la parte trasera de la villa donde la piscina de 32m2 es. El otro lado de la villa también tiene una zona ajardinada. Extras: Aire acondicionado centralizado (aire caliente y frío) en toda la villa. Cristales de seguridad antirrobo. Alarma. Ubicación La villa no podría ser más céntrica: A 2 minutos a pie de los supermercados, bancos, centro de salud, oficina de correos, tiendas y restaurantes, así como de la playa. La ubicación exacta del apartamento está marcada con un pin en el mapa de Google. *****ITP AHORA 7% PARA TODAS LAS PROPIEDADES EN ANDALUCÍA (ASÍ QUE LOS IMPUESTOS AQUÍ DEBAJO SE TENDRÁN QUE AJUSTAR RESPECTIVAMENTE)***** PRECIO NETO: 650.000 € ITP (Impuesto de Transmisiones Patrimoniales): 54.500 € NOTARÍA - aprox.: 2.200 € REGISTRO DE LA PROPIEDAD - aprox.: 2.000 € PRECIO TOTAL aprox.: 708.700 € Oferta válida por tiempo indefinido. Honorarios de asesoramiento personal no incluido. Los tipos aplicados son los más altos, pudiendo el comprador, por sus características, beneficiarse de algunas deducciones fiscales. Tiene disponible en nuestra oficina el D. I. A. de la vivienda. según el decreto 218/2005 de 11 de octubre que regula el reglamento de información al consumidor en la compra-venta de vivienda en Andalucía. Aeropuertos El aeropuerto de Almería está a 45 minutos en coche, el de Murcia a 1 hora y 20 minutos, el de Alicante a 2 horas y el de Málaga a 2 horas y 45 minutos. Campos de golf Mojácar: Marina de la Torre, Vera: Valle del Este y Cuevas de Almanzora: Desert Springs. * Casa Arenal — #ME 2513 * Chalet * Buen estado * 6 dormitorios * 3 cuartos de baño * Área de terreno 517 m² * Superficie construida 228 m² * Agua General * Luz General * Teléfono Posible * Internet Posible",
-        fr: "Grande villa à vendre dans une partie très centrale de Mojacar Playa, près du Parque Comercial à Almeria, Andalousie avec piscine et jardin, vue sur la mer depuis les terrasses. L'accès à la propriété se fait par une porte piétonne avec interphone. Cela mène au jardin et il y a des marches menant à un grand porche couvert et à la porte d'entrée. Il y a également un portail d'entrée électrique pour les voitures qui mène à une allée en pente où vous pouvez garer 3 voitures. La villa a 4 étages. Rez-de-chaussée À ce niveau, en passant par la porte d'entrée, vous avez un couloir avec plusieurs pièces de part et d'autre. Le salon-salle à manger se trouve à droite avec une grande fenêtre sur le côté de la villa qui encadre les palmiers bananiers à l'extérieur. Des portes-fenêtres donnent sur le beau jardin mature avec des oliviers, entre autres, et s'ouvrent sur la terrasse avant. La cuisine est à gauche et est grande et entièrement aménagée et équipée avec des plans de travail en granit et beaucoup d'espace pour une table de petit déjeuner et des chaises. La cuisine est équipée d'une plaque de cuisson et d'un four électriques, d'un réfrigérateur-congélateur, d'un lave-vaisselle, d'un lave-linge et d'un micro-ondes sur pied. Deux fenêtres laissent passer beaucoup de lumière naturelle. Il y a une chambre double à cet étage avec des armoires encastrées et une salle de bain familiale avec baignoire et fenêtre pour la lumière naturelle. Premier étage L'escalier est orné de fenêtres en verre teinté. Une porte mène du couloir à une grande terrasse couverte orientée sud-est. Il y a 2 chambres doubles avec des armoires encastrées, une a accès à un balcon qui donne sur la piscine à l'arrière de la propriété, et l'autre a accès à une autre grande terrasse à l'avant avec des vues sur la mer. Il y a une salle de bain familiale de bonne taille avec baignoire et fenêtre à l'arrière. Deuxième étage Ici il y a un grand solarium avec des vues sur la mer. Semi-sous-sol Il y a des escaliers intérieurs qui descendent du rez-de-chaussée. A ce niveau, il y a 2 chambres doubles et un bureau / chambre. Les 2 chambres doubles ont des armoires encastrées et des fenêtres en hauteur. Le bureau a des étagères et pourrait facilement être converti en une autre chambre. Une porte s'ouvre du bureau sur l'allée. Il y a une salle de bain familiale avec baignoire. Et une autre pièce qui est un débarras / garde-manger à l'heure actuelle avec un congélateur supplémentaire. Extérieur Les jardins ont de beaux arbres matures qui fait pour une merveilleuse éclaboussure de verdure autour de la villa. Il y a un BBQ intégré et une terrasse à l'avant. Des marches mènent à l'arrière de la villa où se trouve la piscine de 32m2. L'autre côté de la villa a également une zone de jardin. Extras : Climatisation centralisée (air chaud et froid) dans toute la villa. Verre de sécurité anti-vol. Alarme. Emplacement La villa ne pourrait pas être plus centralement située : 2 minutes à pied des supermarchés, banques, centre médical, bureau de poste, magasins et restaurants ainsi que de la plage. L'emplacement exact de l'appartement est indiqué par une épingle sur la carte Google. *****LES TAXES D'ACHAT SONT MAINTENANT DE 7% SUR TOUTES LES PROPRIÉTÉS EN ANDALOUSIE (LES TAXES CI-DESSOUS DOIVENT DONC ÊTRE AJUSTÉES EN CONSÉQUENCE)***** PRIX NET: 650.000 € TAXES D'ACHAT: 54.500 € FRAIS DE NOTAIRE - ENVIRON: 2.200 € REGISTRE IMMOBILIER – APPROX.: 2.000 € PRIX TOTAL: 708.700 € Prix valable jusqu'à ce que vendu. Le transfert n'est pas inclus. Les taux appliqués sont les plus élevés, et l'acheteur peut- en raison de leurs caractéristiques- bénéficier de déductions fiscales. La propriété A. I. D. est disponible dans nos locaux conformément au décret 218/2005 du 11 octobre réglementant la réglementation de l’information du consommateur lors de l’achat-vente de biens immobiliers en Andalousie. Aéroports L'aéroport d'Almeria est à 45 minutes en voiture, celui de Murcie à 1 heure 20 minutes, celui d'Alicante à 2 heures et celui de Malaga à 2 heures 45 minutes. Terrains de golf Mojacar : Marina de la Torre, Vera : Valle del Este et Cuevas de Almanzora : Desert Springs. * Casa Arenal — #ME 2513 * Villa * Revente * 6 chambres à coucher * 3 salles de bains * Surface terrain 517 m² * Surface habitable 228 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
-        nl: "Grote villa te koop in een zeer centraal deel van Mojacar Playa, in de buurt van het Parque Comercial in Almeria, Andalusië met zwembad en tuin, uitzicht op zee vanaf de terrassen. Toegang tot het pand is via een voetgangersdeur met een intercom. Deze leidt naar de tuin en er zijn treden die leiden naar een grote overdekte veranda en de voordeur. Er is ook een elektrische toegangspoort voor auto's die leidt naar een hellende oprit waar u 3 auto's kunt parkeren. De villa heeft 4 verdiepingen. Begane grond Op dit niveau, als u door de voordeur komt, heeft u een hal met verschillende kamers aan weerszijden. De woon-eetkamer is aan de rechterkant met een groot raam aan de zijkant van de villa dat de bananenpalmen buiten omlijst. Er zijn openslaande deuren naar de mooie volgroeide tuin met o.a. olijfbomen, die uitkomen op het terras aan de voorkant. De keuken is aan de linkerkant en is groot en volledig ingericht en uitgerust met granieten werkbladen en voldoende ruimte voor een ontbijttafel en stoelen. De keuken is uitgerust met een elektrische kookplaat en oven, een koelkast met vriesvak, vaatwasser, wasmachine en vrijstaande magnetron. Twee ramen zorgen voor veel natuurlijk licht. Er is een dubbele slaapkamer op deze verdieping met ingebouwde kasten en een familiebadkamer met bad en raam voor natuurlijk licht. Eerste verdieping De trap heeft glas-in-loodramen. Een deur leidt vanuit de hal naar een groot overdekt terras op het zuidoosten. Er zijn 2 dubbele slaapkamers met ingebouwde kasten, een heeft toegang tot een balkon dat uitkijkt op het zwembad aan de achterzijde van het pand, en de andere heeft toegang tot een ander groot terras aan de voorzijde met uitzicht op zee. Er is een ruime familiebadkamer met bad en raam aan de achterzijde. Tweede verdieping Hier is er een groot solarium met uitzicht op zee. Semi-kelder Er is een binnentrap die van de benedenverdieping naar beneden leidt. Op dit niveau zijn er 2 dubbele slaapkamers en een kantoor / slaapkamer. De 2 dubbele slaapkamers hebben ingebouwde kasten en hooggeplaatste ramen. Het kantoor heeft rekken en kan gemakkelijk worden omgezet in een andere slaapkamer. Een deur opent vanuit het kantoor naar de oprit. Er is een familie badkamer met bad. En nog een kamer die momenteel een opslagruimte/voorraadkast is met een extra vriezer. Exterieur De tuinen hebben prachtige volgroeide bomen die zorgen voor een prachtige spetter van groen rond de villa. Er is een ingebouwde BBQ en een terras aan de voorkant. Een trap leidt naar de achterkant van de villa waar zich het zwembad van 32m2 bevindt. De andere kant van de villa heeft ook een tuin. Extra's: Gecentraliseerde airconditioning (warme en koude lucht) in de gehele villa. Beveiliging anti-diefstal glas. Alarm. Ligging De villa kan niet centraler gelegen zijn: 2 minuten lopen van de supermarkten, banken, medisch centrum, postkantoor, winkels en restaurants, evenals het strand. De exacte locatie van het appartement is aangegeven met een pin op de Google kaart. NETTO PRIJS: 650.000 € AANKOOPBELASTINGEN: 54.500 € NOTARISKOSTEN - ongeveer: 2.200 € LAND REGISTER - ongeveer: 2.000 € TOTAAL PRIJS ca.: 708.700 € Prijs geldig tot verkocht. Overdracht niet inbegrepen. De toegepaste tarieven zijn het hoogst en de koper kan, n.a.v. zijn kenmerken, profiteren van eventuele belastingaftrek. Het eigendom A. I. D. is beschikbaar op ons kantoor volgens het decreet 218/2005 van 11 oktober, dat de informatieverordening regelt voor de consument bij de aankoop van onroerend goed in Andalusië. Luchthavens De luchthaven van Almeria ligt op 45 minuten rijden, de luchthaven van Murcia op 1 uur 20 minuten, de luchthaven van Alicante op 2 uur en de luchthaven van Malaga op 2 uur 45 minuten. Golfbanen Mojacar: Marina de la Torre, Vera: Valle del Este en Cuevas de Almanzora: Desert Springs. * Casa Arenal — #ME 2513 * Villa * Bestaande woning * 6 slaapkamers * 3 badkamers * Grond oppervlakte 517 m² * Bebouwde oppervlakte 228 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk",
-        de: "Große Villa zum Verkauf in einem sehr zentralen Teil von Mojacar Playa, in der Nähe des Parque Comercial in Almeria, Andalusien mit Pool und Garten, Meerblick von den Terrassen. Der Zugang zum Grundstück erfolgt über eine Fußgängertür mit Gegensprechanlage. Diese führt in den Garten und es gibt eine Treppe, die zu einer großen überdachten Veranda und der Eingangstür hinaufführt. Es gibt auch ein elektrisches Einfahrtstor für Autos, das zu einer abschüssigen Auffahrt führt, wo man 3 Autos parken kann. Die Villa hat 4 Etagen. Erdgeschoss Wenn Sie durch die Eingangstür kommen, gelangen Sie in einen Flur, von dem aus verschiedene Räume auf beiden Seiten abgehen. Auf der rechten Seite befindet sich das Wohn-Esszimmer mit einem großen Fenster auf der Seite der Villa, das den Blick auf die Bananenpalmen draußen freigibt. Es gibt Terrassentüren, die auf den schönen Garten mit Olivenbäumen und auf die vordere Terrasse führen. Die Küche befindet sich auf der linken Seite und ist groß und komplett ausgestattet mit Granitarbeitsplatten und viel Platz für einen Frühstückstisch und Stühle. Die Küche ist mit einem Elektroherd und einem Backofen, einem Kühlschrank mit Gefrierfach, einem Geschirrspüler, einer Waschmaschine und einer freistehenden Mikrowelle ausgestattet. Zwei Fenster sorgen für viel natürliches Licht. Auf dieser Etage befindet sich ein Schlafzimmer mit Doppelbett und Einbauschränken sowie ein Familienbadezimmer mit Badewanne und Fenster für Tageslicht. Erster Stock Das Treppenhaus ist mit Glasfenstern ausgestattet. Eine Tür führt vom Flur zu einer großen überdachten Terrasse, die nach Südosten ausgerichtet ist. Es gibt 2 Doppelschlafzimmer mit Einbauschränken, eines hat Zugang zu einem Balkon mit Blick auf den Pool auf der Rückseite des Hauses, und das andere hat Zugang zu einer anderen großen Terrasse auf der Vorderseite mit Meerblick. Es gibt ein großes Familienbad mit Badewanne und Fenster auf der Rückseite. Zweiter Stock Hier gibt es eine große Sonnenterrasse mit Meerblick. Halbkeller Eine Innentreppe führt vom Erdgeschoss nach unten. Auf dieser Ebene befinden sich 2 Doppelschlafzimmer und ein Büro/Schlafzimmer. Die 2 Doppelschlafzimmer haben Einbauschränke und hohe Fenster. Das Büro ist mit Regalen ausgestattet und könnte leicht in ein weiteres Schlafzimmer umgewandelt werden. Vom Büro aus führt eine Tür auf die Auffahrt. Es gibt ein Familienbad mit Badewanne. Und ein weiterer Raum, der zur Zeit als Abstellraum / Speisekammer mit einem zusätzlichen Gefrierschrank dient. Äußeres Die Gärten sind mit schönen alten Bäumen bepflanzt, die für eine wunderbare Begrünung rund um die Villa sorgen. Es gibt einen eingebauten Grill und eine Terrasse an der Vorderseite. Eine Treppe führt zur Rückseite der Villa, wo sich der 32 m2 große Pool befindet. Die andere Seite der Villa hat auch einen Gartenbereich. Extras: Zentralisierte Klimaanlage (warme und kalte Luft) in der ganzen Villa. Sicherheitsglas gegen Diebstahl. Alarmanlage. Standort Die Villa könnte nicht zentraler gelegen sein: 2 Gehminuten von Supermärkten, Banken, Ärztezentrum, Post, Geschäften und Restaurants sowie dem Strand entfernt. Die genaue Lage der Wohnung ist auf der Google-Karte mit einer Stecknadel markiert. *****DIE GRUNDERWERBSSTEUER BETRÄGT JETZT 7% FÜR ALLE IMMOBILIEN IN ANDALUSIEN (DIE NACHSTEHENDEN STEUERN WERDEN ALSO ENTSPRECHEND ANGEPASST)***** NETTO PREIS: 650.000 € GRUNDERWERBSSTEUER: 54.500 € NOTARGEBÜHREN - Ca.: 2.200 € GRUNDBUCHEINTRAGUNG - Ca.: 2.000 € GESAMTPREIS: 708.700 € Preis gültig bis Verkauf. Anwaltskosten nicht in Preis inbegriffen. Es wurden Standartkosten angesetzt, der Käufer kann auf Grund seines Alters, o. ä. Umstände eventuell Steuersenkungen geltend machen. Der für diese Immobilie geltende D.I.A. ( Verbraucherinformation für Kauf und Verkauf von Immobilien in Andalusien gemäß Dekret 218/2005 vom 11. Oktober) liegt auf Wunsch in unserem Büro vor. Flughäfen Der Flughafen Almeria ist 45 Minuten entfernt, der Flughafen Murcia 1 Stunde 20 Minuten, der Flughafen Alicante 2 Stunden und der Flughafen Malaga 2 Stunden 45 Minuten. Golfplätze Mojacar: Marina de la Torre, Vera: Valle del Este und Cuevas de Almanzora: Desert Springs. * Casa Arenal — #ME 2513 * Villa * Weiterverkauf * 6 Schlafzimmer * 3 Bäder * Grundstückfläche 517 m² * Umbaute Fläche 228 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich",
-      },
-      images: {
-        image: [
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_55165.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_55161.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_54935.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_55162.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_54927.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_54936.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_54933.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_54934.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_54930.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_55163.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_54928.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_54929.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_54931.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_54932.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_55156.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_55158.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_55157.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_55159.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_55160.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2513/xml_55164.jpg",
-          },
-        ],
-      },
-      prime: 1,
-    },
-    {
       id: 2511,
-      date: "2022-11-10 15:55:18",
+      date: "2022-11-10 19:06:18",
       ref: "ME 2511",
       price: 179950,
       currency: "EUR",
@@ -4318,7 +4509,7 @@ export const data = {
     },
     {
       id: 2510,
-      date: "2022-08-19 00:14:48",
+      date: "2022-08-19 03:23:48",
       ref: "ME 2510",
       price: 575000,
       currency: "EUR",
@@ -4423,7 +4614,7 @@ export const data = {
     },
     {
       id: 2509,
-      date: "2023-01-21 11:25:09",
+      date: "2023-01-21 14:31:09",
       ref: "ME 2509",
       price: 299950,
       currency: "EUR",
@@ -4522,7 +4713,7 @@ export const data = {
     },
     {
       id: 2508,
-      date: "2022-04-29 23:37:52",
+      date: "2022-04-30 02:40:52",
       ref: "ME 2508",
       price: 645000,
       currency: "EUR",
@@ -4627,7 +4818,7 @@ export const data = {
     },
     {
       id: 2507,
-      date: "2022-10-20 22:19:34",
+      date: "2022-10-21 01:28:34",
       ref: "ME 2507",
       price: 94000,
       currency: "EUR",
@@ -4720,7 +4911,7 @@ export const data = {
     },
     {
       id: 2504,
-      date: "2022-08-18 23:23:12",
+      date: "2022-08-19 01:44:12",
       ref: "ME 2504",
       price: 50000,
       currency: "EUR",
@@ -4782,10 +4973,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 2497,
-      date: "2022-04-04 22:44:07",
+      date: "2022-04-05 01:54:07",
       ref: "ME 2497",
       price: 92000,
       currency: "EUR",
@@ -4865,10 +5057,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 2490,
-      date: "2022-11-16 19:37:25",
+      date: "2022-11-16 21:51:25",
       ref: "ME 2490",
       price: 340000,
       currency: "EUR",
@@ -4924,11 +5117,10 @@ export const data = {
           },
         ],
       },
-      prime: 1,
     },
     {
       id: 2493,
-      date: "2022-12-21 15:25:56",
+      date: "2022-12-21 17:30:56",
       ref: "ME 2493",
       price: 380000,
       currency: "EUR",
@@ -5000,7 +5192,7 @@ export const data = {
     },
     {
       id: 2492,
-      date: "2022-12-21 15:17:28",
+      date: "2022-12-21 17:40:28",
       ref: "ME 2492",
       price: 135000,
       currency: "EUR",
@@ -5054,7 +5246,7 @@ export const data = {
     },
     {
       id: 2491,
-      date: "2022-12-21 15:26:49",
+      date: "2022-12-21 17:29:49",
       ref: "ME 2491",
       price: 600000,
       currency: "EUR",
@@ -5114,7 +5306,7 @@ export const data = {
     },
     {
       id: 2473,
-      date: "2022-08-19 00:26:04",
+      date: "2022-08-19 03:29:04",
       ref: "ME 2473",
       price: 1500000,
       currency: "EUR",
@@ -5219,7 +5411,7 @@ export const data = {
     },
     {
       id: 2471,
-      date: "2022-03-18 22:01:00",
+      date: "2022-03-19 01:09:00",
       ref: "ME 2471",
       price: 999950,
       currency: "EUR",
@@ -5321,10 +5513,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 2454,
-      date: "2022-11-16 19:43:43",
+      date: "2022-11-16 21:45:43",
       ref: "ME 2454",
       price: 310950,
       currency: "EUR",
@@ -5423,7 +5616,7 @@ export const data = {
     },
     {
       id: 2453,
-      date: "2022-11-23 16:08:55",
+      date: "2022-11-23 18:10:55",
       ref: "ME 2453",
       price: 279950,
       currency: "EUR",
@@ -5498,7 +5691,7 @@ export const data = {
     },
     {
       id: 2446,
-      date: "2022-05-25 20:44:46",
+      date: "2022-05-25 23:53:46",
       ref: "ME 2446",
       price: 425000,
       currency: "EUR",
@@ -5600,7 +5793,7 @@ export const data = {
     },
     {
       id: 2443,
-      date: "2022-01-29 03:19:14",
+      date: "2022-01-29 06:28:14",
       ref: "ME 2443",
       price: 650000,
       currency: "EUR",
@@ -5705,7 +5898,7 @@ export const data = {
     },
     {
       id: 2430,
-      date: "2021-12-28 22:10:40",
+      date: "2021-12-29 01:19:40",
       ref: "ME 2430",
       price: 159000,
       currency: "EUR",
@@ -5780,7 +5973,7 @@ export const data = {
     },
     {
       id: 2428,
-      date: "2022-11-11 18:27:10",
+      date: "2022-11-11 21:36:10",
       ref: "ME 2428",
       price: 240000,
       currency: "EUR",
@@ -5882,7 +6075,7 @@ export const data = {
     },
     {
       id: 2425,
-      date: "2021-12-28 22:08:21",
+      date: "2021-12-29 01:13:21",
       ref: "ME 2425",
       price: 290000,
       currency: "EUR",
@@ -5951,7 +6144,7 @@ export const data = {
     },
     {
       id: 2424,
-      date: "2021-12-28 22:15:03",
+      date: "2021-12-29 01:28:03",
       ref: "ME 2424",
       price: 220000,
       currency: "EUR",
@@ -6019,210 +6212,8 @@ export const data = {
       prime: 1,
     },
     {
-      id: 2421,
-      date: "2022-08-19 19:32:01",
-      ref: "ME 2421",
-      price: 279000,
-      currency: "EUR",
-      price_freq: "sale",
-      type: "Town House",
-      town: "Mojacar",
-      province: "Almeria",
-      location: {
-        latitude: 37.141103,
-        longitude: -1.850866,
-      },
-      beds: 4,
-      baths: 3,
-      pool: 0,
-      surface_area: {
-        built: 167,
-        plot: 0,
-      },
-      energy_rating: {
-        consumption: "X",
-        emissions: "X",
-      },
-      url: {
-        en: "https://mojacarestates.com/property/2421/town-house-in-mojacar",
-        es: "https://es.mojacarestates.com/propiedad/2421/duplex-en-mojacar",
-        fr: "https://fr.mojacarestates.com/propriete/2421/maison-de-ville-en-mojacar",
-        nl: "https://nl.mojacarestates.com/woning/2421/rijtjeshuis-in-mojacar",
-        de: "https://de.mojacarestates.com/immobilien/2421/reihenhaus-in-mojacar",
-      },
-      video_url: "https://www.youtube.com/v/YTw4sTrcNcY",
-      desc: {
-        en: 'Charming village property, full of character for sale in Mojacar Pueblo, Almeria, Andalusia with fabulous views of the village and mountains. The property is distributed on 4 levels. At street level you have a double garage so parking is never an issue, a few steps lead to the entrance of the property where you enter into an inviting bright hallway, from here, you enter into the lounge-diner with plenty of windows flooding natural light into the room. A few steps further take you to the fully fitted kitchen of 4m x 4m. There is a full staircase going up to the three bedrooms on the first floor via a full guest bathroom. The main bedroom, has an en suite bathroom, and there are built in wardrobes plus double aspect windows and a private terrace with access to a further bedroom which is currently used as an office. From the hallway a second staircase takes you to the fourth bedroom suite with roof terrace. The roof terrace is a very good size and is south-west facing with stunning views and in a prime position from which to watch the sunsets. The house is located just up the hill from the main plaza and so is within walking distance of shops, restaurants, bars and the town hall. *****PURCHASE TAXES ARE NOW 7% ON ALL PROPERTIES IN ANDALUSIA (SO TAXES BELOW TO BE ADJUSTED ACCORDINGLY)***** NET PRICE: 279.000 € PURCHASE TAXES: 22.320 € NOTARY FEES - APPROX.: 1.000 € LAND REGISTRY - APPROX.: 800 € TOTAL PRICE: 303.120 € Price valid until sold. Conveyancing not included. The rates applied are the highest, and the buyer may, due to their characteristics, benefit from some tax deductions. The property A. I. D. is available at our office according to the decree 218/2005 of 11 of October that regulates the information regulation for the consumer in the purchasing-selling of property in Andalusia. Location On the Google map click on "enlarge map" and the exact location of the property in Mojácar is marked with the pin. You are just a short walk to the main square of the historic village of Mojácar with cafes, shops, bars and restaurants all nearby. It is approx 2km from the property down to the beach. There is also a municipal sports centre and indoor pool. The local market in Mojácar is held in the village every Wednesday. The local bus in Mojácar village will take you down to Mojácar beach. Airports Almería airport is 45 minutes drive, Murcia airport is 1 hour 20 minutes, Alicante airport is 2 hours and Malaga airport is 2 hours 45 minutes. Golf Courses Mojácar: Marina de la Torre, Vera: Valle del Este and Cuevas de Almanzora: Desert Springs. * Casa Del Pueblo Ana — #ME 2421 * Town House * Semi-detached — Resale * 4 bedrooms * 3 bathrooms * Constructed area 167 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible',
-        es: "Encantadora casa de pueblo, con mucho carácter en venta en el pueblo de Mojácar, Almería, Andalucía con fabulosas vistas al pueblo y a las montañas. La propiedad se distribuye en 4 niveles. A nivel de la calle tiene un garaje doble, por lo que el estacionamiento nunca es un problema, unos pocos pasos conducen a la entrada de la propiedad donde se entra a un acogedor pasillo luminoso, desde aquí se va al salón-comedor con muchas ventanas que inundan la habitación con luz natural. Unos pasos más allá le llevará a la cocina totalmente equipada de 4m x 4m. Hay una escalera completa que sube a los tres dormitorios en el primer piso pasando por un baño completo. El dormitorio principal, tiene un baño en suite, y hay armarios empotrados más ventanas de doble aspecto y una terraza privada con acceso a otro dormitorio que actualmente se utiliza como oficina. Desde el pasillo, una segunda escalera lo lleva al cuarto dormitorio en suite con terraza en la azotea. La terraza de la azotea es de muy buen tamaño y está orientada al suroeste con impresionantes vistas y en una posición privilegiada desde la que se puede ver las puestas de sol. La casa se encuentra cerca de la plaza principal y, por lo tanto, está a poca distancia de tiendas, restaurantes, bares y el ayuntamiento. *****ITP AHORA 7% PARA TODAS LAS PROPIEDADES EN ANDALUCÍA (ASÍ QUE LOS IMPUESTOS AQUÍ DEBAJO SE TENDRÁN QUE AJUSTAR RESPECTIVAMENTE)***** PRECIO NETO: 279.000 € ITP (Impuesto de Transmisiones Patrimoniales): 22.320 € NOTARÍA - aprox.: 1.000 € REGISTRO DE LA PROPIEDAD - aprox.: 800 € PRECIO TOTAL aprox.: 303.120 € Oferta válida por tiempo indefinido. Honorarios de asesoramiento personal no incluido. Los tipos aplicados son los más altos, pudiendo el comprador, por sus características, beneficiarse de algunas deducciones fiscales. Tiene disponible en nuestra oficina el D. I. A. de la vivienda. según el decreto 218/2005 de 11 de octubre que regula el reglamento de información al consumidor en la compra-venta de vivienda en Andalucía. Ubicación En el mapa de Google haga clic en ampliar mapa y la ubicación exacta de la propiedad en Mojácar está marcada con el pin. Estás a pocos pasos de la plazamayor del histórico pueblo de Mojácar, con cafeterías, tiendas, bares y restaurantes cerca. Está a unos 2 km de la playa. También hay un pabellón municipal y una piscina cubierta. El mercado local de Mojácar se hace en el pueblo todos los miércoles. El autobús local te llevará a la playa de Mojácar. Aeropuertos El aeropuerto de Almería está a 45 minutos en coche, el aeropuerto de Murcia está a 1 hora y 20 minutos, el aeropuerto de Alicante está a 2 horas y el aeropuerto de Málaga está a 2 horas y 45 minutos. Campos de Golf Mojácar: Marina de la Torre, Vera: Valle del Este y Cuevas de Almanzora: Desert Springs. * Casa Del Pueblo Ana — #ME 2421 * Duplex * Pareada — Buen estado * 4 dormitorios * 3 cuartos de baño * Superficie construida 167 m² * Agua General * Luz General * Teléfono Posible * Internet Posible",
-        fr: "Charmante propriété de village, pleine de caractère à vendre à Mojacar Pueblo, Almeria, Andalousie avec des vues fabuleuses sur le village et les montagnes. La propriété est distribuée sur 4 niveaux. Au niveau de la rue, vous avez un garage double, donc le stationnement n'est jamais un problème, quelques marches mènent à l'entrée de la propriété où vous entrez dans un hall lumineux invitant, d'ici, vous entrez dans le salon-salle à manger avec de nombreuses fenêtres inondant la pièce de lumière naturelle. Quelques marches plus loin vous mènent à la cuisine entièrement équipée de 4m x 4m. Un escalier complet mène aux trois chambres du premier étage via une salle de bain complète. La chambre principale a une salle de bain en suite, et il y a des armoires encastrées, des fenêtres à double exposition et une terrasse privée avec accès à une autre chambre qui est actuellement utilisée comme bureau. Du couloir, un deuxième escalier vous mène à la quatrième chambre à coucher avec terrasse sur le toit. La terrasse sur le toit est de très bonne taille et est orientée sud-ouest avec des vues imprenables et dans une position privilégiée pour regarder les couchers de soleil. La maison est située juste en haut de la colline de la place principale et est donc à distance de marche des magasins, des restaurants, des bars et de l'hôtel de ville. PRIX NET: 279.000 € TAXES D'ACHAT: 22.320 € FRAIS DE NOTAIRE - ENVIRON: 1.000 € REGISTRE IMMOBILIER – APPROX.: 800 € PRIX TOTAL: 303.120 € Prix valable jusqu'à ce que vendu. Le transfert n'est pas inclus. Les taux appliqués sont les plus élevés, et l'acheteur peut- en raison de leurs caractéristiques- bénéficier de déductions fiscales. La propriété A. I. D. est disponible dans nos locaux conformément au décret 218/2005 du 11 octobre réglementant la réglementation de l’information du consommateur lors de l’achat-vente de biens immobiliers en Andalousie. Emplacement Sur la carte Google, cliquez sur \"Agrandir la carte\" et l'emplacement exact de la propriété à Mojácar est indiqué par une épingle. Vous êtes à quelques pas de la place principale du village historique de Mojácar, avec des cafés, des magasins, des bars et des restaurants à proximité. La plage se trouve à environ 2 km de la propriété. Il y a également un centre sportif municipal et une piscine couverte. Le marché local de Mojácar se tient dans le village tous les mercredis. Le bus local du village de Mojácar vous emmènera jusqu'à la plage de Mojácar. Aéroports L'aéroport d'Almería est à 45 minutes de route, celui de Murcie à 1 heure 20 minutes, celui d'Alicante à 2 heures et celui de Malaga à 2 heures 45 minutes. Terrains de golf Mojácar : Marina de la Torre, Vera : Valle del Este et Cuevas de Almanzora : Desert Springs. * Casa Del Pueblo Ana — #ME 2421 * Maison de Ville * Jumelée — Revente * 4 chambres à coucher * 3 salles de bains * Surface habitable 167 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
-        nl: 'Charmant dorpshuis, vol karakter te koop in Mojacar Pueblo, Almeria, Andalusië met een prachtig uitzicht op het dorp en de bergen. De accommodatie is verdeeld over 4 verdiepingen. Op straatniveau heb je een dubbele garage, dus parkeren is nooit een probleem, een paar treden leiden naar de ingang van het pand waar je een uitnodigende lichte hal binnengaat, vanaf hier kom je in de woon-eetkamer met veel ramen die natuurlijk licht in de kamer overspoelen. Een paar stappen verder brengt u naar de volledig ingerichte keuken van 4m x 4m. Er is een volledige trap naar de drie slaapkamers op de eerste verdieping via een complete gastenbadkamer. De grote slaapkamer, heeft een eigen badkamer, en er zijn ingebouwde kasten plus dubbele aspect ramen en een eigen terras met toegang tot een verdere slaapkamer die momenteel wordt gebruikt als een kantoor. Vanuit de hal brengt een tweede trap u naar de vierde slaapkamer suite met dakterras. Het dakterras is van een zeer goede grootte en ligt op het zuidwesten met een prachtig uitzicht en op een uitstekende positie om de zonsondergangen te bekijken. Het huis ligt net op de heuvel van het centrale plein en ligt dus op loopafstand van winkels, restaurants, bars en het stadhuis. AANKOOPBELASTINGEN ZIJN NU 7% OP ALLE EIGENDOMMEN IN ANDALUSIË (DUS BELASTINGEN HIERONDER MOETEN DIENOVEREENKOMSTIG WORDEN AANGEPAST)***** NETTO PRIJS: 279.000 € AANKOOP BTW: 22.320 € NOTARISKOSTEN - CA.: 1.000 € KADASTER - CA.: 800 € TOTALE AANKOOPPRIJS: 303.120 € Prijs geldig tot verkocht. Overdracht niet inbegrepen. De toegepaste tarieven zijn het hoogst en de koper kan vanwege zijn kenmerken profiteren van sommige belastingaftrek. De woning A. I. D. is beschikbaar op ons kantoor volgens het decreet 218/2005 van 11 oktober dat de informatieregeling voor de consument regelt bij de aankoop-verkoop van onroerend goed in Andalusië. Plaats Klik op de Google-kaart op "kaart vergroten" en de exacte locatie van het pand in Mojácar is gemarkeerd met de pin. U bent slechts een korte wandeling naar het centrale plein van het historische dorp Mojácar met cafés, winkels, bars en restaurants allemaal in de buurt. Het is ongeveer 2 km van de accommodatie naar het strand. Er is ook een gemeentelijk sportcentrum en een binnenzwembad. De lokale markt in Mojácar wordt elke woensdag in het dorp gehouden. De lokale bus in het dorp Mojácar brengt u naar het strand van Mojácar. Luchthavens De luchthaven van Almería ligt op 45 minuten rijden, de luchthaven van Murcia op 1 uur en 20 minuten, de luchthaven van Alicante op 2 uur en de luchthaven van Malaga op 2 uur en 45 minuten. Golfbanen Mojácar: Marina de la Torre, Vera: Valle del Este en Cuevas de Almanzora: Desert Springs. * Casa Del Pueblo Ana — #ME 2421 * Rijtjeshuis * Halfvrijstaand — Bestaande woning * 4 slaapkamers * 3 badkamers * Bebouwde oppervlakte 167 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk',
-        de: 'Charmante Dorfimmobilie voller Charakter zum Verkauf in Mojacar Pueblo, Almeria, Andalusien mit fabelhaftem Blick auf das Dorf und die Berge. Das Anwesen ist auf 4 Ebenen verteilt. Auf Straßenebene gibt es eine Doppelgarage, so dass das Parken nie ein Problem ist. Ein paar Stufen führen zum Eingang des Anwesens, wo man in einen einladenden, hellen Flur gelangt, von wo aus man in das Wohn-Esszimmer mit vielen Fenstern gelangt, die natürliches Licht in den Raum lassen. Ein paar Schritte weiter gelangen Sie in die voll ausgestattete Küche von 4m x 4m. Eine Treppe führt zu den drei Schlafzimmern im ersten Stock und zu einem kompletten Gästebad. Das Hauptschlafzimmer verfügt über ein eigenes Bad, Einbauschränke, Doppelfenster und eine private Terrasse mit Zugang zu einem weiteren Schlafzimmer, das derzeit als Büro genutzt wird. Vom Flur aus gelangt man über eine zweite Treppe in das vierte Schlafzimmer mit Dachterrasse. Die Dachterrasse hat eine sehr gute Größe und ist nach Südwesten ausgerichtet, mit einer atemberaubenden Aussicht und einer erstklassigen Position, von der aus man die Sonnenuntergänge beobachten kann. Das Haus befindet sich nur den Hügel hinauf vom Hauptplatz und ist somit in Gehweite von Geschäften, Restaurants, Bars und dem Rathaus. NETTO PREIS: 279.000 € GRUNDERWERBSSTEUER - 8%: 22.320 € NOTARGEBÜHREN - Ca.: 1.000 € GRUNDBUCHEINTRAGUNG - Ca.: 800 € GESAMTPREIS: 303.120 € Preis gültig bis Verkauf. Anwaltskosten nicht in Preis inbegriffen. Es wurden Standartkosten angesetzt, der Käufer kann auf Grund seines Alters, o. ä. Umstände eventuell Steuersenkungen geltend machen. Der für diese Immobilie geltende D.I.A. ( Verbraucherinformation für Kauf und Verkauf von Immobilien in Andalusien gemäß Dekret 218/2005 vom 11. Oktober) liegt auf Wunsch in unserem Büro vor. Standort Klicken Sie auf der Google-Karte auf "Karte vergrößern" und die genaue Lage der Immobilie in Mojácar ist mit einer Stecknadel markiert. Sie sind nur einen kurzen Spaziergang zum Hauptplatz des historischen Dorfes Mojácar mit Cafés, Geschäften, Bars und Restaurants alle in der Nähe. Zum Strand sind es ca. 2 km vom Haus aus. Dort gibt es auch ein städtisches Sportzentrum und ein Hallenbad. Jeden Mittwoch findet in Mojácar der lokale Markt statt. Der lokale Bus im Dorf Mojácar bringt Sie zum Strand von Mojácar. Flughäfen Der Flughafen Almería ist 45 Minuten entfernt, der Flughafen Murcia 1 Stunde und 20 Minuten, der Flughafen Alicante 2 Stunden und der Flughafen Malaga 2 Stunden und 45 Minuten. Golfplätze Mojácar: Marina de la Torre, Vera: Valle del Este und Cuevas de Almanzora: Desert Springs. * Casa Del Pueblo Ana — #ME 2421 * Reihenhaus * Doppelhaushälfte — Weiterverkauf * 4 Schlafzimmer * 3 Bäder * Umbaute Fläche 167 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich',
-      },
-      images: {
-        image: [
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51747.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51766.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51750.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51753.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51749.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51751.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51748.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51752.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51757.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51758.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51760.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51762.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51763.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51756.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51754.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51755.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51761.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51764.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2421/xml_51765.jpg",
-          },
-        ],
-      },
-      prime: 1,
-    },
-    {
-      id: 2414,
-      date: "2022-11-08 19:41:14",
-      ref: "ME 2414",
-      price: 139500,
-      currency: "EUR",
-      price_freq: "sale",
-      type: "Apartment",
-      town: "Mojacar",
-      province: "Almeria",
-      location: {
-        latitude: 37.121266,
-        longitude: -1.834278,
-      },
-      beds: 2,
-      baths: 1,
-      pool: 0,
-      surface_area: {
-        built: 74,
-        plot: 0,
-      },
-      energy_rating: {
-        consumption: "G",
-        emissions: "F",
-      },
-      url: {
-        en: "https://mojacarestates.com/property/2414/apartment-in-mojacar",
-        es: "https://es.mojacarestates.com/propiedad/2414/apartamento-en-mojacar",
-        fr: "https://fr.mojacarestates.com/propriete/2414/appartement-en-mojacar",
-        nl: "https://nl.mojacarestates.com/woning/2414/appartement-in-mojacar",
-        de: "https://de.mojacarestates.com/immobilien/2414/appartement-in-mojacar",
-      },
-      desc: {
-        en: 'Ground floor apartment with 2 terraces for sale on a centrally located complex on Mojacar Playa, Almeria, Andalusia and only 100 metres from the beach. The apartment is on the Estrella del Cantal urbanisation, a small complex that consists of 21 other apartments and 8 commercial spaces. The apartment has shops, restaurants and bars on its doorstep, making it very easy to get around on foot and not needing to worry about a car. The beach is just across the main road. The apartment consists of a hallway, an open plan fitted kitchen and breakfast bar with a window onto a small patio, a large living - dining room with a window looking out to the communal areas and patio doors opening onto a covered terrace of 14.31m2. There are 2 double bedrooms with ceiling fans and built-in wardrobes for plenty of storage. One of the bedrooms looks out to the front of the apartment with a small private terrace of 5.51m2. There is a family bathroom with bath and a window for natural light. This is an apartment that is easy to lock up and go and is close to amenities, bus stops, beach bars and restaurants. Furnished as per inventory. *****PURCHASE TAXES ARE NOW 7% ON ALL PROPERTIES IN ANDALUSIA (SO TAXES BELOW TO BE ADJUSTED ACCORDINGLY)***** NET PRICE: 139.500 € PURCHASE TAXES: 11.160 € NOTARY FEES - APPROX.: 700 € LAND REGISTRY - APPROX.: 500 € TOTAL PRICE: 151.860 € Price valid until sold. Conveyancing not included. The rates applied are the highest, and the buyer may, due to their characteristics, benefit from some tax deductions. The property A. I. D. is available at our office according to the decree 218/2005 of 11 of October that regulates the information regulation for the consumer in the purchasing-selling of property in Andalusia. Location For the exact location please click on "enlarge" on Google maps, above right. Golf Courses x 3 Marina de la Torre in Mojacar, Valle del Este in Vera and Desert Springs in Cuevas del Almanzora. Airports Almeria 45 minutes, Murcia 1 hour 30 minutes, Alicante 2 hours and Malaga 2 hours 45 minutes. * Estrella Del Cantal — #ME 2414 * Apartment * Resale * 2 bedrooms * One bathroom * Constructed area 74 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible',
-        es: 'Apartamento en planta baja con 2 terrazas en venta en un complejo céntrico de Mojácar Playa, Almería, Andalucía y a tan solo 100 metros de la playa. El apartamento se encuentra en la urbanización Estrella del Cantal, un pequeño complejo que consta de unos 21 apartamentos y 8 locales comerciales. El apartamento tiene tiendas, restaurantes y bares ahí no más, por lo que es muy fácil moverse a pie y sin tener que preocuparse del coche. La playa está justo al otro lado de la carretera principal. El apartamento consta de un pasillo, una cocina americana equipada y barra de desayuno con una ventana a un pequeño patio, un salón - comedor de buen tamaño con una ventana que da a las zonas comunes y puertas que se abren a una terraza cubierta de 14,31m2. Hay 2 dormitorios dobles con ventiladores de techo y armarios empotrados. Uno de los dormitorios da a la parte delantera del apartamento con una pequeña terraza privada de 5,51m2. Hay un baño con bañera y una ventana para la luz natural. Este es un apartamento fácil de cerrar y dejar, cerca de todos los servicios, paradas de autobús, chiringuitos y restaurantes. Se está vendiendo parcialmente amueblado de acuerdo con el inventario. *****ITP AHORA 7% PARA TODAS LAS PROPIEDADES EN ANDALUCÍA (ASÍ QUE LOS IMPUESTOS AQUÍ DEBAJO SE TENDRÁN QUE AJUSTAR RESPECTIVAMENTE)***** PRECIO NETO: 139.500 € ITP (Impuesto de Transmisiones Patrimoniales): 11.160 € NOTARÍA - aprox.: 700 € REGISTRO DE LA PROPIEDAD - aprox.: 500 € PRECIO TOTAL aprox.: 151.860 € Oferta válida por tiempo indefinido. Honorarios de asesoramiento personal no incluido. Los tipos aplicados son los más altos, pudiendo el comprador, por sus características, beneficiarse de algunas deducciones fiscales. Tiene disponible en nuestra oficina el D. I. A. de la vivienda. según el decreto 218/2005 de 11 de octubre que regula el reglamento de información al consumidor en la compra-venta de vivienda en Andalucía. Ubicación Para obtener la ubicación exacta, haga clic en "ampliar" en Google maps, arriba a la derecha. Campos de Golf x 3 Marina de la Torre en Mojácar, Valle del Este en Vera y Desert Springs en Cuevas del Almanzora. Aeropuertos Almería 45 minutos, Murcia 1 hora 30 minutos, Alicante 2 horas y Málaga 2 horas 45 minutos. * Estrella Del Cantal — #ME 2414 * Apartamento * Buen estado * 2 dormitorios * Un cuarto de baño * Superficie construida 74 m² * Agua General * Luz General * Teléfono Posible * Internet Posible',
-        fr: "Appartement au rez-de-chaussée avec 2 terrasses à vendre dans un complexe situé au centre de Mojacar Playa, Almeria, Andalousie et à seulement 100 mètres de la plage. L'appartement se trouve dans l'urbanisation Estrella del Cantal, un petit complexe composé de 21 autres appartements et de 8 espaces commerciaux. L'appartement a des magasins, des restaurants et des bars à sa porte, ce qui rend très facile de se déplacer à pied et de ne pas avoir à se soucier d'une voiture. La plage se trouve juste de l'autre côté de la route principale. L'appartement se compose d'un couloir, d'une cuisine ouverte équipée et d'un bar pour le petit déjeuner avec une fenêtre donnant sur un petit patio, d'un grand salon - salle à manger avec une fenêtre donnant sur les zones communes et des portes-fenêtres donnant sur une terrasse couverte de 14,31 m2. Il y a 2 chambres doubles avec des ventilateurs de plafond et des armoires encastrées pour beaucoup de rangement. L'une des chambres donne sur l'avant de l'appartement avec une petite terrasse privée de 5,51 m2. Il y a une salle de bain familiale avec baignoire et une fenêtre pour la lumière naturelle. C'est un appartement qui est facile à fermer et à partir et est proche des amitiés, des arrêts de bus, des bars de plage et des restaurants. Meublé selon l'inventaire. PRIX NET: 139.500 € TAXES D'ACHAT: 11.160 € FRAIS DE NOTAIRE - ENVIRON: 700 € REGISTRE IMMOBILIER – APPROX.: 500 € PRIX TOTAL: 151.860 € Prix valable jusqu'à ce que vendu. Le transfert n'est pas inclus. Les taux appliqués sont les plus élevés, et l'acheteur peut- en raison de leurs caractéristiques- bénéficier de déductions fiscales. La propriété A. I. D. est disponible dans nos locaux conformément au décret 218/2005 du 11 octobre réglementant la réglementation de l’information du consommateur lors de l’achat-vente de biens immobiliers en Andalousie. Localisation Pour l'emplacement exact, veuillez cliquer sur \"agrandir\" sur Google maps, en haut à droite. Terrains de golf x 3 Marina de la Torre à Mojacar, Valle del Este à Vera et Desert Springs à Cuevas del Almanzora. Aéroports Almeria 45 minutes, Murcie 1 heure 30 minutes, Alicante 2 heures et Malaga 2 heures 45 minutes. * Estrella Del Cantal — #ME 2414 * Appartement * Revente * 2 chambres à coucher * Une salle de bains * Surface habitable 74 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
-        nl: 'Gelijkvloers appartement met 2 terrassen te koop op een centraal gelegen complex op Mojacar Playa, Almeria, Andalusië en op slechts 100 meter van het strand. Het appartement ligt aan de urbanisatie Estrella del Cantal, een klein complex dat bestaat uit 21 andere appartementen en 8 commerciële ruimtes. Het appartement heeft winkels, restaurants en bars voor de deur, waardoor het heel gemakkelijk is om te voet rond te reizen en je geen zorgen te hoeven maken over een auto. Het strand ligt aan de overkant van de hoofdweg. Het appartement bestaat uit een hal, een open ingerichte keuken en een ontbijtbar met een raam op een kleine patio, een grote woon - eetkamer met een raam met uitzicht op de gemeenschappelijke ruimtes en openslaande deuren naar een overdekt terras van 14,31 m2. Er zijn 2 tweepersoonsslaapkamers met plafondventilatoren en ingebouwde kasten voor veel opbergruimte. Een van de slaapkamers kijkt uit op de voorzijde van het appartement met een klein privéterras van 5.51m2. Er is een familiebadkamer met bad en een raam voor natuurlijk licht. Dit is een appartement dat gemakkelijk op te sluiten en te gaan is en dicht bij voorzieningen, bushaltes, strandbars en restaurants ligt. Gemeubileerd volgens inventaris. AANKOOPBELASTINGEN ZIJN NU 7% OP ALLE EIGENDOMMEN IN ANDALUSIË (DUS BELASTINGEN HIERONDER MOETEN DIENOVEREENKOMSTIG WORDEN AANGEPAST)***** NETTO PRIJS: 139.500 € AANKOOP BTW: 11.160 € NOTARISKOSTEN - CA.: 700 € KADASTER - CA.: 500 € TOTALE PRIJS: 151.860 € Prijs geldig tot verkocht. Overdracht niet inbegrepen. De toegepaste tarieven zijn het hoogst en de koper kan vanwege zijn kenmerken profiteren van sommige belastingaftrek. De woning A. I. D. is beschikbaar op ons kantoor volgens het decreet 218/2005 van 11 oktober dat de informatieregeling voor de consument regelt bij de aankoop-verkoop van onroerend goed in Andalusië. Plaats Voor de exacte locatie klikt u op "vergroten" op Google maps, rechtsboven. Golfbanen x 3 Marina de la Torre in Mojacar, Valle del Este in Vera en Desert Springs in Cuevas del Almanzora. Luchthavens Almeria 45 minuten, Murcia 1 uur 30 minuten, Alicante 2 uur en Malaga 2 uur 45 minuten. * Estrella Del Cantal — #ME 2414 * Appartement * Bestaande woning * 2 slaapkamers * Een badkamer * Bebouwde oppervlakte 74 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk',
-        de: 'Erdgeschosswohnung mit 2 Terrassen zum Verkauf in einer zentral gelegenen Anlage in Mojacar Playa, Almeria, Andalusien und nur 100 Meter vom Strand entfernt. Die Wohnung befindet sich in der Urbanisation Estrella del Cantal, einer kleinen Anlage, die aus 21 anderen Wohnungen und 8 Gewerbeflächen besteht. Die Wohnung hat Geschäfte, Restaurants und Bars direkt vor der Haustür, so dass man sich leicht zu Fuß fortbewegen kann und sich nicht um ein Auto kümmern muss. Der Strand befindet sich direkt auf der anderen Seite der Hauptstraße. Die Wohnung besteht aus einem Flur, einer offenen Einbauküche mit Frühstücksbar und einem Fenster zu einer kleinen Terrasse, einem großen Wohn-Esszimmer mit einem Fenster zu den Gemeinschaftsbereichen und Terrassentüren, die auf eine überdachte Terrasse von 14,31 m2 führen. Es gibt 2 Doppelschlafzimmer mit Deckenventilatoren und Einbauschränken für viel Stauraum. Eines der Schlafzimmer blickt auf die Vorderseite der Wohnung mit einer kleinen privaten Terrasse von 5,51m2. Es gibt ein Familienbad mit Badewanne und einem Fenster für natürliches Licht. Dies ist eine Wohnung, die leicht zu verschließen und zu gehen und ist in der Nähe von Annehmlichkeiten, Bushaltestellen, Strandbars und Restaurants. Möbliert wie pro Inventar. NETTO PREIS: 139.500 € GRUNDERWERBSSTEUER - 8%: 11.160 € NOTARGEBÜHREN - Ca.: 700 € GRUNDBUCHEINTRAGUNG - Ca.: 500 € GESAMTPREIS: 151.860 € Preis gültig bis Verkauf. Anwaltskosten nicht in Preis inbegriffen. Es wurden Standartkosten angesetzt, der Käufer kann auf Grund seines Alters, o. ä. Umstände eventuell Steuersenkungen geltend machen. Der für diese Immobilie geltende D.I.A. ( Verbraucherinformation für Kauf und Verkauf von Immobilien in Andalusien gemäß Dekret 218/2005 vom 11. Oktober) liegt auf Wunsch in unserem Büro vor. Standort Für den genauen Standort klicken Sie bitte auf "vergrößern" auf Google Maps, oben rechts. Golfplätze x 3 Marina de la Torre in Mojacar, Valle del Este in Vera und Desert Springs in Cuevas del Almanzora. Flughäfen Almeria 45 Minuten, Murcia 1 Stunde 30 Minuten, Alicante 2 Stunden und Malaga 2 Stunden 45 Minuten. * Estrella Del Cantal — #ME 2414 * Appartement * Weiterverkauf * 2 Schlafzimmer * Ein Badezimmer * Umbaute Fläche 74 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich',
-      },
-      images: {
-        image: [
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51472.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51485.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51482.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51470.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51480.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51469.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51481.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51471.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51483.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51479.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51484.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51473.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51474.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51476.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51477.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51478.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51486.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2414/xml_51487.jpg",
-          },
-        ],
-      },
-      prime: 1,
-    },
-    {
       id: 2403,
-      date: "2021-08-12 03:37:55",
+      date: "2021-08-12 05:50:55",
       ref: "ME 2403",
       price: 114900,
       currency: "EUR",
@@ -6309,7 +6300,7 @@ export const data = {
     },
     {
       id: 2402,
-      date: "2021-08-11 03:44:03",
+      date: "2021-08-11 06:00:03",
       ref: "ME 2402",
       price: 135000,
       currency: "EUR",
@@ -6396,10 +6387,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 2391,
-      date: "2021-12-28 23:38:06",
+      date: "2021-12-29 02:36:06",
       ref: "ME 2391",
       price: 135000,
       currency: "EUR",
@@ -6505,7 +6497,7 @@ export const data = {
     },
     {
       id: 2386,
-      date: "2021-10-16 01:37:50",
+      date: "2021-10-16 03:48:50",
       ref: "ME 2386",
       price: 125000,
       currency: "EUR",
@@ -6606,11 +6598,10 @@ export const data = {
           },
         ],
       },
-      prime: 1,
     },
     {
       id: 2379,
-      date: "2022-04-26 20:40:29",
+      date: "2022-04-26 22:40:29",
       ref: "ME 2379",
       price: 180000,
       currency: "EUR",
@@ -6711,10 +6702,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 2375,
-      date: "2022-08-04 00:05:20",
+      date: "2022-08-04 02:14:20",
       ref: "ME 2375",
       price: 69000,
       currency: "EUR",
@@ -6792,7 +6784,7 @@ export const data = {
     },
     {
       id: 2374,
-      date: "2022-04-26 21:23:07",
+      date: "2022-04-26 23:17:07",
       ref: "ME 2374",
       price: 210000,
       currency: "EUR",
@@ -6887,11 +6879,10 @@ export const data = {
           },
         ],
       },
-      prime: 1,
     },
     {
       id: 2368,
-      date: "2023-11-01 16:01:03",
+      date: "2023-11-01 19:04:03",
       ref: "ME 2368",
       price: 295000,
       currency: "EUR",
@@ -6992,11 +6983,10 @@ export const data = {
           },
         ],
       },
-      prime: 1,
     },
     {
       id: 2363,
-      date: "2022-08-09 17:40:50",
+      date: "2022-08-09 20:57:50",
       ref: "ME 2363",
       price: 159000,
       currency: "EUR",
@@ -7102,7 +7092,7 @@ export const data = {
     },
     {
       id: 2358,
-      date: "2023-01-27 14:58:57",
+      date: "2023-01-27 17:09:57",
       ref: "ME 2358",
       price: 79900,
       currency: "EUR",
@@ -7198,7 +7188,7 @@ export const data = {
     },
     {
       id: 2343,
-      date: "2021-12-29 00:11:09",
+      date: "2021-12-29 03:24:09",
       ref: "ME 2343",
       price: 58000,
       currency: "EUR",
@@ -7274,7 +7264,7 @@ export const data = {
     },
     {
       id: 2342,
-      date: "2021-12-29 00:24:17",
+      date: "2021-12-29 03:26:17",
       ref: "ME 2342",
       price: 65000,
       currency: "EUR",
@@ -7367,7 +7357,7 @@ export const data = {
     },
     {
       id: 2330,
-      date: "2021-04-10 03:38:54",
+      date: "2021-04-10 06:39:54",
       ref: "ME 2330",
       price: 90000,
       currency: "EUR",
@@ -7457,11 +7447,10 @@ export const data = {
           },
         ],
       },
-      prime: 1,
     },
     {
       id: 2329,
-      date: "2021-04-06 22:27:38",
+      date: "2021-04-07 01:35:38",
       ref: "ME 2329",
       price: 319000,
       currency: "EUR",
@@ -7567,7 +7556,7 @@ export const data = {
     },
     {
       id: 2300,
-      date: "2022-12-29 16:35:04",
+      date: "2022-12-29 19:48:04",
       ref: "ME 2300",
       price: 179950,
       currency: "EUR",
@@ -7670,7 +7659,7 @@ export const data = {
     },
     {
       id: 2293,
-      date: "2022-09-30 19:29:14",
+      date: "2022-09-30 22:27:14",
       ref: "ME 2293",
       price: 870000,
       currency: "EUR",
@@ -7772,10 +7761,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 2279,
-      date: "2023-01-13 20:12:18",
+      date: "2023-01-13 23:12:18",
       ref: "ME 2279",
       price: 280000,
       currency: "EUR",
@@ -7877,10 +7867,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 2281,
-      date: "2021-03-27 04:44:38",
+      date: "2021-03-27 07:58:38",
       ref: "ME 2281",
       price: 280000,
       currency: "EUR",
@@ -7961,10 +7952,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 2275,
-      date: "2021-12-29 00:21:40",
+      date: "2021-12-29 03:18:40",
       ref: "ME 2275",
       price: 280000,
       currency: "EUR",
@@ -8069,113 +8061,8 @@ export const data = {
       prime: 1,
     },
     {
-      id: 2269,
-      date: "2022-10-17 16:14:09",
-      ref: "ME 2269",
-      price: 500000,
-      currency: "EUR",
-      price_freq: "sale",
-      type: "Villa",
-      town: "Mojacar",
-      province: "Almeria",
-      location: {
-        latitude: 37.121762,
-        longitude: -1.836957,
-      },
-      beds: 6,
-      baths: 4,
-      pool: 1,
-      surface_area: {
-        built: 359,
-        plot: 1000,
-      },
-      energy_rating: {
-        consumption: "X",
-        emissions: "X",
-      },
-      url: {
-        en: "https://mojacarestates.com/property/2269/villa-in-mojacar",
-        es: "https://es.mojacarestates.com/propiedad/2269/chalet-en-mojacar",
-        fr: "https://fr.mojacarestates.com/propriete/2269/villa-en-mojacar",
-        nl: "https://nl.mojacarestates.com/woning/2269/villa-in-mojacar",
-        de: "https://de.mojacarestates.com/immobilien/2269/villa-in-mojacar",
-      },
-      desc: {
-        en: "Wonderful villa for sale in the El Cantal area of Mojacar Playa, Almeria, Andalusia with amazing sea views and only 370 metres from the beach, restaurants and bars, as well as banks, supermarkets and shops. The villa spans 188 m2 of built area and also offers a heated indoor pool, a large garage for 3 cars, storerooms, all on a 1,000 m2 plot. At present the house is divided into two separate properties with independent entrances. One property would be ideal for rental for either holiday lets or long-term. The main house is located on the upper floor and has a very large living room with with fireplace and access to a charming porch and open terrace from where you can enjoy fantastic views of the sea. There is an independent kitchen, 2 double bedrooms and 2 bathrooms (one of them is en suite with the master bedroom). There is also the private solarium which can be reached via an external staircase. There are impressive panoramic views of Mojacar beach from here, with a third bedroom with large windows allowing. On the ground floor we find the second property which has its own private access and has a living-dining room, a large separated kitchen, three double bedrooms, two bathrooms and a large terrace. The property is completed with a heated indoor pool with shower area included, large terraces, garage for three vehicles and ample storage spaces. Sold furnished and with equipped kitchens. AC, central heating, south and east orientations, fireplace, security bars, solarium. Built 2002. Location For the precise location, see the pin on Google maps above. Airports Almeria airport is a 45 minute drive, Murcia airport is 1 hour 20 minutes, Alicante airport is 2 hours and Malaga airport is 2 hours 45 minutes. 4 Golf Courses Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. The indicated price does not include the taxes and expenses derived from the sale (ITP at the current tax rate, notary, registration and lawyer fees). We remind you that as a consumer you have the right to be informed and given the corresponding informative documentation, depending on the case, based on the provisions of Decree 218/05 of 11 October which regulates the Regulations on Consumer Information in the sale and rental of housing in Andalusia. About Us Mojacar Estates have been running successfully as an independent property sales and holiday rentals agency since 1982. Our dedicated team, who have all been working within this industry for more than 20 years, offer a professional and knowledgeable service to our clients. Our team speaks fluent Spanish, English and German. We offer properties for sale and rental in Mojacar and surrounding areas of Almeria, including Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos and San Juan de los Terreros. * Villa Zar — #ME 2269 * Villa * Detached — Resale * 6 bedrooms * 4 bathrooms * Land area 1,000 m² * Constructed area 359 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible",
-        es: 'Chalet en venta en Calle Miguel Hernández de Mojácar. Situado en la zona de "El Cantal", a escasos 370 mts de la playa y cerca de todo tipo de servicios como restaurantes, comercio, supermercados y a menos de 5 minutos en coche de colegios y centro médico. Vivienda de 359 m2 construidos de los cuales 188 m2 pertenecen a vivienda y el resto a instalaciones como la piscina climatizada interior y garaje para 3 coches, trasteros, todo ello construido sobre una parcela de 1.000 m2. Actualmente la casa se encuentra dividida en dos viviendas con entradas independientes, ideal como inversión tanto para alquiler vacacional como para alquiler de larga temporada, o simplemente para recibir invitados. Vivienda principal situada en planta alta, cuenta con amplísimo salón comedor con chimenea, acceso a un encantador porche y terraza descubierta desde donde disfrutar de unas fantásticas vistas al mar. En esta misma planta encontramos la cocina independiente, dos dormitorios dobles y dos cuartos de baño (uno en dormitorio principal estilo suite). Además, en el solarium privado al cual se accede a través de una escalera exterior, la vivienda disfruta de imponentes vistas sobre la playa de Mojácar y de un tercer dormitorio de gran tamaño el cual, a su vez, también disfruta de unas vistas 180º sobre el mar gracias a sus amplios ventanales. En planta baja encontramos la segunda vivienda con su acceso privado y cuenta con salón-comedor, cocina independiente, tres dormitorios dobles, dos cuartos de baño y terraza. El inmueble se completa con una piscina cubierta climatizada con zona de duchas incluida, grandes terrazas, garaje para tres vehículos y amplios espacios de almacenaje. Se vende amueblada y con las cocinas equipadas. Aire acondicionado, calefacción central, orientación sur y este, chimenea, rejas, solarium. Construido 2002. Ubicación Para conocer la ubicación exacta, vea el pin en Google maps arriba. Aeropuertos El aeropuerto de Almería está a 45 minutos en coche, el de Murcia a 1 hora y 20 minutos, el de Alicante a 2 horas y el de Málaga a 2 horas y 45 minutos. 4 campos de golf Mojácar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpí: Aguilón Golf. El precio indicado no incluye los impuestos y gastos derivados de la venta (ITP al tipo impositivo vigente, gastos de notaría, registro y abogado). Le recordamos que como consumidor tiene derecho a ser informado y a que se le entregue la documentación informativa correspondiente, según el caso, en base a lo establecido en el Decreto 218/05, de 11 de octubre, por el que se regula el Reglamento de Información al Consumidor en la venta y alquiler de viviendas en Andalucía. Sobre nosotros Mojácar Estates lleva funcionando con éxito como agencia independiente de venta y alquiler de viviendas desde 1982. Nuestro dedicado equipo, que lleva más de 20 años trabajando en este sector, ofrece un servicio profesional y bien informado a nuestros clientes. Nuestro equipo habla con fluidez español, inglés y alemán. Ofrecemos propiedades en venta y alquiler en Mojácar y en las zonas circundantes de Almería, incluyendo Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos y San Juan de los Terreros. * Villa Zar — #ME 2269 * Chalet * Aislada — Buen estado * 6 dormitorios * 4 cuartos de baño * Área de terreno 1,000 m² * Superficie construida 359 m² * Agua General * Luz General * Teléfono Posible * Internet Posible',
-        fr: "Merveilleuse villa à vendre dans la zone El Cantal de Mojacar Playa, Almeria, Andalousie avec des vues incroyables sur la mer et à seulement 370 mètres de la plage, des restaurants et des bars, ainsi que des banques, des supermarchés et des magasins. La villa s'étend sur 188 m2 de surface construite et offre également une piscine intérieure chauffée, un grand garage pour 3 voitures, des débarras, le tout sur un terrain de 1 000 m2. Actuellement, la maison est divisée en deux propriétés distinctes avec des entrées indépendantes. L'une des propriétés serait idéale pour une location de vacances ou à long terme. La maison principale est située à l'étage supérieur et dispose d'un très grand salon avec cheminée et accès à un charmant porche et à une terrasse ouverte d'où vous pourrez profiter de fantastiques vues sur la mer. Il y a une cuisine indépendante, 2 chambres doubles et 2 salles de bains (une d'entre elles est en suite avec la chambre principale). Il y a également un solarium privé auquel on accède par un escalier extérieur. Il y a des vues panoramiques impressionnantes sur la plage de Mojacar à partir d'ici, avec une troisième chambre à coucher avec de grandes fenêtres permettant. Au rez-de-chaussée, nous trouvons la deuxième propriété qui a son propre accès privé et dispose d'un salon-salle à manger, d'une grande cuisine séparée, de trois chambres doubles, de deux salles de bains et d'une grande terrasse. La propriété est complétée par une piscine intérieure chauffée avec espace douche inclus, de grandes terrasses, un garage pour trois véhicules et de nombreux espaces de rangement. Vendu meublé et avec des cuisines équipées. AC, chauffage central, orientations sud et est, cheminée, barres de sécurité, solarium. Construit en 2002. Emplacement Pour l'emplacement précis, voir l'épingle sur Google maps ci-dessus. Aéroports L'aéroport d'Almeria est à 45 minutes de route, celui de Murcie à 1 heure 20 minutes, celui d'Alicante à 2 heures et celui de Malaga à 2 heures 45 minutes. 4 terrains de golf Mojacar : Marina de la Torre, Vera : Valle del Este, Cuevas de Almanzora : Desert Springs, Pulpi : Aguilon Golf. Le prix indiqué ne comprend pas les impôts et les frais dérivés de la vente (ITP au taux d'imposition en vigueur, frais de notaire, d'enregistrement et d'avocat). Nous vous rappelons qu'en tant que consommateur, vous avez le droit d'être informé et de recevoir la documentation informative correspondante, selon le cas, sur la base des dispositions du décret 218/05 du 11 octobre qui régit le Règlement sur l'information du consommateur dans la vente et la location de logements en Andalousie. À propos de nous Mojacar Estates est une agence indépendante de vente de propriétés et de location de vacances qui fonctionne avec succès depuis 1982. Notre équipe dévouée, qui travaille dans ce secteur depuis plus de 20 ans, offre un service professionnel et compétent à nos clients. Notre équipe parle couramment l'espagnol, l'anglais et l'allemand. Nous proposons des propriétés à vendre et à louer à Mojacar et dans les environs d'Almeria, notamment à Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos et San Juan de los Terreros. * Villa Zar — #ME 2269 * Villa * Détachés — Revente * 6 chambres à coucher * 4 salles de bains * Surface terrain 1,000 m² * Surface habitable 359 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
-        nl: "Prachtige villa te koop in het El Cantal gebied van Mojacar Playa, Almeria, Andalusië met prachtig uitzicht op zee en op slechts 370 meter van het strand, restaurants en bars, evenals banken, supermarkten en winkels. De villa beslaat 188 m2 bebouwd oppervlak en biedt ook een verwarmd overdekt zwembad, een grote garage voor 3 auto's, bergingen, alles op een perceel van 1.000 m2. Op dit moment is het huis verdeeld in twee aparte woningen met onafhankelijke ingangen. Eén eigendom zou ideaal zijn voor verhuur, zowel voor vakantieverhuur als voor lange termijn. Het hoofdhuis ligt op de bovenverdieping en heeft een zeer grote woonkamer met open haard en toegang tot een charmante veranda en open terras vanwaar u kunt genieten van een fantastisch uitzicht op de zee. Er is een onafhankelijke keuken, 2 tweepersoonsslaapkamers en 2 badkamers (waarvan één en suite met de hoofdslaapkamer). Er is ook een privé solarium dat bereikbaar is via een buitentrap. Er zijn indrukwekkende panoramische uitzichten op het strand van Mojacar vanaf hier, met een derde slaapkamer met grote ramen mogelijk te maken. Op de begane grond vinden we de tweede woning die een eigen toegang heeft en beschikt over een woon-eetkamer, een grote gescheiden keuken, drie slaapkamers, twee badkamers en een groot terras. De woning wordt gecompleteerd met een verwarmd binnenzwembad met douche, grote terrassen, garage voor drie auto's en voldoende bergruimte. Wordt gemeubileerd en met ingerichte keukens verkocht. AC, centrale verwarming, zuid en oost oriëntatie, open haard, veiligheidsgrillen, solarium. Gebouwd 2002. Plaats Op de bovenstaande Google-kaart klikt u op de vergrootkaart en de exacte locatie van het onroerend goed te koop in Mojacar Playa, Costa Almeria, Andalusië is gemarkeerd met de blauwe speld. Luchthavens De luchthaven van Almeria ligt op 45 minuten rijden, de luchthaven van Murcia op 1 uur en 20 minuten, de luchthaven van Alicante op 2 uur en de luchthaven van Malaga op 2 uur en 45 minuten. Golfbanen Mojacar: Marina de la Torre, Vera: Valle del Este en Cuevas de Almanzora: Desert Springs. * Villa Zar — #ME 2269 * Villa * Vrijstaand — Bestaande woning * 6 slaapkamers * 4 badkamers * Grond oppervlakte 1,000 m² * Bebouwde oppervlakte 359 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk",
-        de: "Wunderschöne Villa zum Verkauf in der El Cantal Bereich von Mojacar Playa, Almeria, Andalusien mit herrlichem Meerblick und nur 370 Meter vom Strand, Restaurants und Bars, sowie Banken, Supermärkte und Geschäfte. Die Villa hat eine bebaute Fläche von 188 m2 und bietet außerdem einen beheizten Innenpool, eine große Garage für 3 Autos, Abstellräume, alles auf einem Grundstück von 1.000 m2. Zurzeit ist das Haus in zwei separate Immobilien mit unabhängigen Eingängen aufgeteilt. Eine der beiden Immobilien eignet sich ideal für die Vermietung in den Ferien oder langfristig. Das Haupthaus befindet sich im Obergeschoss und verfügt über ein sehr großes Wohnzimmer mit Kamin und Zugang zu einer charmanten Veranda und einer offenen Terrasse, von der aus Sie einen fantastischen Blick auf das Meer genießen können. Es gibt eine unabhängige Küche, 2 Doppelschlafzimmer und 2 Bäder (eines davon ist en suite mit dem Hauptschlafzimmer). Außerdem gibt es eine private Sonnenterrasse, die über eine Außentreppe zu erreichen ist. Von hier aus hat man einen beeindruckenden Panoramablick auf den Strand von Mojacar, den ein drittes Schlafzimmer mit großen Fenstern ermöglicht. Im Erdgeschoss befindet sich die zweite Wohnung, die einen eigenen Zugang hat und über ein Wohn-Esszimmer, eine große separate Küche, drei Doppelschlafzimmer, zwei Bäder und eine große Terrasse verfügt. Das Anwesen ist mit einem beheizten Innenpool mit Dusche, große Terrassen, Garage für drei Fahrzeuge und reichlich Stauraum ergänzt. Verkauft möbliert und mit ausgestatteten Küchen. Klimaanlage, Zentralheizung, Süd- und Ostausrichtung, Kamin, Sicherheitsgitter, Solarium. Erbaut 2002. Standort Für die genaue Lage, siehe den Pin auf Google Maps oben. Flughäfen Der Flughafen Almeria ist 45 Minuten entfernt, der Flughafen Murcia 1 Stunde und 20 Minuten, der Flughafen Alicante 2 Stunden und der Flughafen Malaga 2 Stunden und 45 Minuten. 4 Golfplätze Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. Der angegebene Preis beinhaltet nicht die Steuern und Kosten, die beim Verkauf anfallen (ITP zum aktuellen Steuersatz, Notar-, Registrierungs- und Anwaltskosten). Wir erinnern Sie daran, dass Sie als Verbraucher das Recht haben, informiert zu werden und die entsprechenden Informationsunterlagen zu erhalten, je nach Fall, basierend auf den Bestimmungen des Dekrets 218/05 vom 11. Oktober, das die Vorschriften zur Verbraucherinformation beim Verkauf und der Vermietung von Wohnungen in Andalusien regelt. Über uns Mojacar Estates ist seit 1982 erfolgreich als unabhängige Agentur für Immobilienverkauf und Ferienvermietung tätig. Unser engagiertes Team, das seit mehr als 20 Jahren in dieser Branche tätig ist, bietet unseren Kunden einen professionellen und sachkundigen Service. Unser Team spricht fließend Spanisch, Englisch und Deutsch. Wir bieten Immobilien zum Verkauf und zur Vermietung in Mojacar und den umliegenden Gebieten von Almeria, einschließlich Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos und San Juan de los Terreros. * Villa Zar — #ME 2269 * Villa * Freistehend — Weiterverkauf * 6 Schlafzimmer * 4 Bäder * Grundstückfläche 1,000 m² * Umbaute Fläche 359 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich",
-      },
-      images: {
-        image: [
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45466.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45449.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45467.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45454.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45450.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45456.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45455.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45458.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45459.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45460.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45461.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45462.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45463.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45464.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45465.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45468.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45472.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45470.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45469.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2269/xml_45471.jpg",
-          },
-        ],
-      },
-      prime: 1,
-    },
-    {
       id: 2253,
-      date: "2022-07-13 20:02:28",
+      date: "2022-07-13 23:03:28",
       ref: "ME 2253",
       price: 690000,
       currency: "EUR",
@@ -8281,7 +8168,7 @@ export const data = {
     },
     {
       id: 2244,
-      date: "2022-12-31 21:28:38",
+      date: "2023-01-01 00:25:38",
       ref: "ME 2244",
       price: 175000,
       currency: "EUR",
@@ -8380,7 +8267,7 @@ export const data = {
     },
     {
       id: 2240,
-      date: "2020-08-13 01:01:52",
+      date: "2023-02-06 15:49:26",
       ref: "ME 2240",
       price: 135000,
       currency: "EUR",
@@ -8411,11 +8298,11 @@ export const data = {
         de: "https://de.mojacarestates.com/immobilien/2240/gewerbeinmobilie-in-garrucha",
       },
       desc: {
-        en: 'Front line, ground floor commercial premises of 76 m2 on the Paseo Malecón in Garrucha, Almeria, Andalusia with the commercial port and sea opposite. Direct access from the street. Stairs lead from the street level to the entrance of the commercial space. There is a storeroom and cloakroom / wc at the back of the property. This was a clothes shop and is still dressed inside as a shop. This property is also available for rent. NET PRICE: 135.000 € PURCHASE TAXES: 10.800 € NOTARY FEES - APPROX.: 400 € LAND REGISTRY - APPROX.: 350 € TOTAL PRICE: 146.550 € Price valid until sold. Conveyancing not included. The rates applied are the highest, and the buyer may, due to their characteristics, benefit from some tax deductions. The property A. I. D. is available at our office according to the decree 218/2005 of 11 of October that regulates the information regulation for the consumer in the purchasing-selling of property in Andalusia. Location On the Google map click on "enlarge map" and the exact location of the property in Garrucha, Costa Almeria, Andalusia is marked with the blue pin. Opposite the beach and near all amenities in Garrucha, a typical fishing village with many attractions and amenities, a big range of bars and restaurants, harbour, promenade, marina and much more. Airports Almeria airport is 45 minutes drive, Murcia airport is 1 hour 20 minutes, Alicante airport is 2 hours and Malaga airport is 2 hours 45 minutes. Golf Courses Mojacar golf course: Marina de la Torre, Vera golf course: Valle de Este, and Cuevas de Almanzora golf course: Desert Springs. * Local 1 Garrucha — #ME 2240 * Commercial * Resale * + Cloakroom / WC * Constructed area 76 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible',
-        es: 'Primera línea, local comercial en planta baja de 76 m2 en el Paseo Malecón de Garrucha, Almería, Andalucía con el puerto comercial y el mar enfrente. Acceso directo desde la calle. Las escaleras suben desde el nivel de la calle hasta la entrada del espacio comercial. Hay un trastero y un aseo en la parte posterior de la propiedad. Esto fue una tienda de ropa anteriormente. Este local también se puede alquilar. PRECIO NETO: 135.000 € ITP (Impuesto de Transmisiones Patrimoniales): 10.800 € NOTARÍA - aprox.: 400 € REGISTRO DE LA PROPIEDAD - aprox.: 350 € PRECIO TOTAL aprox.: 146.550 € Oferta válida por tiempo indefinido. Honorarios de asesoramiento personal no incluido. Los tipos aplicados son los más altos, pudiendo el comprador, por sus características, beneficiarse de algunas deducciones fiscales. Tiene disponible en nuestra oficina el D. I. A. de la vivienda. según el decreto 218/2005 de 11 de octubre que regula el reglamento de información al consumidor en la compra-venta de vivienda en Andalucía. Ubicación En el mapa de Google haga clic en "ampliar el mapa" y la ubicación exacta de la propiedad en Garrucha, Costa Almería, Andalucía está marcada con el pin azul. Garrucha es un típico pueblo de pescadores con muchas atracciones y comodidades, gran variedad de bares y restaurantes, puerto, paseo marítimo, puerto deportivo y mucho más. Aeropuertos El aeropuerto de Almería está a 45 minutos en coche, el aeropuerto de Murcia está a 1 hora y 20 minutos, el aeropuerto de Alicante es de 2 horas y el aeropuerto de Málaga está a 2 horas y 45 minutos. Campos de golf Campos de golf de Mojácar: Marina de la Torre, campo de golf Vera: Valle del Este, y campo de golf Cuevas de Almanzora: Desert Springs. * Local 1 Garrucha — #ME 2240 * Local Comercial * Buen estado * + Aseo * Superficie construida 76 m² * Agua General * Luz General * Teléfono Posible * Internet Posible',
-        fr: "Ligne de front, rez-de-chaussée des locaux commerciaux de 76 m2 sur le Paseo Malecón à Garrucha, Almeria, Andalousie avec le port commercial et la mer en face. Accès direct depuis la rue. Les escaliers mènent du niveau de la rue à l’entrée de l’espace commercial. Il ya un entrepôt et vestiaire / wc à l’arrière de la propriété. Il s’agissait d’un magasin de vêtements et est toujours habillé à l’intérieur comme un magasin. Cette propriété est également disponible à la location. PRIX NET: 135.000 € TAXES D’ACHAT: 10.800 € FRAIS DE NOTAIRE - ENVIRON: 400 € REGISTRE FONCIER - ENVIRON: 350 € PRIX TOTAL: 146.550 € Prix valable jusqu’à ce qu’il soit vendu. Convoyance non incluse. Les taux appliqués sont les plus élevés, et l’acheteur peut, en raison de leurs caractéristiques, bénéficier de certaines déductions fiscales. La propriété A. I. D. est disponible à notre bureau conformément au décret 218/2005 du 11 octobre qui réglemente la réglementation de l’information pour le consommateur dans l’achat-vente de biens en Andalousie. Emplacement Sur la carte Google cliquez sur « agrandir la carte » et l’emplacement exact de la propriété à Garrucha, Costa Almeria, Andalousie est marqué avec la broche bleue. En face de la plage et à proximité de toutes les commodités à Garrucha, un village de pêcheurs typique avec de nombreuses attractions et commodités, une grande gamme de bars et restaurants, port, promenade, marina et bien plus encore. Aéroports L’aéroport d’Almeria est à 45 minutes en voiture, l’aéroport de Murcie est à 1 heure 20 minutes, l’aéroport d’Alicante est de 2 heures et l’aéroport de Malaga est de 2 heures 45 minutes. Terrains de golf Terrain de golf Mojacar: Marina de la Torre, Vera golf course: Valle de Este, et Cuevas de Almanzora golf course: Desert Springs. * Local 1 Garrucha — #ME 2240 * Local commercial * Revente * + Toilette * Surface habitable 76 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
-        nl: 'Frontlinie, bedrijfsruimte op de begane grond van 76 m2 aan de Paseo Malecón in Garrucha, Almeria, Andalusië met de commerciële haven en de zee tegenover. Directe toegang vanaf de straat. Trappen leiden van de straat niveau naar de ingang van de commerciële ruimte. Er is een berging en garderobe / wc aan de achterkant van het pand. Dit was een kledingwinkel en is nog steeds binnen gekleed als een winkel. Deze accommodatie is ook te huur. NETTO PRIJS: 135.000 € AANSCHAFBELASTING: 10.800 € NOTARISKOSTEN - CA. KADASTER - CA.: 350 € TOTAAL PRIJS: 146.550 € Prijs geldig tot verkocht. Transportancing niet inbegrepen. De toegepaste tarieven zijn de hoogste, en de koper kan, vanwege hun kenmerken, profiteren van een aantal fiscale aftrek. Het pand A.I. D. is beschikbaar op ons kantoor volgens decreet 218/2005 van 11 oktober dat de informatieverordening voor de consument regelt bij de aankoop van onroerend goed in Andalusië. Locatie Klik op de Google-kaart op "vergroot kaart" en de exacte locatie van het pand in Garrucha, Costa Almeria, Andalusië is gemarkeerd met de blauwe pin. Tegenover het strand en in de buurt van alle voorzieningen in Garrucha, een typisch vissersdorp met veel attracties en voorzieningen, een groot scala aan bars en restaurants, haven, promenade, jachthaven en nog veel meer. Luchthavens De luchthaven van Almeria ligt op 45 minuten rijden, de luchthaven van Murcia is 1 uur en 20 minuten, de luchthaven van Alicante is 2 uur en de luchthaven van Malaga is 2 uur en 45 minuten. Golfbanen Mojacar golfbaan: Marina de la Torre, Vera golfbaan: Valle de Este, en Cuevas de Almanzora golfbaan: Desert Springs. * Local 1 Garrucha — #ME 2240 * Bedrijfsruimte * Bestaande woning * + Toilet * Bebouwde oppervlakte 76 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk',
-        de: 'Frontlinie, Erdgeschoss Geschäftsräume von 76 m2 auf dem Paseo Malecén in Garrucha, Almeria, Andalusien mit dem Handelshafen und Meer gegenüber. Direkter Zugang von der Straße. Treppen führen von der Straßenebene zum Eingang des Gewerbes. Es gibt einen Abstellraum und Garderobe / wc auf der Rückseite des Anwesens. Dies war ein Bekleidungsgeschäft und ist immer noch als Geschäft verkleidet. Diese Unterkunft kann ebenfalls gemietet werden. NETTOPREIS: 135.000 € EINKAUFSSTEUERN: 10.800 € NOTARGEBÜHREN - CA.: 400 € GRUNDBUCH - CA.: 350 € GESAMTPREIS: 146.550 € Preis gültig bis zum Verkauf. Fördermittel nicht inbegriffen. Die angewandten Sätze sind die höchsten, und der Käufer kann aufgrund seiner Eigenschaften von einigen Steuerabzügen profitieren. Die Immobilie A. I. D. steht in unserem Büro gemäß dem Dekret 218/2005 vom 11. Oktober zur Verfügung, das die Informationsregelung für den Verbraucher beim Kauf von Immobilien in Andalusien regelt. Lage Auf der Google-Karte klicken Sie auf "Karte vergrößern" und die genaue Lage der Unterkunft in Garrucha, Costa Almeria, Andalusien ist mit dem blauen Stift markiert. Gegenüber dem Strand und in der Nähe aller Annehmlichkeiten in Garrucha, einem typischen Fischerdorf mit vielen Attraktionen und Annehmlichkeiten, einer großen Auswahl an Bars und Restaurants, Hafen, Promenade, Yachthafen und vielem mehr. Flughäfen Almeria Flughafen ist 45 Minuten fahrt, Murcia Flughafen ist 1 Stunde 20 Minuten, Alicante Flughafen ist 2 Stunden und Malaga Flughafen ist 2 Stunden 45 Minuten. Golfplätze Golfplatz Mojacar: Marina de la Torre, Vera Golfplatz: Valle de Este und Cuevas de Almanzora Golfplatz: Desert Springs. * Local 1 Garrucha — #ME 2240 * Gewerbeinmobilie * Weiterverkauf * + Gäste-WC * Umbaute Fläche 76 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich',
+        en: "Front line, ground floor commercial premises of 76 m2 on the Paseo Malecón in Garrucha, Almeria, Andalusia with the commercial port and sea opposite. Direct access from the street. Stairs lead from the street level to the entrance of the commercial space. There is a storeroom and cloakroom / wc at the back of the property. This was a clothes shop and is still dressed inside as a shop. This property is also available for rent. Location For the precise location, see the pin on Google maps above. Garrucha is a typical fishing village with many attractions and amenities, a big range of bars and restaurants, harbour, promenade, marina and much more. Airports Almeria airport is a 45-minute drive, Murcia airport is 1 hour 20 minutes, Alicante airport is 2 hours and Malaga airport is 2 hours 45 minutes. 4 Golf Courses Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. The indicated price does not include the taxes and expenses derived from the sale (ITP at the current tax rate, notary, registration and lawyer fees). We remind you that as a consumer you have the right to be informed and given the corresponding informative documentation, depending on the case, based on the provisions of Decree 218/05 of 11 October which regulates the Regulations on Consumer Information in the sale and rental of housing in Andalusia. About Us Mojacar Estates have been running successfully as an independent property sales and holiday rentals agency since 1982. Our dedicated team, who have all been working within this industry for more than 20 years, offer a professional and knowledgeable service to our clients. Our team speaks fluent Spanish, English and German. We offer properties for sale and rental in Mojacar and surrounding areas of Almeria, including Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos and San Juan de los Terreros. * Local 1 Garrucha — #ME 2240 * Commercial * Resale * + Cloakroom / WC * Constructed area 76 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible",
+        es: "Primera línea, local comercial en planta baja de 76 m2 en el Paseo Malecón de Garrucha, Almería, Andalucía con el puerto comercial y el mar enfrente. Acceso directo desde la calle. Las escaleras suben desde el nivel de la calle hasta la entrada del espacio comercial. Hay un trastero y un aseo en la parte posterior de la propiedad. Esto fue una tienda de ropa anteriormente. Este local también se puede alquilar. Ubicación Para conocer la ubicación exacta, consulte la chincheta en Google Maps más arriba. Garrucha es un típico pueblo de pescadores con muchas atracciones y comodidades, gran variedad de bares y restaurantes, puerto, paseo marítimo, puerto deportivo y mucho más. Aeropuertos El aeropuerto de Almería está a 45 minutos en coche, el de Murcia a 1 hora y 20 minutos, el de Alicante a 2 horas y el de Málaga a 2 horas y 45 minutos. 4 Campos de Golf Mojácar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilón Golf. El precio indicado no incluye los impuestos y gastos derivados de la venta (ITP al tipo impositivo vigente, gastos de notaría, registro y abogado). Le recordamos que como consumidor tiene derecho a ser informado y a que se le entregue la documentación informativa correspondiente, según los casos, en base a lo dispuesto en el Decreto 218/05 de 11 de octubre por el que se regula el Reglamento sobre Información al Consumidor en la compraventa y arrendamiento de viviendas en Andalucía. Sobre Nosotros Mojácar Estates ha estado funcionando con éxito como una agencia independiente de venta de propiedades y alquileres de vacaciones desde 1982. Nuestro equipo dedicado, que han estado trabajando en esta industria durante más de 20 años, ofrecen un servicio profesional y bien informado a nuestros clientes. Nuestro equipo habla español, inglés y alemán con fluidez. Ofrecemos propiedades en venta y alquiler en Mojácar y alrededores de Almería, incluyendo Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos y San Juan de los Terreros. * Local 1 Garrucha — #ME 2240 * Local Comercial * Buen estado * + Aseo * Superficie construida 76 m² * Agua General * Luz General * Teléfono Posible * Internet Posible",
+        fr: "Première ligne, local commercial au rez-de-chaussée de 76 m2 sur le Paseo Malecón à Garrucha, Almeria, Andalousie avec le port commercial et la mer en face. Accès direct depuis la rue. Des escaliers mènent du niveau de la rue à l’entrée de l’espace commercial. Il y a un cellier et vestiaire / wc à l’arrière de la propriété. C’était un magasin de vêtements et est toujours habillé à l’intérieur comme un magasin. Cette propriété est également disponible à la location. Emplacement Pour l’emplacement précis, voir l’épingle sur Google maps ci-dessus. Garrucha est un village de pêcheurs typique avec de nombreuses attractions et commodités, une grande gamme de bars et de restaurants, port, promenade, marina et bien plus encore. Aéroports L’aéroport d’Almeria est à 45 minutes en voiture, l’aéroport de Murcie est à 1 heure 20 minutes, l’aéroport d’Alicante est à 2 heures et l’aéroport de Malaga est à 2 heures 45 minutes. 4 terrains de golf Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. Le prix indiqué ne comprend pas les taxes et frais dérivés de la vente (ITP au taux d’imposition en vigueur, frais de notaire, d’enregistrement et d’avocat). Nous vous rappelons qu’en tant que consommateur, vous avez le droit d’être informé et de recevoir la documentation informative correspondante, selon le cas, sur la base des dispositions du décret 218/05 du 11 octobre qui réglemente le règlement sur l’information des consommateurs dans la vente et la location de logements en Andalousie. Qui sommes-nous Mojacar Estates fonctionne avec succès en tant qu’agence indépendante de vente immobilière et de location de vacances depuis 1982. Notre équipe dévouée, qui travaille dans cette industrie depuis plus de 20 ans, offre un service professionnel et compétent à nos clients. Notre équipe parle couramment l’espagnol, l’anglais et l’allemand. Nous proposons des propriétés à vendre et à louer à Mojacar et dans les environs d’Almeria, y compris Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos et San Juan de los Terreros. * Local 1 Garrucha — #ME 2240 * Local commercial * Revente * + Toilette * Surface habitable 76 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
+        nl: "Frontlinie, begane grond commercieel pand van 76 m2 aan de Paseo Malecón in Garrucha, Almeria, Andalusië met de commerciële haven en de zee ertegenover. Directe toegang vanaf de straat. Trappen leiden van het straatniveau naar de ingang van de commerciële ruimte. Er is een berging en garderobe / wc aan de achterkant van het pand. Dit was een kledingwinkel en is binnen nog steeds verkleed als winkel. Deze woning is ook te huur. Plaats Voor de precieze locatie, zie de pin op Google maps hierboven. Garrucha is een typisch vissersdorpje met vele attracties en voorzieningen, een groot aanbod aan bars en restaurants, haven, promenade, jachthaven en nog veel meer. Luchthavens De luchthaven van Almeria ligt op 45 minuten rijden, de luchthaven van Murcia op 1 uur en 20 minuten, de luchthaven van Alicante op 2 uur en de luchthaven van Malaga op 2 uur en 45 minuten. 4 Golfbanen Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. De aangegeven prijs is exclusief de belastingen en kosten die voortvloeien uit de verkoop (ITP tegen het huidige belastingtarief, notaris-, registratie- en advocaatkosten). Wij herinneren u eraan dat u als consument het recht hebt om geïnformeerd te worden en de bijbehorende informatieve documentatie te krijgen, afhankelijk van het geval, op basis van de bepalingen van decreet 218/05 van 11 oktober dat de voorschriften inzake consumenteninformatie bij de verkoop en verhuur van woningen in Andalusië regelt. Informatie Mojacar Estates draait sinds 1982 met succes als een onafhankelijk makelaarskantoor voor de verkoop van onroerend goed en vakantieverhuur. Ons toegewijde team, dat allemaal al meer dan 20 jaar in deze branche werkt, biedt een professionele en deskundige service aan onze klanten. Ons team spreekt vloeiend Spaans, Engels en Duits. Wij bieden onroerend goed te koop en te huur in Mojacar en de omliggende gebieden van Almeria, waaronder Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos en San Juan de los Terreros. * Local 1 Garrucha — #ME 2240 * Bedrijfsruimte * Bestaande woning * + Toilet * Bebouwde oppervlakte 76 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk",
+        de: "Geschäftsräume in erster Meereslinie im Erdgeschoss von 76 m2 am Paseo Malecón in Garrucha, Almeria, Andalusien mit dem gegenüberliegenden Handelshafen und Meer. Direkter Zugang von der Straße. Treppen führen vom Straßenniveau zum Eingang der Gewerbefläche. Es gibt einen Abstellraum und eine Garderobe / WC auf der Rückseite des Grundstücks. Dies war ein Bekleidungsgeschäft und ist immer noch als Geschäft gekleidet. Diese Immobilie kann auch gemietet werden. Ort Für den genauen Standort siehe den Pin auf Google Maps oben. Garrucha ist ein typisches Fischerdorf mit vielen Attraktionen und Annehmlichkeiten, einer großen Auswahl an Bars und Restaurants, Hafen, Promenade, Yachthafen und vielem mehr. Flughäfen Der Flughafen Almeria ist eine 45-minütige Fahrt, der Flughafen Murcia 1 Stunde 20 Minuten, der Flughafen Alicante 2 Stunden und der Flughafen Malaga 2 Stunden 45 Minuten. 4 Golfplätze Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. Der angegebene Preis beinhaltet nicht die Steuern und Ausgaben, die sich aus dem Verkauf ergeben (ITP zum aktuellen Steuersatz, Notar-, Registrierungs- und Anwaltskosten). Wir erinnern Sie daran, dass Sie als Verbraucher das Recht haben, je nach Fall informiert zu werden und die entsprechenden informativen Unterlagen zu erhalten, basierend auf den Bestimmungen des Dekrets 218/05 vom 11. Oktober, das die Vorschriften über Verbraucherinformationen beim Verkauf und der Vermietung von Wohnungen in Andalusien regelt. Über uns Mojacar Estates ist seit 1982 erfolgreich als unabhängige Immobilienverkaufs- und Ferienvermietungsagentur tätig. Unser engagiertes Team, das alle seit mehr als 20 Jahren in dieser Branche tätig ist, bietet unseren Kunden einen professionellen und sachkundigen Service. Unser Team spricht fließend Spanisch, Englisch und Deutsch. Wir bieten Immobilien zum Verkauf und zur Miete in Mojacar und Umgebung von Almeria, einschließlich Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos und San Juan de los Terreros. * Local 1 Garrucha — #ME 2240 * Gewerbeinmobilie * Weiterverkauf * + Gäste-WC * Umbaute Fläche 76 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich",
       },
       images: {
         image: [
@@ -8454,10 +8341,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 2221,
-      date: "2022-12-30 17:55:40",
+      date: "2022-12-30 20:55:40",
       ref: "ME 2221",
       price: 119000,
       currency: "EUR",
@@ -8557,7 +8445,7 @@ export const data = {
     },
     {
       id: 2181,
-      date: "2022-04-26 20:42:59",
+      date: "2022-04-26 23:38:59",
       ref: "ME 2181",
       price: 160000,
       currency: "EUR",
@@ -8659,11 +8547,10 @@ export const data = {
           },
         ],
       },
-      prime: 1,
     },
     {
       id: 2179,
-      date: "2023-01-21 11:05:21",
+      date: "2023-01-21 14:01:21",
       ref: "ME 2179",
       price: 159000,
       currency: "EUR",
@@ -8769,7 +8656,7 @@ export const data = {
     },
     {
       id: 2153,
-      date: "2022-01-12 20:43:27",
+      date: "2022-01-12 23:46:27",
       ref: "ME 2153",
       price: 299000,
       currency: "EUR",
@@ -8871,7 +8758,7 @@ export const data = {
     },
     {
       id: 2151,
-      date: "2023-01-21 11:34:03",
+      date: "2023-01-21 14:34:03",
       ref: "ME 2151",
       price: 419000,
       currency: "EUR",
@@ -8997,10 +8884,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 2136,
-      date: "2021-12-14 22:56:35",
+      date: "2021-12-15 01:49:35",
       ref: "ME 2136",
       price: 170000,
       currency: "EUR",
@@ -9095,7 +8983,7 @@ export const data = {
     },
     {
       id: 2114,
-      date: "2023-01-13 20:07:07",
+      date: "2023-01-13 23:18:07",
       ref: "ME 2114",
       price: 265000,
       currency: "EUR",
@@ -9200,7 +9088,7 @@ export const data = {
     },
     {
       id: 2080,
-      date: "2022-02-25 22:42:14",
+      date: "2022-02-26 01:39:14",
       ref: "ME 2080",
       price: 198000,
       currency: "EUR",
@@ -9280,11 +9168,10 @@ export const data = {
           },
         ],
       },
-      prime: 1,
     },
     {
       id: 2053,
-      date: "2022-04-25 21:28:15",
+      date: "2022-04-25 23:36:15",
       ref: "ME 2053",
       price: 35000,
       currency: "EUR",
@@ -9347,7 +9234,7 @@ export const data = {
     },
     {
       id: 2050,
-      date: "2021-03-30 01:26:27",
+      date: "2021-03-30 03:23:27",
       ref: "ME 2050",
       price: 99000,
       currency: "EUR",
@@ -9403,11 +9290,10 @@ export const data = {
           },
         ],
       },
-      prime: 1,
     },
     {
       id: 2048,
-      date: "2021-03-30 01:15:53",
+      date: "2021-03-30 03:12:53",
       ref: "ME 2048",
       price: 40000,
       currency: "EUR",
@@ -9473,7 +9359,7 @@ export const data = {
     },
     {
       id: 1938,
-      date: "2022-12-28 14:50:43",
+      date: "2022-12-28 17:47:43",
       ref: "ME 1938",
       price: 395000,
       currency: "EUR",
@@ -9575,10 +9461,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 1907,
-      date: "2020-10-04 00:53:51",
+      date: "2020-10-04 02:42:51",
       ref: "ME 1907",
       price: 87000,
       currency: "EUR",
@@ -9649,13 +9536,12 @@ export const data = {
           },
         ],
       },
-      prime: 1,
     },
     {
       id: 1833,
-      date: "2023-11-01 17:15:54",
+      date: "2023-07-02 17:30:14",
       ref: "ME 1833",
-      price: 399995,
+      price: 355000,
       currency: "EUR",
       price_freq: "sale",
       type: "Villa",
@@ -9665,8 +9551,8 @@ export const data = {
         latitude: 37.116767,
         longitude: -1.839749,
       },
-      beds: 5,
-      baths: 4,
+      beds: 4,
+      baths: 3,
       pool: 0,
       surface_area: {
         built: 203,
@@ -9685,11 +9571,11 @@ export const data = {
       },
       video_url: "https://www.youtube.com/v/wlBEgOkpuQc",
       desc: {
-        en: 'Contemporary 4 bedroom / 3 bathroom villa with annex 1 bedroom / 1 bathroom self contained apartment, only 2 minutes\' walk from the beach for sale on Mojacar Playa, Almeria, Andalusia. There are stairs from the parking area up to the villa. Coming through the front door there is a large sitting / dining room with a feature fireplace and access to the front terrace looking out towards the beach just 50 m away. On this level there is also a modern kitchen with all appliances, a double bedroom with built-in wardrobes, and an attractive bathroom with shower. Upstairs there are 3 further double bedrooms; the master bedroom with an en suite bathroom with a walk-in shower; and a second bathroom with 2 basins for the other two bedrooms. All bedrooms have built-in wardrobes, there is AC throughout the villa (hot and cold air), modern double glazed windows and overall a high quality finish to all bathrooms, kitchen and villa. There is a garden area covered in artificial grass and a seating area at the back of the villa where the current owners have installed a temporary above-ground splash pool (there is space to build a larger permanent pool). An additional outdoor kitchen / BBQ and entertainment area can be found next to the garden. Steps lead from this garden area planted with palm trees down to the side of the villa and a gate out to the road below. The front driveway is accessed by a large electric gate that allows parking for 2+ cars. Underneath the villa on road level is a newly converted, self contained apartment with its own private entrance, with small kitchen, seating area, 1 bedroom and a bathroom with shower, plus its own garden area. This apartment could also be used as an office. This villa would also offer a fantastic rental opportunity for buyers looking to buy and use for holidays but rent out for the peak income summer months where 5 bedroom villas can rent very well, especially in such a prime location of Mojacar Playa and so close to the sea, bars and restaurants. The indicated price does not include the taxes and expenses derived from the sale (ITP at the current tax rate, notary, registration and lawyer fees). We remind you that as a consumer you have the right to be informed and given the corresponding informative documentation, depending on the case, based on the provisions of Decree 218/05 of 11 October which regulates the Regulations on Consumer Information in the sale and rental of housing in Andalusia. Location 50m to the promenade / beach and many popular restaurants such as Bella Vista, Martin Morales, Valery, Enrico etc and one of the best beaches of Mojacar: "Las Ventanicas" just a short stroll away, all the amenities of Mojacar and Garrucha are a short drive away. Approximate distances to 4 local Airports Almeria 70km/ 44minutes in the car, Murcia 145km/ 1 hour 26 minutes in the car, Alicante 208km/ 2 hours, Malaga 290km/ 2 hours 52 minutes in the car. 3 Golf courses Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas del Almanzora: Desert Springs. * Villa Serge — #ME 1833 * Villa * Resale * 5 bedrooms * 4 bathrooms * Land area 500 m² * Constructed area 203 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible',
-        es: 'Villa contemporánea de 4 dormitorios / 3 baños con un apartamento anexo de 1 dormitorio / 1 baño, a sólo 2 minutos a pie de la playa en venta en Mojácar Playa, Almería, Andalucía. Hay escaleras desde la zona de aparcamiento hasta la villa. Entrando por la puerta principal hay un gran salón/comedor con una chimenea y acceso a la terraza delantera con vistas a la playa a sólo 50 m de distancia. En este nivel también hay una cocina moderna con todos los electrodomésticos, un dormitorio doble con armarios empotrados, y un atractivo baño con ducha. En la planta superior hay otros 3 dormitorios dobles; el dormitorio principal con baño en suite con ducha; y un segundo baño con 2 lavabos para los otros dos dormitorios. Todos los dormitorios tienen armarios empotrados, hay aire acondicionado en toda la villa (aire caliente y frío), modernas ventanas de doble acristalamiento y en general un acabado de alta calidad en todos los baños, la cocina y la vivienda. Hay una zona de jardín cubierta de césped artificial y una zona de estar en la parte trasera de la villa donde los actuales propietarios han instalado una piscina temporal sobre el suelo (hay espacio para construir una piscina permanente más grande). Junto al jardín hay una cocina exterior adicional, una barbacoa y una zona de ocio. Los pasos conducen desde esta zona de jardín plantado con palmeras hasta el lado de la villa y una puerta a la calle de abajo. Se accede desde la calle por un gran portón eléctrico que permite el estacionamiento de más de 2 coches. Debajo de la villa, en el nivel de la calle hay un apartamento recién convertido con su propia entrada privada, con una pequeña cocina, zona de estar, 1 dormitorio y un cuarto de ducha, además de su propia zona de jardín. Este apartamento también se podría utilizar como una oficina. Esta villa además ofrece una fantástica oportunidad de alquiler vacacional en los meses de verano, donde las villas de 5 dormitorios se alquilan muy bien, especialmente en está ubicación privilegiada de Mojácar Playa y tan cerca del mar, bares y restaurantes. El precio señalado no incluye los impuestos y gastos derivados de la compraventa (ITP al tipo impositivo vigente, notaría, registro y gastos de gestoría). Le recordamos que como consumidor tiene derecho a que se le informe y entregue la documentación informativa que corresponda, según el caso, en base a lo dispuesto en el Decreto 218/05 de 11 de Octubre que regula el Reglamento de Información al Consumidor en la compra-venta y arrendamiento de vivienda en Andalucía. Ubicación A 50m del paseo marítimo/playa y de muchos restaurantes populares como Bella Vista, Martin Morales, Valery, Enrico etc y una de las mejores playas de Mojacar: "Las Ventanicas" a un corto paseo, todos los servicios de Mojácar y Garrucha están a un corto trayecto en coche. Distancias aproximadas a 4 aeropuertos locales Almería 70km/ 44minutos en coche, Murcia 145km/ 1 hora 26 minutos en coche, Alicante 208km/ 2 horas, Málaga 290km/ 2 horas 52 minutos en coche. 3 Campos de golf Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas del Almanzora: Fuentes del Desierto. * Villa Serge — #ME 1833 * Chalet * Buen estado * 5 dormitorios * 4 cuartos de baño * Área de terreno 500 m² * Superficie construida 203 m² * Agua General * Luz General * Teléfono Posible * Internet Posible',
-        fr: "Villa contemporaine de 4 chambres à coucher et 3 salles de bains avec un appartement indépendant de 1 chambre à coucher et 1 salle de bains, à seulement 2 minutes à pied de la plage, à vendre sur Mojacar Playa, Almeria, Andalousie. Il y a des escaliers depuis le parking jusqu'à la villa. En passant la porte d'entrée, on trouve un grand salon/salle à manger avec une cheminée et un accès à la terrasse donnant sur la plage à 50 mètres. À ce niveau, il y a également une cuisine moderne avec tous les appareils électroménagers, une chambre double avec des armoires encastrées, et une belle salle de bains avec douche. A l'étage, il y a 3 autres chambres doubles ; la chambre principale avec une salle de bain en suite avec une douche à l'italienne ; et une deuxième salle de bain avec 2 lavabos pour les deux autres chambres. Toutes les chambres ont des armoires encastrées, il y a une climatisation dans toute la villa (air chaud et froid), des fenêtres modernes à double vitrage et une finition générale de haute qualité dans toutes les salles de bains, la cuisine et la villa. Il y a une zone de jardin couverte de gazon artificiel et une zone d'assise à l'arrière de la villa où les propriétaires actuels ont installé une piscine hors sol temporaire (il y a de l'espace pour construire une plus grande piscine permanente). Une cuisine extérieure supplémentaire / BBQ et une zone de divertissement peuvent être trouvés à côté du jardin. Des marches mènent de cette zone de jardin plantée de palmiers jusqu'au côté de la villa et à une porte donnant sur la route en contrebas. L'allée avant est accessible par un grand portail électrique qui permet de garer plus de 2 voitures. Sous la villa, au niveau de la route, se trouve un appartement indépendant nouvellement converti, avec sa propre entrée privée, une petite cuisine, un coin salon, une chambre et une salle de bain avec douche, ainsi que son propre jardin. Cet appartement pourrait également être utilisé comme bureau. Cette villa offre également une opportunité de location fantastique pour les acheteurs qui cherchent à acheter et à utiliser pour les vacances, mais à louer pour les mois d'été où les villas de 5 chambres se louent très bien, surtout dans un emplacement privilégié de Mojacar Playa et si près de la mer, des bars et des restaurants. Le prix indiqué ne comprend pas les taxes et les frais dérivés de la vente (ITP au taux d'imposition actuel, frais de notaire, de greffe et d'avocat). Nous vous rappelons qu'en tant que consommateur, vous avez le droit d'être informé et de recevoir la documentation informative correspondante, selon le cas, sur la base des dispositions du décret 218/05 du 11 octobre qui régit le Règlement sur l'information du consommateur dans la vente et la location de logements en Andalousie. Emplacement A 50m de la promenade / plage et de nombreux restaurants populaires tels que Bella Vista, Martin Morales, Valery, Enrico etc. et l'une des meilleures plages de Mojacar : L'une des meilleures plages de Mojacar, \"Las Ventanicas\", se trouve à une courte distance à pied. Toutes les commodités de Mojacar et Garrucha sont à une courte distance en voiture. Distances approximatives de 4 aéroports locaux Almeria 70km/ 44 minutes en voiture, Murcia 145km/ 1 heure 26 minutes en voiture, Alicante 208km/ 2 heures, Malaga 290km/ 2 heures 52 minutes en voiture. 3 terrains de golf Mojacar : Marina de la Torre, Vera : Valle del Este, Cuevas del Almanzora : Desert Springs. * Villa Serge — #ME 1833 * Villa * Revente * 5 chambres à coucher * 4 salles de bains * Surface terrain 500 m² * Surface habitable 203 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
-        nl: "Hedendaagse 4 slaapkamer / 3 badkamer villa met annex 1 slaapkamer / 1 badkamer op zichzelf staand appartement, op slechts 2 minuten lopen van het strand te koop op Mojacar Playa, Almeria, Andalusië. Er is een trap vanaf de parkeerplaats naar de villa. Via de voordeur komt u in een grote zit/eetkamer met een open haard en toegang tot het terras aan de voorzijde met uitzicht op het strand op slechts 50 meter afstand. Op dit niveau is er ook een moderne keuken met alle apparatuur, een tweepersoons slaapkamer met ingebouwde kasten, en een mooie badkamer met douche. Boven zijn er nog 3 dubbele slaapkamers; de hoofdslaapkamer met een eigen badkamer met een inloopdouche; en een tweede badkamer met 2 wastafels voor de andere twee slaapkamers. Alle slaapkamers hebben ingebouwde kasten, er is AC in de hele villa (warme en koude lucht), moderne ramen met dubbele beglazing en over het algemeen een hoge kwaliteit afwerking van alle badkamers, keuken en villa. Er is een tuin bedekt met kunstgras en een zithoek aan de achterkant van de villa waar de huidige eigenaren een tijdelijk bovengronds zwembad hebben geïnstalleerd (er is ruimte om een groter permanent zwembad te bouwen). Een extra buitenkeuken / BBQ en entertainment gebied kan worden gevonden naast de tuin. Vanuit deze tuin, beplant met palmbomen, leidt een trap naar de zijkant van de villa en een poort naar de weg eronder. De oprit aan de voorkant is toegankelijk via een grote electrische poort die parkeerruimte biedt voor 2+ auto's. Onder de villa op straatniveau bevindt zich een pas verbouwd, zelfstandig appartement met een eigen ingang, met een kleine keuken, een zithoek, 1 slaapkamer en een badkamer met douche, plus een eigen tuingedeelte. Dit appartement kan ook worden gebruikt als kantoor. Deze villa zou ook een fantastische verhuur kans voor kopers op zoek te kopen en te gebruiken voor vakanties, maar verhuren voor de piek inkomen zomermaanden waar 5 slaapkamer villa's kan zeer goed te huur, vooral in een dergelijke toplocatie van Mojacar Playa en zo dicht bij de zee, bars en restaurants. De toegepaste tarieven zijn het hoogst en de koper kan, n.a.v. zijn kenmerken, profiteren van eventuele belastingaftrek. Het eigendom A. I. D. is beschikbaar op ons kantoor volgens het decreet 218/2005 van 11 oktober, dat de informatieverordening regelt voor de consument bij de aankoop van onroerend goed in Andalusië. Locatie 50m naar de promenade / strand en vele populaire restaurants zoals Bella Vista, Martin Morales, Valery, Enrico etc en een van de beste stranden van Mojacar: \"Las Ventanicas\" op slechts een korte wandeling afstand, alle voorzieningen van Mojacar en Garrucha zijn op korte rijafstand. Geschatte afstanden tot 4 lokale luchthavens Almeria 70km/ 44minuten in de auto, Murcia 145km/ 1 uur 26 minuten in de auto, Alicante 208km/ 2 uur, Malaga 290km/ 2 uur 52 minuten in de auto. 3 Golfbanen Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas del Almanzora: Desert Springs. * Villa Serge — #ME 1833 * Villa * Bestaande woning * 5 slaapkamers * 4 badkamers * Grond oppervlakte 500 m² * Bebouwde oppervlakte 203 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk",
-        de: 'Zeitgenössische Villa mit 4 Schlafzimmern / 3 Badezimmern und einem angeschlossenen Apartment mit 1 Schlafzimmer / 1 Badezimmer, nur 2 Minuten zu Fuß vom Strand entfernt, zu verkaufen in Mojacar Playa, Almeria, Andalusien. Es gibt eine Treppe vom Parkplatz bis zu der Villa. Durch die Eingangstür gelangt man in ein großes Wohn-/Esszimmer mit Kamin und Zugang zur vorderen Terrasse mit Blick auf den nur 50 m entfernten Strand. Auf dieser Ebene befindet sich auch eine moderne Küche mit allen Geräten, ein Schlafzimmer mit Doppelbett und Einbauschränken sowie ein attraktives Badezimmer mit Dusche. Im Obergeschoss befinden sich 3 weitere Doppelschlafzimmer, das Hauptschlafzimmer mit einem eigenen Bad mit begehbarer Dusche und ein zweites Bad mit 2 Waschbecken für die beiden anderen Schlafzimmer. Alle Schlafzimmer haben Einbauschränke, es gibt eine Klimaanlage in der ganzen Villa (warme und kalte Luft), moderne doppelt verglaste Fenster und insgesamt eine hohe Qualität in allen Bädern, Küche und Villa zu beenden. Es gibt einen Gartenbereich, der mit Kunstrasen bedeckt ist, und einen Sitzbereich auf der Rückseite der Villa, wo die derzeitigen Eigentümer einen temporären oberirdischen Pool installiert haben (es gibt Platz, um einen größeren permanenten Pool zu bauen). Eine zusätzliche Außenküche / Grill und Unterhaltungsbereich befindet sich neben dem Garten. Eine Treppe führt von diesem mit Palmen bepflanzten Gartenbereich hinunter zur Seite der Villa und zu einem Tor, das auf die darunter liegende Straße führt. Die vordere Einfahrt ist durch ein großes elektrisches Tor zugänglich und bietet Platz für mehr als 2 Autos. Unterhalb der Villa auf Straßenebene befindet sich ein neu umgebautes, eigenständiges Apartment mit eigenem Eingang, einer kleinen Küche, einer Sitzecke, einem Schlafzimmer und einem Badezimmer mit Dusche sowie einem eigenen Gartenbereich. Diese Wohnung könnte auch als Büro genutzt werden. Diese Villa würde auch eine fantastische Vermietung Gelegenheit für Käufer auf der Suche zu kaufen und für den Urlaub nutzen, sondern vermieten für die Spitzeneinkommen Sommermonate, wo 5 Schlafzimmer Villen können sehr gut vermieten, vor allem in einer solchen Top-Lage von Mojacar Playa und so nah am Meer, Bars und Restaurants. Der angegebene Preis enthält nicht die Steuern und die mit dem Verkauf verbundenen Kosten (ITP zum aktuellen Steuersatz, Notar-, Register- und Anwaltskosten). Wir erinnern Sie daran, dass Sie als Verbraucher das Recht haben, informiert zu werden und je nach Fall die entsprechenden Informationsunterlagen zu erhalten, basierend auf den Bestimmungen des Dekrets 218/05 vom 11. Oktober, das die Vorschriften zur Verbraucherinformation beim Verkauf und der Vermietung von Wohnraum in Andalusien regelt. Standort 50m zur Promenade / Strand und vielen beliebten Restaurants wie Bella Vista, Martin Morales, Valery, Enrico etc. und einem der besten Strände von Mojacar: "Las Ventanicas" nur einen kurzen Spaziergang entfernt, alle Annehmlichkeiten von Mojacar und Garrucha sind eine kurze Fahrt entfernt. Ungefähre Entfernungen zu 4 lokalen Flughäfen Almeria 70km/ 44 Minuten mit dem Auto, Murcia 145km/ 1 Stunde 26 Minuten mit dem Auto, Alicante 208km/ 2 Stunden, Malaga 290km/ 2 Stunden 52 Minuten mit dem Auto. 3 Golfplätze Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas del Almanzora: Desert Springs. * Villa Serge — #ME 1833 * Villa * Weiterverkauf * 5 Schlafzimmer * 4 Bäder * Grundstückfläche 500 m² * Umbaute Fläche 203 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich',
+        en: 'Contemporary 4 bedroom / 3 bathroom villa with annex only 2 minutes\' walk from the beach for sale on Mojacar Playa, Almeria, Andalusia. There are stairs from the parking area up to the villa. Coming through the front door there is a large sitting / dining room with a feature fireplace and access to the front terrace looking out towards the beach just 50 m away. On this level there is also a modern kitchen with all appliances, a double bedroom with built-in wardrobes, and an attractive bathroom with shower. Upstairs there are 3 further double bedrooms; the master bedroom with an en suite bathroom with a walk-in shower; and a second bathroom with 2 basins for the other two bedrooms. All bedrooms have built-in wardrobes, there is AC throughout the villa (hot and cold air), modern double glazed windows and overall a high quality finish to all bathrooms, kitchen and villa. There is a garden area covered in artificial grass and a seating area at the back of the villa where the current owners have installed a temporary above-ground splash pool (there is space to build a larger permanent pool). An additional outdoor kitchen / BBQ and entertainment area can be found next to the garden. Steps lead from this garden area planted with palm trees down to the side of the villa and a gate out to the road below. The front driveway is accessed by a large electric gate that allows parking for 2+ cars. Underneath the villa on road level is a newly converted, self contained apartment with its own private entrance, with small kitchen, seating area, 1 bedroom and a bathroom with shower, plus its own garden area. This apartment could also be used as an office. This villa would also offer a fantastic rental opportunity for buyers looking to buy and use for holidays but rent out for the peak income summer months where 5 bedroom villas can rent very well, especially in such a prime location of Mojacar Playa and so close to the sea, bars and restaurants. The indicated price does not include the taxes and expenses derived from the sale (ITP at the current tax rate, notary, registration and lawyer fees). We remind you that as a consumer you have the right to be informed and given the corresponding informative documentation, depending on the case, based on the provisions of Decree 218/05 of 11 October which regulates the Regulations on Consumer Information in the sale and rental of housing in Andalusia. Location 50m to the promenade / beach and many popular restaurants such as Bella Vista, Martin Morales, Valery, Enrico etc and one of the best beaches of Mojacar: "Las Ventanicas" just a short stroll away, all the amenities of Mojacar and Garrucha are a short drive away. Approximate distances to 4 local Airports Almeria 70km/ 44minutes in the car, Murcia 145km/ 1 hour 26 minutes in the car, Alicante 208km/ 2 hours, Malaga 290km/ 2 hours 52 minutes in the car. 3 Golf courses Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas del Almanzora: Desert Springs. * Villa Serge — #ME 1833 * Villa * Resale * 4 bedrooms * 3 bathrooms * Land area 500 m² * Constructed area 203 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible',
+        es: 'Villa contemporánea de 4 dormitorios / 3 baños con un apartamento anexo, a sólo 2 minutos a pie de la playa en venta en Mojácar Playa, Almería, Andalucía. Hay escaleras desde la zona de aparcamiento hasta la villa. Entrando por la puerta principal hay un gran salón/comedor con una chimenea y acceso a la terraza delantera con vistas a la playa a sólo 50 m de distancia. En este nivel también hay una cocina moderna con todos los electrodomésticos, un dormitorio doble con armarios empotrados, y un atractivo baño con ducha. En la planta superior hay otros 3 dormitorios dobles; el dormitorio principal con baño en suite con ducha; y un segundo baño con 2 lavabos para los otros dos dormitorios. Todos los dormitorios tienen armarios empotrados, hay aire acondicionado en toda la villa (aire caliente y frío), modernas ventanas de doble acristalamiento y en general un acabado de alta calidad en todos los baños, la cocina y la vivienda. Hay una zona de jardín cubierta de césped artificial y una zona de estar en la parte trasera de la villa donde los actuales propietarios han instalado una piscina temporal sobre el suelo (hay espacio para construir una piscina permanente más grande). Junto al jardín hay una cocina exterior adicional, una barbacoa y una zona de ocio. Los pasos conducen desde esta zona de jardín plantado con palmeras hasta el lado de la villa y una puerta a la calle de abajo. Se accede desde la calle por un gran portón eléctrico que permite el estacionamiento de más de 2 coches. Debajo de la villa, en el nivel de la calle hay un apartamento recién convertido con su propia entrada privada, con una pequeña cocina, zona de estar, 1 dormitorio y un cuarto de ducha, además de su propia zona de jardín. Este apartamento también se podría utilizar como una oficina. Esta villa además ofrece una fantástica oportunidad de alquiler vacacional en los meses de verano, donde las villas de 5 dormitorios se alquilan muy bien, especialmente en está ubicación privilegiada de Mojácar Playa y tan cerca del mar, bares y restaurantes. El precio señalado no incluye los impuestos y gastos derivados de la compraventa (ITP al tipo impositivo vigente, notaría, registro y gastos de gestoría). Le recordamos que como consumidor tiene derecho a que se le informe y entregue la documentación informativa que corresponda, según el caso, en base a lo dispuesto en el Decreto 218/05 de 11 de Octubre que regula el Reglamento de Información al Consumidor en la compra-venta y arrendamiento de vivienda en Andalucía. Ubicación A 50m del paseo marítimo/playa y de muchos restaurantes populares como Bella Vista, Martin Morales, Valery, Enrico etc y una de las mejores playas de Mojacar: "Las Ventanicas" a un corto paseo, todos los servicios de Mojácar y Garrucha están a un corto trayecto en coche. Distancias aproximadas a 4 aeropuertos locales Almería 70km/ 44minutos en coche, Murcia 145km/ 1 hora 26 minutos en coche, Alicante 208km/ 2 horas, Málaga 290km/ 2 horas 52 minutos en coche. 3 Campos de golf Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas del Almanzora: Fuentes del Desierto. * Villa Serge — #ME 1833 * Chalet * Buen estado * 4 dormitorios * 3 cuartos de baño * Área de terreno 500 m² * Superficie construida 203 m² * Agua General * Luz General * Teléfono Posible * Internet Posible',
+        fr: "Villa contemporaine de 4 chambres à coucher et 3 salles de bains avec un appartement indépendant, à seulement 2 minutes à pied de la plage, à vendre sur Mojacar Playa, Almeria, Andalousie. Il y a des escaliers depuis le parking jusqu'à la villa. En passant la porte d'entrée, on trouve un grand salon/salle à manger avec une cheminée et un accès à la terrasse donnant sur la plage à 50 mètres. À ce niveau, il y a également une cuisine moderne avec tous les appareils électroménagers, une chambre double avec des armoires encastrées, et une belle salle de bains avec douche. A l'étage, il y a 3 autres chambres doubles ; la chambre principale avec une salle de bain en suite avec une douche à l'italienne ; et une deuxième salle de bain avec 2 lavabos pour les deux autres chambres. Toutes les chambres ont des armoires encastrées, il y a une climatisation dans toute la villa (air chaud et froid), des fenêtres modernes à double vitrage et une finition générale de haute qualité dans toutes les salles de bains, la cuisine et la villa. Il y a une zone de jardin couverte de gazon artificiel et une zone d'assise à l'arrière de la villa où les propriétaires actuels ont installé une piscine hors sol temporaire (il y a de l'espace pour construire une plus grande piscine permanente). Une cuisine extérieure supplémentaire / BBQ et une zone de divertissement peuvent être trouvés à côté du jardin. Des marches mènent de cette zone de jardin plantée de palmiers jusqu'au côté de la villa et à une porte donnant sur la route en contrebas. L'allée avant est accessible par un grand portail électrique qui permet de garer plus de 2 voitures. Sous la villa, au niveau de la route, se trouve un appartement indépendant nouvellement converti, avec sa propre entrée privée, une petite cuisine, un coin salon, une chambre et une salle de bain avec douche, ainsi que son propre jardin. Cet appartement pourrait également être utilisé comme bureau. Cette villa offre également une opportunité de location fantastique pour les acheteurs qui cherchent à acheter et à utiliser pour les vacances, mais à louer pour les mois d'été où les villas de 5 chambres se louent très bien, surtout dans un emplacement privilégié de Mojacar Playa et si près de la mer, des bars et des restaurants. Le prix indiqué ne comprend pas les taxes et les frais dérivés de la vente (ITP au taux d'imposition actuel, frais de notaire, de greffe et d'avocat). Nous vous rappelons qu'en tant que consommateur, vous avez le droit d'être informé et de recevoir la documentation informative correspondante, selon le cas, sur la base des dispositions du décret 218/05 du 11 octobre qui régit le Règlement sur l'information du consommateur dans la vente et la location de logements en Andalousie. Emplacement A 50m de la promenade / plage et de nombreux restaurants populaires tels que Bella Vista, Martin Morales, Valery, Enrico etc. et l'une des meilleures plages de Mojacar : L'une des meilleures plages de Mojacar, \"Las Ventanicas\", se trouve à une courte distance à pied. Toutes les commodités de Mojacar et Garrucha sont à une courte distance en voiture. Distances approximatives de 4 aéroports locaux Almeria 70km/ 44 minutes en voiture, Murcia 145km/ 1 heure 26 minutes en voiture, Alicante 208km/ 2 heures, Malaga 290km/ 2 heures 52 minutes en voiture. 3 terrains de golf Mojacar : Marina de la Torre, Vera : Valle del Este, Cuevas del Almanzora : Desert Springs. * Villa Serge — #ME 1833 * Villa * Revente * 4 chambres à coucher * 3 salles de bains * Surface terrain 500 m² * Surface habitable 203 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
+        nl: "Hedendaagse 4 slaapkamer / 3 badkamer villa met annex, op slechts 2 minuten lopen van het strand te koop op Mojacar Playa, Almeria, Andalusië. Er is een trap vanaf de parkeerplaats naar de villa. Via de voordeur komt u in een grote zit/eetkamer met een open haard en toegang tot het terras aan de voorzijde met uitzicht op het strand op slechts 50 meter afstand. Op dit niveau is er ook een moderne keuken met alle apparatuur, een tweepersoons slaapkamer met ingebouwde kasten, en een mooie badkamer met douche. Boven zijn er nog 3 dubbele slaapkamers; de hoofdslaapkamer met een eigen badkamer met een inloopdouche; en een tweede badkamer met 2 wastafels voor de andere twee slaapkamers. Alle slaapkamers hebben ingebouwde kasten, er is AC in de hele villa (warme en koude lucht), moderne ramen met dubbele beglazing en over het algemeen een hoge kwaliteit afwerking van alle badkamers, keuken en villa. Er is een tuin bedekt met kunstgras en een zithoek aan de achterkant van de villa waar de huidige eigenaren een tijdelijk bovengronds zwembad hebben geïnstalleerd (er is ruimte om een groter permanent zwembad te bouwen). Een extra buitenkeuken / BBQ en entertainment gebied kan worden gevonden naast de tuin. Vanuit deze tuin, beplant met palmbomen, leidt een trap naar de zijkant van de villa en een poort naar de weg eronder. De oprit aan de voorkant is toegankelijk via een grote electrische poort die parkeerruimte biedt voor 2+ auto's. Onder de villa op straatniveau bevindt zich een pas verbouwd, zelfstandig appartement met een eigen ingang, met een kleine keuken, een zithoek, 1 slaapkamer en een badkamer met douche, plus een eigen tuingedeelte. Dit appartement kan ook worden gebruikt als kantoor. Deze villa zou ook een fantastische verhuur kans voor kopers op zoek te kopen en te gebruiken voor vakanties, maar verhuren voor de piek inkomen zomermaanden waar 5 slaapkamer villa's kan zeer goed te huur, vooral in een dergelijke toplocatie van Mojacar Playa en zo dicht bij de zee, bars en restaurants. De toegepaste tarieven zijn het hoogst en de koper kan, n.a.v. zijn kenmerken, profiteren van eventuele belastingaftrek. Het eigendom A. I. D. is beschikbaar op ons kantoor volgens het decreet 218/2005 van 11 oktober, dat de informatieverordening regelt voor de consument bij de aankoop van onroerend goed in Andalusië. Locatie 50m naar de promenade / strand en vele populaire restaurants zoals Bella Vista, Martin Morales, Valery, Enrico etc en een van de beste stranden van Mojacar: \"Las Ventanicas\" op slechts een korte wandeling afstand, alle voorzieningen van Mojacar en Garrucha zijn op korte rijafstand. Geschatte afstanden tot 4 lokale luchthavens Almeria 70km/ 44minuten in de auto, Murcia 145km/ 1 uur 26 minuten in de auto, Alicante 208km/ 2 uur, Malaga 290km/ 2 uur 52 minuten in de auto. 3 Golfbanen Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas del Almanzora: Desert Springs. * Villa Serge — #ME 1833 * Villa * Bestaande woning * 4 slaapkamers * 3 badkamers * Grond oppervlakte 500 m² * Bebouwde oppervlakte 203 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk",
+        de: 'Zeitgenössische Villa mit 4 Schlafzimmern / 3 Badezimmern und einem angeschlossenen Apartment, nur 2 Minuten zu Fuß vom Strand entfernt, zu verkaufen in Mojacar Playa, Almeria, Andalusien. Es gibt eine Treppe vom Parkplatz bis zu der Villa. Durch die Eingangstür gelangt man in ein großes Wohn-/Esszimmer mit Kamin und Zugang zur vorderen Terrasse mit Blick auf den nur 50 m entfernten Strand. Auf dieser Ebene befindet sich auch eine moderne Küche mit allen Geräten, ein Schlafzimmer mit Doppelbett und Einbauschränken sowie ein attraktives Badezimmer mit Dusche. Im Obergeschoss befinden sich 3 weitere Doppelschlafzimmer, das Hauptschlafzimmer mit einem eigenen Bad mit begehbarer Dusche und ein zweites Bad mit 2 Waschbecken für die beiden anderen Schlafzimmer. Alle Schlafzimmer haben Einbauschränke, es gibt eine Klimaanlage in der ganzen Villa (warme und kalte Luft), moderne doppelt verglaste Fenster und insgesamt eine hohe Qualität in allen Bädern, Küche und Villa zu beenden. Es gibt einen Gartenbereich, der mit Kunstrasen bedeckt ist, und einen Sitzbereich auf der Rückseite der Villa, wo die derzeitigen Eigentümer einen temporären oberirdischen Pool installiert haben (es gibt Platz, um einen größeren permanenten Pool zu bauen). Eine zusätzliche Außenküche / Grill und Unterhaltungsbereich befindet sich neben dem Garten. Eine Treppe führt von diesem mit Palmen bepflanzten Gartenbereich hinunter zur Seite der Villa und zu einem Tor, das auf die darunter liegende Straße führt. Die vordere Einfahrt ist durch ein großes elektrisches Tor zugänglich und bietet Platz für mehr als 2 Autos. Unterhalb der Villa auf Straßenebene befindet sich ein neu umgebautes, eigenständiges Apartment mit eigenem Eingang, einer kleinen Küche, einer Sitzecke, einem Schlafzimmer und einem Badezimmer mit Dusche sowie einem eigenen Gartenbereich. Diese Wohnung könnte auch als Büro genutzt werden. Diese Villa würde auch eine fantastische Vermietung Gelegenheit für Käufer auf der Suche zu kaufen und für den Urlaub nutzen, sondern vermieten für die Spitzeneinkommen Sommermonate, wo 5 Schlafzimmer Villen können sehr gut vermieten, vor allem in einer solchen Top-Lage von Mojacar Playa und so nah am Meer, Bars und Restaurants. Der angegebene Preis enthält nicht die Steuern und die mit dem Verkauf verbundenen Kosten (ITP zum aktuellen Steuersatz, Notar-, Register- und Anwaltskosten). Wir erinnern Sie daran, dass Sie als Verbraucher das Recht haben, informiert zu werden und je nach Fall die entsprechenden Informationsunterlagen zu erhalten, basierend auf den Bestimmungen des Dekrets 218/05 vom 11. Oktober, das die Vorschriften zur Verbraucherinformation beim Verkauf und der Vermietung von Wohnraum in Andalusien regelt. Standort 50m zur Promenade / Strand und vielen beliebten Restaurants wie Bella Vista, Martin Morales, Valery, Enrico etc. und einem der besten Strände von Mojacar: "Las Ventanicas" nur einen kurzen Spaziergang entfernt, alle Annehmlichkeiten von Mojacar und Garrucha sind eine kurze Fahrt entfernt. Ungefähre Entfernungen zu 4 lokalen Flughäfen Almeria 70km/ 44 Minuten mit dem Auto, Murcia 145km/ 1 Stunde 26 Minuten mit dem Auto, Alicante 208km/ 2 Stunden, Malaga 290km/ 2 Stunden 52 Minuten mit dem Auto. 3 Golfplätze Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas del Almanzora: Desert Springs. * Villa Serge — #ME 1833 * Villa * Weiterverkauf * 4 Schlafzimmer * 3 Bäder * Grundstückfläche 500 m² * Umbaute Fläche 203 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich',
       },
       images: {
         image: [
@@ -9742,12 +9628,6 @@ export const data = {
             url: "https://static.mojacarestates.com/propimgs/2/1833/xml_20689.jpg",
           },
           {
-            url: "https://static.mojacarestates.com/propimgs/2/1833/xml_20692.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/2/1833/xml_20691.jpg",
-          },
-          {
             url: "https://static.mojacarestates.com/propimgs/2/1833/xml_20693.jpg",
           },
           {
@@ -9759,7 +9639,7 @@ export const data = {
     },
     {
       id: 1819,
-      date: "2022-04-28 19:23:46",
+      date: "2022-04-28 22:00:46",
       ref: "ME 1819",
       price: 520000,
       currency: "EUR",
@@ -9860,11 +9740,10 @@ export const data = {
           },
         ],
       },
-      prime: 1,
     },
     {
       id: 1777,
-      date: "2022-06-10 00:37:50",
+      date: "2022-06-10 03:10:50",
       ref: "ME 1777",
       price: 499000,
       currency: "EUR",
@@ -9969,7 +9848,7 @@ export const data = {
     },
     {
       id: 1738,
-      date: "2018-08-10 18:25:50",
+      date: "2018-08-10 21:02:50",
       ref: "ME 1738",
       price: 90000,
       currency: "EUR",
@@ -10071,7 +9950,7 @@ export const data = {
     },
     {
       id: 1728,
-      date: "2023-02-03 14:26:39",
+      date: "2023-02-17 16:20:48",
       ref: "ME 1728",
       price: 900000,
       currency: "EUR",
@@ -10101,6 +9980,7 @@ export const data = {
         nl: "https://nl.mojacarestates.com/woning/1728/villa-in-mojacar",
         de: "https://de.mojacarestates.com/immobilien/1728/villa-in-mojacar",
       },
+      video_url: "https://youtu.be/0tgzjqpYDF8",
       desc: {
         en: "This is a beautiful country house style villa that has been built to the highest standards with thick walls, high ceilings (3.2m), tall windows and doors, handmade terracotta tiles and stunning views to the sea and the Cabrera mountains. The house sits on a hill in a wide valley surrounded by beautiful countryside with the Cabrera mountains stretching up behind. Dotted around the house are all kinds of trees including carobs, olives, palms, pines, figs, cypreses, jacarandas, acacias and fruit trees that include: pear, plum, cherry, peach, apple, orange, mandarine, lemon and lime. All the plants are on an integrated watering system. It is completely private, no neighbours overlook the property, which is a rare thing. The house measures 461 square metres on a plot that stretches over 43.489 square metres. The driveway leads to the grand entrance of the house, 3 steps take you up onto the porch with a small fish pond. The imposing front door opens into an entrance hall (with cupboards all the way along one wall) and double doors with stained glass windows that open into the inmense sitting-dining room, double height in one part. There are double windows all the way around the room. There is a large open fireplace with an elegant mantelpiece. The windows lead out onto a terrace with panoramic views to the sea. Part of the room is the study/office area with desk and bookshelves. The high ceilings make it incredibly spacious. The large, fully fitted, kitchen is off to the left with windows to the terrace and entrance. It has a breakfast table, double fridge and fabulous views of the mountains from the kitchen sink. All the doors and windows are much higher than the normal height. The carpentry of the doors, wardrobes and floors is of a very high quality with a beautiful finish. From the terrace with panoramic views you walk into the terraced garden filled with indigenous plants such as broom, lavander, rosemary, fennel, ivy, prickly pear cactus, asparagus, galan de noche and esparto grass. This is all fitted with a watering system. The owners´ intention was always to keep the garden filled with indigenous plants so as to be as much in keeping with the surrounding protected countryside. The outside buildings have been built to have a low impact on the environment. From the sitting room there are stairs up to the bedrooms and down to the basement. Here on the landing level is a guest cloakroom with a window and a heated towel rail. Upstairs on the first floor are the 3 large double bedrooms with en suite bathrooms. The master bedroom has 2 tall, large double windows that lead out onto a terrace. One of the walls is covered in honeysuckle. There is a dressing area with plenty of wardrobes made of solid wood and an ensuite spacious bathroom with shower and a heated towel rail and a window for natural light. The second bedroom is very large and easily accomodates a double bed and a single bed with room for further beds should it be necessary. 2 balconies look out onto the mountains. There are solid wood wardrobes all along one wall of the room (fitted inside with drawers and rails) and a good sized ensuite bathroom with a Jacuzzi bath, window and heated towel rail. The third bedroom is also large and has a balcony with views to the sea. Fitted solid wood wardrobes along one entire wall of the room and an ensuite bathroom with shower, heated towel rail and instead of a window there is a skylight. All 3 bedrooms have solid wood floors and are equipped with AC units and central heating that is fuelled by diesel. All the bathrooms have beautiful handmade tiles. There is double glazing throughout the house and all the windows are made from excellent quality aluminium as well as the external shutters. The solid wood carpentry is beautifully finished. Stairs lead up to another floor with a walkway that crosses part of the sitting room and then takes you out onto an enormous terrace that covers the entire roof area of the house. From here there are 360º views of the mountains and the sea. The owner has made a pre-installation for solar panels for hot water and there is also a tap for watering. In the basement there is a large games room with sofas and a large open fireplace that draws perfectly. There are windows for natural light. There is a bathroom with shower and a window to the front of the house. There is a separate store room that houses the washing machine and tumble dryer and another room for the filter system and descaling filter. The garage is open to the games room and has plenty of room for 2 cars. The garage is fitted with an electric door. The pool is a short walk from the house, down some steps made from reclaimed wood. The pool is heated and covered (cover can be removed) and measures 15m x 3.5m. Next to the pool is a Jacuzzi in an enclosed glass area. The land is planted with 265 olive trees (125 arbequinos and 140 mediterranea or del país which produce roughly 2000 kilos of olives). There is a water deposit (100m3) that is filled from a natural water source in the mountain and the finca is alloted 2 hours every 24 hours from 11 to 1pm (about 50,000 litres of water). The water can be stored in the water deposit of 100 m3. The property is also connnected to water on the mains. Below the pool area is a hut with another water filter and heating for the pool, plus an enclosure for dogs. Part of the land surrounding the house has been fenced off to allow for dogs to roam freely within this area. It is accessed through an electric gate. All kinds of fauna can be seen in this beautiful corner of Mojacar including rabbits, wild boar, foxes, moles, tortoises, lizards, owls, partridges, humming birds. The house has been built with thick walls and very good insulation, terracota tiles inside and out, solid wood floors in the bedrooms, arched excellent quality double glazed windows in aluminium frames with outside slated shutters, AC units (hot and cold air) as well as central heating fuelled by gasoil in all rooms, high ceilings measuring 3.2m and a video phone security gate entrance. The house is located between the villages of Turre and Mojacar, and is close to all the services and amenities provided by these. The road leading to the house is tarmac all the way, and this goes right up to the front door. This is a house that must be seen to be appreciated! * Cortijo Las Zorreras — #ME 1728 * Villa * Resale * 3 bedrooms * 4 bathrooms * + Cloakroom / WC * Land area 6.7 hectares * Constructed area 461 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible",
         es: "Se trata de una vivienda impactante, de estilo rústico- tradicional almeriense, que ha sido edificada con los más altos estándares constructivos, gruesos muros, altos techos (3,20m), altos ventanales y puertas, suelo de mármol de Macael (Almería) con losas de 50 x 50 biseladas manualmente y unas vistas impresionantes al mar comprendido entre Mojácar (Almería) y cabo Cope (Murcia);al interior los pueblos de Vera, Antas, Turre y Cuevas del Almanzora, todo el valle de Mojácar y más próximo, el precioso y recoleto valle de La Alcantarilla y la singular Sierra Cabrera. La casa se encuentra en una colina que bordea un amplio valle, en la ladera de las montañas de Sierra Cabrera. Alrededor de la casa hay toda clase de árboles como Algarrobos, Olivos, Palmeras Pinos, Higueras, Cipreses, Jacarandas, Acacias; árboles frutales: Peral, Ciruelo, Cerezo, Melocotonero, Manzano, Naranjo, Mandarino, Limonero, Granado y Limas. Todas las plantas están con un sistema de riego por goteo integrado. La casa mide 461 metros cuadrados y se extiende sobre sobre un terreno de 43.489 metros cuadrados. La vivienda que se encuentra en una finca de más de 54.000m2, es totalmente privada y sin vecinos, lo cual es excepcional. El camino, todo asfaltado, conduce a la grandiosa entrada de la casa; tres escalones te llevan al porche junto a un estanque con pequeños peces. La imponente puerta principal, se abre a un hall con armarios a todo lo largo de una pared; una puerta de madera de dos hojas con vidrieras emplomadas con más de 150 años de antigüedad, da paso directamente a la inmensa sala estar- comedor- despacho. Toda esta planta está comunicada con el exterior mediante ventanales dobles. Hay una elegante y gran chimenea de típico estilo almeriense. Los ventanales dan a una terraza circundante con grandes vistas panorámicas. Los techos altos, hacen que toda la planta sea increíblemente espaciosa y el castillete contiguo de más de 8m de altura, contribuye a proporcionar aún más volumen, así como a mejorar de forma natural la climatización de toda la planta. La amplia cocina está totalmente equipada y con salida directa al porche y a la terraza contigua. Sobre el fregadero hay una ventana doble desde dónde se puede admirar unas fabulosas vistas de Sierra Cabrera. Todas las puertas y ventanas tienen una altura superior a la normal. La carpintería de las puertas, armarios y suelos de los dormitorios es de muy alta calidad y con un bello acabado. Desde la terraza que rodea toda la casa con vistas panorámicas, se llega al jardín donde hay abundantes plantas autóctonas, cómo Retama, Lavanda, Romero, Hinojo, Hiedra, Chumbera, Esparraguera, Galán de noche, Ricasoleana o Esparto. También todas estas plantas disponen de un sistema automático de riego por goteo. La intención de los propietarios fue siempre mantener el jardín con plantas autóctonas a fin de estar en armonía con el Medio Ambiente que le rodea. Igualmente se han construido los edificios exteriores de manera que tienen un impacto medioambiental muy bajo. Desde el salón se accede a un distribuidor dónde está el aseo con wáter y lavabo para el servicio de la planta baja y una doble escalera qué bajando nos lleva al sótano y garaje y subiendo nos conduce a la planta de dormitorios y a la terraza superior. En la primera planta hay tres amplios dormitorios con baños en suite . El dormitorio principal tiene dos ventanales dobles que dan a una bonita terraza con espléndidas vistas. En la terraza, uno de los muros está cubierto de madreselva. El dormitorio tiene un doble vestidor con muchos armarios de madera y un amplio cuarto de baño completo con ventana al exterior. El segundo dormitorio es muy grande y fácilmente se puede instalar una o varias camas en función de las necesidades. Dos balcones dan a la montaña y al resto de la propiedad. Hay armarios de madera maciza a lo largo de una pared y su cuarto de baño completo, dispone de una bañera de hidromasaje y un ventanal con las mismas vistas. El tercer dormitorio también es grande y tiene un balcón con vistas al mar y al interior. Tiene armario empotrado de madera maciza a lo largo de toda una pared y un cuarto de baño completo. La luz natural la recibe a través de una gran claraboya cenital. Los tres dormitorios tienen los suelos de parquet y están equipados con unidades independientes de aire acondicionado frío/calor. Igualmente disponen de calefacción central mediante radiadores de agua caliente calentada con gasoil. Los cuartos de baño tienen azulejos diferentes y hechos a mano. Hay doble acristalamiento en todas las ventanas y están hechas con aluminio de excelente calidad; así como las contraventanas exteriores, que igual que todas las de la casa están provistas de lamas regulables (mallorquinas). La carpintería interior es de madera y tiene un acabado muy bonito. Subiendo las escaleras que te llevan a la planta de las terrazas, atravesamos por un pasillo con baranda por el castillete a través de la sala de estar-comedor y salimos a una terraza enorme con diferentes niveles que cubre toda la superficie del techo de la casa. Desde aquí hay increíbles vistas de 360º. En una de las terrazas hay una preinstalación para poner paneles solares para agua caliente. Las terrazas disponen de agua para riego de plantas y limpieza. En el sótano hay una sala grande con una inmensa chimenea de perfecto funcionamiento. Tiene doble ventana para luz natural y un cuarto de baño con wáter y ducha y ventana al exterior. Tiene 2 habitaciones independientes, una para lavadora, secadora y despensa y otra para el filtro de agua, la descalcificadora, caldera para calefacción y agua caliente y depósito de gasoil. El garaje para dos coches, está comunicado con el resto del sótano y por el otro lado con el exterior a través de una puerta abatible mediante mando a distancia. A la piscina, que está a pocos pasos de la casa, se llega bajando una bonita escalera de piedra del lugar; mide 15 x 3,50 x 2 m; tiene una cubierta desmontable y está climatizada mediante bomba de calor. Comunicado con la piscina hay un Spa Sundance de seis plazas también cubierto. Ambas instalaciones, piscina y spa, se pueden disfrutar en todas las estaciones del año. Si bajamos otra pequeña escalera hecha con piedras del próximo río Aguas, tenemos el cuarto de la depuradora y cuadro de maniobras de la piscina y spa y unidas a este hay dos perreras y un almacén agrícola. En la propiedad hay 265 Olivos (125 arbequinos y 140 del país o mediterráneos) qué en la campaña 2017 produjeron unos 2000 kg de aceituna equivalentes a unos 400 litros de aceite de “excelente calidad”. Hay una balsa (100m2) que se llena con una fuente de agua natural de la montaña y de la que la finca dispone de 2 horas de agua de ese manantial cada 12 días, con un caudal total aproximado de 50m3. Hay aproximadamente 2 hectáreas de terreno apto para agricultura. De los aproximadamente 54.000m2 de la finca, 20.000m2 han sido cerrados mediante cerca metálica y cerca eléctrica, con lo que se consigue un buen control de perros y otros animales. Integrada en la cerca metálica se encuentra la puerta, también metálica, por la que se accede a la propiedad; la apertura y cierre de esta puerta se realiza mediante mando a distancia. Todo tipo de fauna puede verse en este bello rincón de Mojácar como Conejos, Jabalíes, Zorros, Topos, Tortugas, Lagartos, Águilas, Búhos, Perdices rojas, Jilgueros, Urracas y muchos más. La casa ha sido construida con paredes gruesas y muy buen aislamiento; baldosas de terracota en el exterior y mármol y parquet en el interior; dobles ventanales con arco de medio punto rebajado, de excelente calidad y marco de aluminio con contraventana de lamas, por lo que se puede regular la luz natural para conseguir el ambiente deseado. Toda la casa dispone de aire acondicionado y calefacción central alimentada mediante caldera de gasoil. La puerta principal de entrada a la casa es de doble hoja de madera maciza con sistema de seguridad. La propiedad se encuentra ubicada en dirección Este a 2,5 km de Mojácar y a 5 km de la playa y en dirección oeste a 2,5 km de Turre y a 5 km de la autovía A7 por lo que disfruta de todas las comodidades y servicios en un radio máximo de 5 km. Todo por carretera asfaltada hasta la puerta de la propia vivienda. ¡¡Para apreciar de verdad esta casa, es necesario ir a verla!! * Cortijo Las Zorreras — #ME 1728 * Chalet * Buen estado * 3 dormitorios * 4 cuartos de baño * + Aseo * Área de terreno 6.7 hectáreas * Superficie construida 461 m² * Agua General * Luz General * Teléfono Posible * Internet Posible",
@@ -10176,7 +10056,7 @@ export const data = {
     },
     {
       id: 1719,
-      date: "2021-09-30 22:15:52",
+      date: "2021-09-30 23:53:52",
       ref: "ME 1719",
       price: 490000,
       currency: "EUR",
@@ -10281,7 +10161,7 @@ export const data = {
     },
     {
       id: 1708,
-      date: "2022-12-21 16:37:01",
+      date: "2022-12-21 18:07:01",
       ref: "ME 1708",
       price: 155000,
       currency: "EUR",
@@ -10371,10 +10251,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 1680,
-      date: "2019-10-10 02:04:16",
+      date: "2019-10-10 04:41:16",
       ref: "ME 1680",
       price: 118000,
       currency: "EUR",
@@ -10475,10 +10356,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 1502,
-      date: "2021-03-19 05:11:12",
+      date: "2021-03-19 07:50:12",
       ref: "ME 1502",
       price: 695000,
       currency: "EUR",
@@ -10565,10 +10447,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 1437,
-      date: "2022-12-28 16:31:41",
+      date: "2022-12-28 19:08:41",
       ref: "ME 1437",
       price: 460000,
       currency: "EUR",
@@ -10670,10 +10553,11 @@ export const data = {
           },
         ],
       },
+      prime: 1,
     },
     {
       id: 1431,
-      date: "2022-12-28 14:54:37",
+      date: "2022-12-28 17:29:37",
       ref: "ME 1431",
       price: 290000,
       currency: "EUR",
@@ -10772,11 +10656,10 @@ export const data = {
           },
         ],
       },
-      prime: 1,
     },
     {
       id: 1315,
-      date: "2021-12-28 23:54:28",
+      date: "2021-12-29 02:26:28",
       ref: "ME 1315",
       price: 699500,
       currency: "EUR",
@@ -10882,7 +10765,7 @@ export const data = {
     },
     {
       id: 1269,
-      date: "2023-01-13 18:14:41",
+      date: "2023-01-13 19:51:41",
       ref: "ME 1269",
       price: 790000,
       currency: "EUR",
@@ -10988,7 +10871,7 @@ export const data = {
     },
     {
       id: 1237,
-      date: "2022-12-30 18:11:02",
+      date: "2023-02-15 18:46:49",
       ref: "ME 1237",
       price: 899000,
       currency: "EUR",
@@ -11018,7 +10901,7 @@ export const data = {
         nl: "https://nl.mojacarestates.com/woning/1237/villa-in-mojacar",
         de: "https://de.mojacarestates.com/immobilien/1237/villa-in-mojacar",
       },
-      video_url: "https://www.youtube.com/v/VjCi5ib3pRI",
+      video_url: "https://youtu.be/EisZrpzDeOA",
       desc: {
         en: 'Unique luxury front line villa in Mojacar, in elevated position overlooking the sea and the beach of Macenas. This very special villa has a constructed area measuring 325m² and is distributed into the main house, separate apartment and a gym. The house is built on 4500m². The villa comprises in the main house: 3 double bedrooms, 2 en-suite bathrooms and a shower room, large American kitchen, lounge-diner with open-fire place. Utility room. Access to various outside sitting areas covered and uncovered. On the ground floor is a guest apartment comprising of a double bedroom, shower room and kitchenette. Independent entrance to the gym with built-in bar and an extra room/5th bedroom (although separate to the main house). This extra fifth bedroom would make an excellent office to work from home or the apartment itself lends to being an office space with independent kitchen and bathroom. Large workshop. Double garage. Private swimming pool with water fall. The property enjoys a large area of landscaped gardens. The property has AC/H throughout the house. Aluminium double glazing. Fly blinds and aluminium shutters. Video entry system. Location On the Google map click on "enlarge map" and the exact location of the property in Macenas, Mojacar is marked with the pin. Airports Almeria airport is a 45-minute drive, Murcia airport is 1 hour 20 minutes, Alicante airport is 2 hours and Malaga airport is 2 hours 45 minutes. 4 Golf Courses Mojacar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpi: Aguilon Golf. The indicated price does not include the taxes and expenses derived from the sale (ITP at the current tax rate, notary, registration and lawyer fees). We remind you that as a consumer you have the right to be informed and given the corresponding informative documentation, depending on the case, based on the provisions of Decree 218/05 of 11 October which regulates the Regulations on Consumer Information in the sale and rental of housing in Andalusia. About Us Mojacar Estates have been running successfully as an independent property sales and holiday rentals agency since 1982. Our dedicated team, who have all been working within this industry for more than 20 years, offer a professional and knowledgeable service to our clients. Our team speaks fluent Spanish, English and German. We offer properties for sale and rental in Mojacar and surrounding areas of Almeria, including Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos and San Juan de los Terreros. * Casa Limon — #ME 1237 * Villa * Resale * 5 bedrooms * 4 bathrooms * Land area 4,500 m² * Constructed area 325 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible',
         es: "Chalet de lujo en primera linea de playa situado en posición elevada con vistas panorámicas al mar y a la playa de Macenas. Esta casa especial tiene 325m² construidos y está distribuida en casa principal, apartamento para huéspedes gimnasio con bar. La parcela mide 4500m². La casa principal tiene 3 dormitorios dobles, 2 con baño incorporado y un baño con ducha, una cocina enorme estilo americano, salón-comedor con chimenea de gas, lavadero. Varias terrazas alrededor de la casa cubiertas y descubiertas. El apartamento tiene un dormitorio doble, un baño y una kitchenette. Acceso independiente al gimnasio con bar, y una habitación extra/ 5º dormitorio. El quinto dormitorio o el apartamento en sí se prestan a ser oficina / despacho independiente. Taller grande. Garaje doble. Piscina privada con cascada. La casa disfruta de una zona enorme de jardín diseñado. Aire acondicionado con bomba de calor en toda la casa. Ventanas de aluminio y doble cristal con mosquiteras y mallorquinas. Vídeo portero. Ubicación En el mapa de Google haga clic en el mapa de ampliación y la ubicación exacta de la propiedad en Macenas, Mojacar está marcada con el pin. Aeropuertos El aeropuerto de Almería está a 45 minutos en coche, el de Murcia a 1 hora y 20 minutos, el de Alicante a 2 horas y el de Málaga a 2 horas y 45 minutos. 4 campos de golf Mojácar: Marina de la Torre, Vera: Valle del Este, Cuevas de Almanzora: Desert Springs, Pulpí: Aguilón Golf. El precio indicado no incluye los impuestos y gastos derivados de la venta (ITP al tipo impositivo vigente, gastos de notaría, registro y abogado). Le recordamos que como consumidor tiene derecho a ser informado y a que se le entregue la documentación informativa correspondiente, según el caso, en base a lo establecido en el Decreto 218/05, de 11 de octubre, por el que se regula el Reglamento de Información al Consumidor en la venta y alquiler de viviendas en Andalucía. Sobre nosotros Mojácar Estates lleva funcionando con éxito como agencia independiente de venta y alquiler de viviendas desde 1982. Nuestro equipo, que lleva más de 20 años trabajando en este sector, ofrece un servicio profesional y experto a nuestros clientes. Nuestro equipo habla con fluidez español, inglés y alemán. Ofrecemos propiedades en venta y alquiler en Mojácar y en las zonas circundantes de Almería, incluyendo Turre, Garrucha, Vera Playa, Los Gallardos, Villaricos y San Juan de los Terreros. * Casa Limon — #ME 1237 * Chalet * Buen estado * 5 dormitorios * 4 cuartos de baño * Área de terreno 4,500 m² * Superficie construida 325 m² * Agua General * Luz General * Teléfono Posible * Internet Posible",
@@ -11029,13 +10912,13 @@ export const data = {
       images: {
         image: [
           {
-            url: "https://static.mojacarestates.com/propimgs/2/1237/xml_48429.jpg",
+            url: "https://static.mojacarestates.com/propimgs/2/1237/xml_59378.jpg",
           },
           {
             url: "https://static.mojacarestates.com/propimgs/2/1237/xml_48432.jpg",
           },
           {
-            url: "https://static.mojacarestates.com/propimgs/2/1237/xml_51927.jpg",
+            url: "https://static.mojacarestates.com/propimgs/2/1237/xml_48429.jpg",
           },
           {
             url: "https://static.mojacarestates.com/propimgs/2/1237/xml_48414.jpg",
@@ -11048,9 +10931,6 @@ export const data = {
           },
           {
             url: "https://static.mojacarestates.com/propimgs/2/1237/xml_48420.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/2/1237/xml_48431.jpg",
           },
           {
             url: "https://static.mojacarestates.com/propimgs/2/1237/xml_48421.jpg",
@@ -11088,13 +10968,15 @@ export const data = {
           {
             url: "https://static.mojacarestates.com/propimgs/2/1237/xml_48415.jpg",
           },
+          {
+            url: "https://static.mojacarestates.com/propimgs/2/1237/xml_48431.jpg",
+          },
         ],
       },
-      prime: 1,
     },
     {
       id: 1236,
-      date: "2022-12-21 16:05:54",
+      date: "2022-12-21 18:45:54",
       ref: "ME 1236",
       price: 895000,
       currency: "EUR",
@@ -11199,7 +11081,7 @@ export const data = {
     },
     {
       id: 1165,
-      date: "2021-12-28 21:16:56",
+      date: "2021-12-28 23:47:56",
       ref: "ME 1165",
       price: 95000,
       currency: "EUR",
@@ -11276,113 +11158,8 @@ export const data = {
       prime: 1,
     },
     {
-      id: 2548,
-      date: "2022-08-18 22:35:38",
-      ref: "ME 2548",
-      price: 279000,
-      currency: "EUR",
-      price_freq: "sale",
-      type: "Town House",
-      town: "Garrucha",
-      province: "Almeria",
-      location: {
-        latitude: 37.186855,
-        longitude: -1.818507,
-      },
-      beds: 4,
-      baths: 4,
-      pool: 0,
-      surface_area: {
-        built: 147,
-        plot: 0,
-      },
-      energy_rating: {
-        consumption: "X",
-        emissions: "X",
-      },
-      url: {
-        en: "https://mojacarestates.com/property/2548/town-house-in-garrucha",
-        es: "https://es.mojacarestates.com/propiedad/2548/duplex-en-garrucha",
-        fr: "https://fr.mojacarestates.com/propriete/2548/maison-de-ville-en-garrucha",
-        nl: "https://nl.mojacarestates.com/woning/2548/rijtjeshuis-in-garrucha",
-        de: "https://de.mojacarestates.com/immobilien/2548/reihenhaus-in-garrucha",
-      },
-      desc: {
-        en: "FIRST LINE IN GARRUCHA!!! In one of the best developments in Garrucha for sale LUXURY triplex next to Sport harbour of Garrucha. Located in the Puerto y Playa building. The house is on the corner and has 147 m2 plus the terrace. It is distributed over 3 floors. The house has its independent entranceby the Paseo Marítimo. On the main floor there is a spacious living room, a guest toilet and a fully equipped independent kitchen. Upstairs we have 3 double bedrooms (two of them with frontal sea views) and fitted closets and two bathrooms. In the semi basement floor we have a service bedroom with closet and bathroom, plus a storage room and access door to the garage area. The house is sold unfurnished, with fully equipped kitchen. It has air conditioning, alarm installed, security door, double glazed aluminum windows for perfect insulation, electric shutters and intercom. The parking space is included in the price. * Triplex Puerto Y Playa — #ME 2548 * Town House * 4 bedrooms * 4 bathrooms * Constructed area 147 m² * Water Mains * Electricity Mains * Telephone Possible * Internet Possible",
-        es: "PRIMERA LINEA EN GARRUCHA!!! En una de las mejores Urbanizaciones de Garrucha se vende triplex de LUJO junto al Puerto Deportivo de Garrucha. Situado en el Edificio Puerto y Playa. La Vivienda esta en esquina y tiene 147 m2 más la terraza. Esta distribuida en 3 plantas. La vivienda tiene su entrada, independiente, por el Paseo Marítimo. En la planta principal tiene un amplio salón comedor, un aseo de invitados y cocina independiente totalmente equipada En planta superior tenemos 3 dormitorios dobles (dos de ellos con vistas frontales al mar) y armarios empotrados y dos cuartos de baño. En la Planta semi sótano tenemos un dormitorio de servicio con armario y baño, además de un trastero y puerta de acceso a la zona de garaje. La vivienda se vende sin muebles, con la cocina completamente equipada. Dispone de aire acondicionado, alarma instalada, puerta de seguridad, ventanas de aluminio de doble cristal para un perfecto aislamiento, persianas eléctricas y portero electrónico La plaza de garaje esta incluida en precio. Visitas sin compromiso!!! * Triplex Puerto Y Playa — #ME 2548 * Duplex * 4 dormitorios * 4 cuartos de baño * Superficie construida 147 m² * Agua General * Luz General * Teléfono Posible * Internet Posible",
-        fr: "PREMIÈRE LIGNE À GARRUCHA!!! Dans l’un des meilleurs développements de Garrucha à vendre triplex de luxe à côté du port de sport de Garrucha. Situé dans le bâtiment Puerto y Playa. La maison est sur le coin et a 147 m2 plus la terrasse. Il est réparti sur 3 étages. La maison a son entrée indépendante par le Paseo Marítimo. Au rez-de-chaussée, il y a un salon spacieux, des toilettes invités et une cuisine indépendante entièrement équipée. A l’étage, nous avons 3 chambres doubles (deux d’entre elles avec vue frontale sur la mer) et placards et deux salles de bains. Au demi-sous-sol, nous avons une chambre de service avec placard et salle de bains, plus une salle de stockage et une porte d’accès au garage. La maison est vendue non meublée, avec cuisine entièrement équipée. Il dispose de la climatisation, d’une alarme installée, d’une porte de sécurité, de fenêtres en aluminium à double vitrage pour une isolation parfaite, de volets électriques et d’un interphone. La place de parking est incluse dans le prix. * Triplex Puerto Y Playa — #ME 2548 * Maison de Ville * 4 chambres à coucher * 4 salles de bains * Surface habitable 147 m² * L’eau Secteur * Électricité Secteur * Téléphonique Possible * Internet Possible",
-        nl: "EERSTE LIJN IN GARRUCHA!!! In een van de beste ontwikkelingen in Garrucha te koop LUXE triplex naast sporthaven van Garrucha. Gelegen in het Puerto y Playa gebouw. Het huis ligt op de hoek en heeft 147 m2 plus het terras. Het is verdeeld over 3 verdiepingen. Het huis heeft een eigen ingang aan de Paseo Marítimo. Op de begane grond is er een ruime woonkamer, een gastentoilet en een volledig uitgeruste onafhankelijke keuken. Boven hebben we 3 slaapkamers (twee van hen met frontaal uitzicht op zee) en ingerichte kasten en twee badkamers. In de semi-kelderverdieping hebben we een serviceslaapkamer met kast en badkamer, plus een berging en toegangsdeur naar de garage. Het huis wordt ongemeubileerd verkocht, met volledig uitgeruste keuken. Het heeft airconditioning, alarm geïnstalleerd, veiligheidsdeur, dubbele beglazing aluminium ramen voor perfecte isolatie, elektrische rolluiken en intercom. De parkeerplaats is bij de prijs inbegrepen. * Triplex Puerto Y Playa — #ME 2548 * Rijtjeshuis * 4 slaapkamers * 4 badkamers * Bebouwde oppervlakte 147 m² * Water Hoofdnet * Electriciteit Hoofdnet * Telefoon Mogelijk * Internet Mogelijk",
-        de: "ERSTE ZEILE IN GARRUCHA!!! In einer der besten Entwicklungen in Garrucha zum Verkauf LUXURY triplex neben dem Sporthafen von Garrucha. Das Hotel liegt im Gebäude Puerto y Playa. Das Haus liegt an der Ecke und hat 147 m2 plus die Terrasse. Es ist auf 3 Etagen verteilt. Das Haus hat seinen unabhängigen Eingang am Paseo Marítimo. Im Erdgeschoss gibt es ein geräumiges Wohnzimmer, ein Gäste-WC und eine voll ausgestattete separate Küche. Im Obergeschoss haben wir 3 Doppelzimmer (zwei davon mit direktem Meerblick) und Einbauschränke und zwei Badezimmer. Im Souterrain haben wir ein Service-Schlafzimmer mit Schrank und Bad sowie einen Abstellraum und eine Zugangstür zum Garagenbereich. Das Haus wird unmöbliert verkauft, mit voll ausgestatteter Küche. Es verfügt über Klimaanlage, Alarm installiert, Sicherheitstür, doppelt verglaste Aluminiumfenster für perfekte Isolierung, elektrische Rollläden und Gegensprechanlage. Der Parkplatz ist im Preis inbegriffen. * Triplex Puerto Y Playa — #ME 2548 * Reihenhaus * 4 Schlafzimmer * 4 Bäder * Umbaute Fläche 147 m² * Wasser Netz * Strom Netz * Telefon Möglich * Internet Möglich",
-      },
-      images: {
-        image: [
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56181.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56182.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56183.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56184.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56185.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56186.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56187.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56188.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56189.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56190.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56191.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56192.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56193.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56194.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56195.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56196.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56197.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56198.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56199.jpg",
-          },
-          {
-            url: "https://static.mojacarestates.com/propimgs/3/2548/xml_56200.jpg",
-          },
-        ],
-      },
-      prime: 1,
-    },
-    {
       id: 2540,
-      date: "2022-11-16 18:36:52",
+      date: "2023-02-09 20:18:53",
       ref: "ME 2540",
       price: 154000,
       currency: "EUR",
@@ -11448,7 +11225,7 @@ export const data = {
     },
     {
       id: 2356,
-      date: "2022-08-18 22:53:46",
+      date: "2022-08-19 00:32:46",
       ref: "ME 2356",
       price: 225000,
       currency: "EUR",
@@ -11551,7 +11328,7 @@ export const data = {
     },
     {
       id: 2049,
-      date: "2022-08-18 22:55:44",
+      date: "2022-08-19 00:41:44",
       ref: "ME 2049",
       price: 40000,
       currency: "EUR",
@@ -11605,7 +11382,7 @@ export const data = {
     },
     {
       id: 2047,
-      date: "2022-08-18 22:48:10",
+      date: "2022-08-19 00:25:10",
       ref: "ME 2047",
       price: 50000,
       currency: "EUR",
